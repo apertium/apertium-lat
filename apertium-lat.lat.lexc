@@ -1,0 +1,132 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!   M O R P H O L O G I C A L · T R A N S D U C E R · F O R · L A T I N    !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+Multichar_Symbols
+
+%<n%> 
+
+%<nom%>            
+%<gen%>            
+%<dat%>            
+%<acc%>            
+%<voc%>            
+%<abl%>          
+
+%<sg%> 
+%<pl%> 
+
+
+
+LEXICON Root
+
+Nouns ;
+Adjectives ;
+
+LEXICON CASE1
+
+%<n%>%<sg%>%<nom%>:a  # ;
+%<n%>%<sg%>%<gen%>:ae # ;
+%<n%>%<sg%>%<dat%>:a  # ;
+%<n%>%<sg%>%<acc%>:am # ;
+%<n%>%<sg%>%<voc%>:a  # ;
+%<n%>%<sg%>%<abl%>:a  # ;
+%<n%>%<pl%>%<nom%>:ae # ;
+%<n%>%<pl%>%<gen%>:arum # ;
+%<n%>%<pl%>%<dat%>:is  # ;
+%<n%>%<pl%>%<acc%>:as  # ;
+%<n%>%<pl%>%<voc%>:ae  # ;
+%<n%>%<pl%>%<abl%>:is  # ;
+
+
+
+LEXICON CASE1-PL-TANT 
+
+%<n%>%<pl%>%<nom%>:ae # ;
+%<n%>%<pl%>%<gen%>:arum # ;
+%<n%>%<pl%>%<dat%>:is  # ;
+%<n%>%<pl%>%<acc%>:as  # ;
+%<n%>%<pl%>%<voc%>:ae  # ;
+%<n%>%<pl%>%<abl%>:is  # ;
+
+LEXICON CASE1-SG-TANT
+
+%<n%>%<sg%>%<nom%>:a  # ;
+%<n%>%<sg%>%<gen%>:ae # ;
+%<n%>%<sg%>%<dat%>:a  # ;
+%<n%>%<sg%>%<acc%>:am # ;
+%<n%>%<sg%>%<voc%>:a  # ;
+%<n%>%<sg%>%<abl%>:a  # ;
+
+
+!!!!!!! ADJECTIVES !!!!!!
+
+!!!! FIRST CLASS -US -A -UM
+
+LEXICON ADJ-CLASS1
+
+ADJ-CLASS-1-M ;
+ADJ-CLASS-1-F ;
+ADJ-CLASS-1-N ;
+
+!!!! FIRST CLASS M. !!!!
+
+LEXICON ADJ-CLASS-1-M 
+
+%<adj%>%<m%>%<sg%>%<nom%>:us # ;
+%<adj%>%<m%>%<sg%>%<gen%>:i # ;
+%<adj%>%<m%>%<sg%>%<dat%>:o # ;
+%<adj%>%<m%>%<sg%>%<acc%>:um # ;
+%<adj%>%<m%>%<sg%>%<voc%>:e # ;
+%<adj%>%<m%>%<sg%>%<abl%>:o # ;
+%<adj%>%<m%>%<pl%>%<nom%>:i # ;
+%<adj%>%<m%>%<pl%>%<gen%>:orum # ;
+%<adj%>%<m%>%<pl%>%<dat%>:is # ;
+%<adj%>%<m%>%<pl%>%<acc%>:os # ;
+%<adj%>%<m%>%<pl%>%<voc%>:i # ;
+%<adj%>%<m%>%<pl%>%<abl%>:is # ;
+
+
+LEXICON ADJ-CLASS-1-F
+
+%<adj%>%<f%>%<sg%>%<nom%>:a # ;
+%<adj%>%<f%>%<sg%>%<gen%>:ae # ;
+%<adj%>%<f%>%<sg%>%<dat%>:ae # ;
+%<adj%>%<f%>%<sg%>%<acc%>:am # ;
+%<adj%>%<f%>%<sg%>%<voc%>:a # ;
+%<adj%>%<f%>%<sg%>%<abl%>:a # ;
+%<adj%>%<f%>%<pl%>%<nom%>:ae # ;
+%<adj%>%<f%>%<pl%>%<gen%>:arum # ;
+%<adj%>%<f%>%<pl%>%<dat%>:is # ;
+%<adj%>%<f%>%<pl%>%<acc%>:as # ;
+%<adj%>%<f%>%<pl%>%<voc%>:ae # ;
+%<adj%>%<f%>%<pl%>%<abl%>:is # ;
+
+LEXICON ADJ-CLASS-1-N
+
+%<adj%>%<n%>%<sg%>%<nom%>:um # ;
+%<adj%>%<n%>%<sg%>%<gen%>:i # ;
+%<adj%>%<n%>%<sg%>%<dat%>:o # ;
+%<adj%>%<n%>%<sg%>%<acc%>:um # ;
+%<adj%>%<n%>%<sg%>%<voc%>:um # ;
+%<adj%>%<n%>%<sg%>%<abl%>:o # ;
+%<adj%>%<n%>%<pl%>%<nom%>:a # ;
+%<adj%>%<n%>%<pl%>%<gen%>:orum # ;
+%<adj%>%<n%>%<pl%>%<dat%>:is # ;
+%<adj%>%<n%>%<pl%>%<acc%>:a # ;
+%<adj%>%<n%>%<pl%>%<voc%>:a # ;
+%<adj%>%<n%>%<pl%>%<abl%>:is # ;
+
+
+
+
+LEXICON Nouns
+
+rosa:ros CASE1 ; ! "rose"
+Athenae:Athen CASE1-PL-TANT ; ! "Athens"
+sapientia:sapienti CASE1-SG-TANT ; ! "knowledge" ?
+
+LEXICON Adjectives 
+
+bonus:bon ADJ-CLASS1 ; ! "good"
