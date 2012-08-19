@@ -8,6 +8,7 @@ Multichar_Symbols
 !!! general pos !!!
 
 %<n%> 
+%<v%>
 
 !!! nominal cases !!!
 
@@ -16,7 +17,19 @@ Multichar_Symbols
 %<dat%>            
 %<acc%>            
 %<voc%>            
-%<abl%>          
+%<abl%>       
+
+!!! VERBAL MOODS !!!
+
+%<ind%>
+
+!!! VERBAL TENSES !!!
+
+%<pres%>
+
+!!! VERBAL TAGS !!!
+
+%<pass%>
 
 !!! Number !!!
 
@@ -35,6 +48,7 @@ LEXICON Root
 
 Nouns ;
 Adjectives ;
+Verbs ;
 
 LEXICON CASE1
 
@@ -78,58 +92,90 @@ LEXICON CASE1-SG-TANT
 
 LEXICON ADJ-CLASS1
 
-ADJ-CLASS-1-M ;
-ADJ-CLASS-1-F ;
-ADJ-CLASS-1-N ;
+%<adj%>: ADJ-CLASS-1-M ;
+%<adj%>: ADJ-CLASS-1-F ;
+%<adj%>: ADJ-CLASS-1-N ;
 
 !!!! FIRST CLASS M. !!!!
 
 LEXICON ADJ-CLASS-1-M 
 
-%<adj%>%<m%>%<sg%>%<nom%>:us # ;
-%<adj%>%<m%>%<sg%>%<gen%>:i # ;
-%<adj%>%<m%>%<sg%>%<dat%>:o # ;
-%<adj%>%<m%>%<sg%>%<acc%>:um # ;
-%<adj%>%<m%>%<sg%>%<voc%>:e # ;
-%<adj%>%<m%>%<sg%>%<abl%>:o # ;
-%<adj%>%<m%>%<pl%>%<nom%>:i # ;
-%<adj%>%<m%>%<pl%>%<gen%>:orum # ;
-%<adj%>%<m%>%<pl%>%<dat%>:is # ;
-%<adj%>%<m%>%<pl%>%<acc%>:os # ;
-%<adj%>%<m%>%<pl%>%<voc%>:i # ;
-%<adj%>%<m%>%<pl%>%<abl%>:is # ;
+%<m%>%<sg%>%<nom%>:us # ;
+%<m%>%<sg%>%<gen%>:i # ;
+%<m%>%<sg%>%<dat%>:o # ;
+%<m%>%<sg%>%<acc%>:um # ;
+%<m%>%<sg%>%<voc%>:e # ;
+%<m%>%<sg%>%<abl%>:o # ;
+%<m%>%<pl%>%<nom%>:i # ;
+%<m%>%<pl%>%<gen%>:orum # ;
+%<m%>%<pl%>%<dat%>:is # ;
+%<m%>%<pl%>%<acc%>:os # ;
+%<m%>%<pl%>%<voc%>:i # ;
+%<m%>%<pl%>%<abl%>:is # ;
 
 
 LEXICON ADJ-CLASS-1-F
 
-%<adj%>%<f%>%<sg%>%<nom%>:a # ;
-%<adj%>%<f%>%<sg%>%<gen%>:ae # ;
-%<adj%>%<f%>%<sg%>%<dat%>:ae # ;
-%<adj%>%<f%>%<sg%>%<acc%>:am # ;
-%<adj%>%<f%>%<sg%>%<voc%>:a # ;
-%<adj%>%<f%>%<sg%>%<abl%>:a # ;
-%<adj%>%<f%>%<pl%>%<nom%>:ae # ;
-%<adj%>%<f%>%<pl%>%<gen%>:arum # ;
-%<adj%>%<f%>%<pl%>%<dat%>:is # ;
-%<adj%>%<f%>%<pl%>%<acc%>:as # ;
-%<adj%>%<f%>%<pl%>%<voc%>:ae # ;
-%<adj%>%<f%>%<pl%>%<abl%>:is # ;
+%<f%>%<sg%>%<nom%>:a # ;
+%<f%>%<sg%>%<gen%>:ae # ;
+%<f%>%<sg%>%<dat%>:ae # ;
+%<f%>%<sg%>%<acc%>:am # ;
+%<f%>%<sg%>%<voc%>:a # ;
+%<f%>%<sg%>%<abl%>:a # ;
+%<f%>%<pl%>%<nom%>:ae # ;
+%<f%>%<pl%>%<gen%>:arum # ;
+%<f%>%<pl%>%<dat%>:is # ;
+%<f%>%<pl%>%<acc%>:as # ;
+%<f%>%<pl%>%<voc%>:ae # ;
+%<f%>%<pl%>%<abl%>:is # ;
 
 LEXICON ADJ-CLASS-1-N
 
-%<adj%>%<n%>%<sg%>%<nom%>:um # ;
-%<adj%>%<n%>%<sg%>%<gen%>:i # ;
-%<adj%>%<n%>%<sg%>%<dat%>:o # ;
-%<adj%>%<n%>%<sg%>%<acc%>:um # ;
-%<adj%>%<n%>%<sg%>%<voc%>:um # ;
-%<adj%>%<n%>%<sg%>%<abl%>:o # ;
-%<adj%>%<n%>%<pl%>%<nom%>:a # ;
-%<adj%>%<n%>%<pl%>%<gen%>:orum # ;
-%<adj%>%<n%>%<pl%>%<dat%>:is # ;
-%<adj%>%<n%>%<pl%>%<acc%>:a # ;
-%<adj%>%<n%>%<pl%>%<voc%>:a # ;
-%<adj%>%<n%>%<pl%>%<abl%>:is # ;
+%<n%>%<sg%>%<nom%>:um # ;
+%<n%>%<sg%>%<gen%>:i # ;
+%<n%>%<sg%>%<dat%>:o # ;
+%<n%>%<sg%>%<acc%>:um # ;
+%<n%>%<sg%>%<voc%>:um # ;
+%<n%>%<sg%>%<abl%>:o # ;
+%<n%>%<pl%>%<nom%>:a # ;
+%<n%>%<pl%>%<gen%>:orum # ;
+%<n%>%<pl%>%<dat%>:is # ;
+%<n%>%<pl%>%<acc%>:a # ;
+%<n%>%<pl%>%<voc%>:a # ;
+%<n%>%<pl%>%<abl%>:is # ;
 
+
+!!!!!!!!!!!!!!!!!!!
+!!! V E R B S !!!!!
+!!!!!!!!!!!!!!!!!!!
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!! FIRST CONJUGATION i.e. laudo/as/avi/atum/are!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON CONJ1 
+
+%<v%>: INDICATIVE-PRES1 ;
+%<v%>: INDICATIVE-PRES1-PASS ;
+
+
+LEXICON INDICATIVE-PRES1 
+
+%<ind%>%<pres%>%<sg%>%<p1%>:o # ;
+%<ind%>%<pres%>%<sg%>%<p2%>:as # ;
+%<ind%>%<pres%>%<sg%>%<p3%>:at # ;
+%<ind%>%<pres%>%<pl%>%<p1%>:amus # ;
+%<ind%>%<pres%>%<pl%>%<p2%>:atis # ;
+%<ind%>%<pres%>%<pl%>%<p3%>:ant # ;
+
+LEXICON INDICATIVE-PRES1-PASS
+
+%<ind%>%<pres%>%<pass%>%<sg%>%<p1%>:or # ;
+%<ind%>%<pres%>%<pass%>%<sg%>%<p2%>:aris # ;
+%<ind%>%<pres%>%<pass%>%<sg%>%<p3%>:atur # ;
+%<ind%>%<pres%>%<pass%>%<pl%>%<p1%>:amur # ;
+%<ind%>%<pres%>%<pass%>%<pl%>%<p2%>:amini # ;
+%<ind%>%<pres%>%<pass%>%<pl%>%<p3%>:antur # ;
 
 
 
@@ -142,3 +188,7 @@ sapientia:sapienti CASE1-SG-TANT ; ! "knowledge" ?
 LEXICON Adjectives 
 
 bonus:bon ADJ-CLASS1 ; ! "good"
+
+LEXICON Verbs 
+
+laudo:laud CONJ1 ; 
