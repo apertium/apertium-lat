@@ -5,7 +5,11 @@
 
 Multichar_Symbols
 
+!!! general pos !!!
+
 %<n%> 
+
+!!! nominal cases !!!
 
 %<nom%>            
 %<gen%>            
@@ -14,8 +18,16 @@ Multichar_Symbols
 %<voc%>            
 %<abl%>          
 
+!!! Number !!!
+
 %<sg%> 
 %<pl%> 
+
+!!! GEnere !!!
+
+%<m%>
+%<f%>
+%<n%>
 
 
 
