@@ -24,12 +24,16 @@ Multichar_Symbols
 %<ind%>
 %<cong%>
 %<imp%>
+%<inf%>
 
 !!! VERBAL TENSES !!!
 
 %<pres%>
 %<impf%>
 %<fut%>
+%<perf%>
+%<pperf%>
+%<pfut%>
 
 !!! VERBAL TAGS !!!
 
@@ -171,6 +175,7 @@ LEXICON CONJ1
 %<v%>: CONGIUNTIVE-IMPF1-PASS ;
 %<v%>: IMPERATIVE-PRESENT1 ;
 
+
 LEXICON INDICATIVE-PRES1 
 
 %<ind%>%<pres%>%<sg%>%<p1%>:o # ;
@@ -265,6 +270,75 @@ LEXICON IMPERATIVE-PRESENT1
 
 %<imp%>%<pres%>%<sg%>%<p2%>: a # ;
 %<imp%>%<pres%>%<pl%>%<p2%>: ate # ;
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!! REGULAR PERFECT  -i.e. Laudavi, Monui, Lexi, Audivi,!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON REGULAR-PERFECT
+
+%<v%>: INDICATIVE-PERF ;
+%<v%>: INDICATIVE-PPERF ;
+%<v%>: INDICATIVE-PFUT ;
+%<v%>: CONGIUNTIVE-PERF ;
+%<v%>: CONGIUNTIVE-PPERF ;
+%<v%>: INFINITE-PERFECT ;
+
+
+
+
+
+
+LEXICON INDICATIVE-PERF 
+
+%<ind%>%<perf%>%<sg%>%<p1%>:i # ;
+%<ind%>%<perf%>%<sg%>%<p2%>:isti # ;
+%<ind%>%<perf%>%<sg%>%<p3%>:it # ;
+%<ind%>%<perf%>%<pl%>%<p1%>:imus # ;
+%<ind%>%<perf%>%<pl%>%<p2%>:istis # ;
+%<ind%>%<perf%>%<pl%>%<p3%>:erunt # ;
+
+LEXICON INDICATIVE-PPERF
+
+%<ind%>%<pperf%>%<sg%>%<p1%>:eram # ;
+%<ind%>%<pperf%>%<sg%>%<p2%>:eras # ;
+%<ind%>%<pperf%>%<sg%>%<p3%>:erat # ;
+%<ind%>%<pperf%>%<pl%>%<p1%>:eramus # ;
+%<ind%>%<pperf%>%<pl%>%<p2%>:eratis # ;
+%<ind%>%<pperf%>%<pl%>%<p3%>:erant # ;
+
+LEXICON INDICATIVE-PFUT
+
+%<ind%>%<pfut%>%<sg%>%<p1%>:ero # ;
+%<ind%>%<pfut%>%<sg%>%<p2%>:eris # ;
+%<ind%>%<pfut%>%<sg%>%<p3%>:erit # ;
+%<ind%>%<pfut%>%<pl%>%<p1%>:erimus # ;
+%<ind%>%<pfut%>%<pl%>%<p2%>:eritis # ;
+%<ind%>%<pfut%>%<pl%>%<p3%>:erint # ;
+
+LEXICON CONGIUNTIVE-PERF 
+
+%<cong%>%<perf%>%<sg%>%<p1%>:erim # ;
+%<cong%>%<perf%>%<sg%>%<p2%>:eris # ;
+%<cong%>%<perf%>%<sg%>%<p3%>:erit # ;
+%<cong%>%<perf%>%<pl%>%<p1%>:erimus # ;
+%<cong%>%<perf%>%<pl%>%<p2%>:eritis # ;
+%<cong%>%<perf%>%<pl%>%<p3%>:erint # ;
+
+LEXICON CONGIUNTIVE-PPERF
+
+%<cong%>%<pperf%>%<sg%>%<p1%>:issem # ;
+%<cong%>%<pperf%>%<sg%>%<p2%>:isses # ;
+%<cong%>%<pperf%>%<sg%>%<p3%>:isset # ;
+%<cong%>%<pperf%>%<pl%>%<p1%>:issemus # ;
+%<cong%>%<pperf%>%<pl%>%<p2%>:issetis # ;
+%<cong%>%<pperf%>%<pl%>%<p3%>:issent # ;
+
+LEXICON INFINITE-PERFECT
+
+%<inf%>%<perf%>: isse # ;
+
 
 
 
@@ -625,7 +699,9 @@ bonus:bon ADJ-CLASS1 ; ! "good"
 
 LEXICON Verbs 
 
-laudo:laud CONJ1 ; 
+laudo:laud CONJ1 ;
+laudo:laudav REGULAR-PERFECT ;
 moneo:mon CONJ2 ; 
+moneo:monu REGULAR-PERFECT ;
 lego:leg CONJ3 ;
 audio:aud CONJ4 ;
