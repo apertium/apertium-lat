@@ -28,7 +28,7 @@ Multichar_Symbols
 
 !!! VERBAL TENSES !!!
 
-%<pres%>
+%<pres%> 
 %<impf%>
 %<fut%>
 %<perf%>
@@ -284,9 +284,6 @@ LEXICON REGULAR-PERFECT
 %<v%>: CONGIUNTIVE-PERF ;
 %<v%>: CONGIUNTIVE-PPERF ;
 %<v%>: INFINITE-PERFECT ;
-
-
-
 
 
 
@@ -692,6 +689,11 @@ LEXICON Nouns
 rosa:ros CASE1 ; ! "rose"
 Athenae:Athen CASE1-PL-TANT ; ! "Athens"
 sapientia:sapienti CASE1-SG-TANT ; ! "knowledge" ?
+eloquentia:eloquenti CASE1-SG-TANT ; "eloquence"
+prudentia:prudenti CASE1-SG-TANT ; ! "prudence"
+abundantia:abundanti CASE1-SG-TANT ; ! "abundance"
+scientia:scienti CASE1-SG-TANT ; ! "science"
+
 
 LEXICON Adjectives 
 
