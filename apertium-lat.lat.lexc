@@ -684,6 +684,12 @@ LEXICON IMPERATIVE-PRESENT4
 
 
 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!! ESSE CONJUGATION i.e. sum/es/fui/esse !!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
 LEXICON Nouns
 
 rosa:ros CASE1 ; ! "rose"
@@ -701,9 +707,11 @@ bonus:bon ADJ-CLASS1 ; ! "good"
 
 LEXICON Verbs 
 
-laudo:laud CONJ1 ;
+esse: ESSE ; ! "to be"
+
+laudo:laud CONJ1 ; "to praise"
 laudo:laudav REGULAR-PERFECT ;
-moneo:mon CONJ2 ; 
+moneo:mon CONJ2 ; "to warn"
 moneo:monu REGULAR-PERFECT ;
-lego:leg CONJ3 ;
-audio:aud CONJ4 ;
+lego:leg CONJ3 ; 
+audio:aud CONJ4 ; "i hear"
