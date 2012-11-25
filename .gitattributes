@@ -1,4 +1,4 @@
 * text=auto !eol
 /Makefile -text
+/apertium-lat.lat.dix -text
 /apertium-lat.lat.lexc -text
-/latin.dix -text
