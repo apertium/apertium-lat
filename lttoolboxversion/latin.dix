@@ -1,0 +1,65 @@
+<dictionary>
+  <alphabet>abcdefghilmnopqrstuvzwxykx</alphabet>
+
+<sdefs>
+    
+    <sdef n="n"     c="Noun"/>
+    <!-- Nouns -->
+    	 <!-- Gender, latin has 3 genders: masculine, feminine and neuter-->
+
+    	  <sdef n="m"    c="Masculine (animate)"/>
+    	  <sdef n="nt"    c="Neuter"/>
+    	  <sdef n="f"     c="Feminine"/>
+
+
+	  <!-- Number, unlike greek latin has 2 numbers: singular and plural-->
+
+    	  <sdef n="sg"    c="Singular"/>
+    	  <sdef n="pl"    c="Plural"/>
+
+	  <!-- Cases, latin has basically 6 cases, with locative that triggers for a very small set of Toponyms-->
+
+	  <sdef n="nom"   c="Nominative"/>
+    	  <sdef n="gen"   c="Genitive"/>
+    	  <sdef n="dat"   c="Dative"/>
+    	  <sdef n="acc"   c="Accusative"/>
+    	  <sdef n="loc"   c="Locative"/>
+    	  <sdef n="voc"   c="Vocative"/>
+    	  <sdef n="abl"   c="Ablative"/>
+
+
+  </sdefs>
+  <pardefs>
+  <pardef n="rosa__n_f">
+   
+    <e><p><l>a</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+    <e><p><l>ae</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+    <e><p><l>ae</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+    <e><p><l>am</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e><p><l>a</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+    <e><p><l>a</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r></p></e>
+
+    <e><p><l>ae</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+    <e><p><l>arum</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+    <e><p><l>is</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+    <e><p><l>as</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e><p><l>ae</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+    <e><p><l>is</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r></p></e>
+
+    
+  </pardef>
+</pardefs>
+  <section id="main" type="standard">
+
+		<e lm="rosa"><p><l>ros</l><r>rosa</r></p><par n="rosa__n_f"/></e>
+		<e lm="pugna"><p><l>pugn</l><r>pugna</r></p><par n="rosa__n_f"/></e>
+		<e lm="victoria"><p><l>victori</l><r>victoria</r></p><par n="rosa__n_f"/></e>
+		<e lm="familia"><p><l>famili</l><r>famili</r></p><par n="rosa__n_f"/></e>
+		<e lm="via"><p><l>vi</l><r>via</r></p><par n="rosa__n_f"/></e>
+		
+	
+
+
+  
+  </section>
+</dictionary>

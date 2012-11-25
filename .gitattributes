@@ -1,3 +1,5 @@
 * text=auto !eol
 /Makefile -text
 /apertium-lat.lat.lexc -text
+lttoolboxversion/latin.bin -text
+lttoolboxversion/latin.dix -text
