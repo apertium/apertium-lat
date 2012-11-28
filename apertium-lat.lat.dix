@@ -1,7 +1,7 @@
 <dictionary>
   <alphabet>abcdefghilmnopqrstuvzwxykx</alphabet>
 
-<sdefs>
+ <sdefs>
     
     <sdef n="n"     c="Noun"/>
     <!-- Nouns -->
@@ -30,8 +30,7 @@
 
   </sdefs>
   <pardefs>
-  <pardef n="rosa__n_f">
-   
+   <pardef n="rosa__n_f">
     <e><p><l>a</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
     <e><p><l>ae</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
     <e><p><l>ae</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
@@ -39,27 +38,149 @@
     <e><p><l>a</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
     <e><p><l>a</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r></p></e>
 
-    <e><p><l>ae</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
-    <e><p><l>arum</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
-    <e><p><l>is</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
-    <e><p><l>as</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
-    <e><p><l>ae</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
-    <e><p><l>is</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r></p></e>
+    <e><p><l>ae</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    <e><p><l>arum</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+    <e><p><l>is</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
+    <e><p><l>as</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+    <e><p><l>ae</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+    <e><p><l>is</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="abl"/></r></p></e>
+   </pardef>
+   <pardef n="rosa__n_m">
+    <e><p><l>a</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+    <e><p><l>ae</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+    <e><p><l>ae</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
+    <e><p><l>am</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e><p><l>a</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+    <e><p><l>a</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="abl"/></r></p></e>
 
-    
-  </pardef>
-</pardefs>
-  <section id="main" type="standard">
+    <e><p><l>ae</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+    <e><p><l>arum</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
+    <e><p><l>is</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
+    <e><p><l>as</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
+    <e><p><l>ae</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+    <e><p><l>is</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="abl"/></r></p></e>
+   </pardef>
+   <!-- Note there are no neuter first declension nouns. -->
 
+   <!-- amphora, -ae also allows amphorum as genitive plural. -->
+   <pardef n="amphora__n_f">
+    <e><p><l>a</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+    <e><p><l>ae</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+    <e><p><l>ae</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+    <e><p><l>am</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e><p><l>a</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+    <e><p><l>a</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r></p></e>
+
+    <e><p><l>ae</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+    <e><p><l>arum</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+    <e><p><l>um</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+    <e><p><l>is</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
+    <e><p><l>as</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+    <e><p><l>ae</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+    <e><p><l>is</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="abl"/></r></p></e>
+   </pardef>
+ </pardefs>
+ <section id="main" type="standard">
 		<e lm="rosa"><p><l>ros</l><r>rosa</r></p><par n="rosa__n_f"/></e>
 		<e lm="pugna"><p><l>pugn</l><r>pugna</r></p><par n="rosa__n_f"/></e>
 		<e lm="victoria"><p><l>victori</l><r>victoria</r></p><par n="rosa__n_f"/></e>
 		<e lm="familia"><p><l>famili</l><r>famili</r></p><par n="rosa__n_f"/></e>
 		<e lm="via"><p><l>vi</l><r>via</r></p><par n="rosa__n_f"/></e>
-		
-	
-
-
-  
-  </section>
+		<e lm="aquila"><p><l>aquil</l><r>aquila</r></p><par n="rosa__n_f"/></e>
+		<e lm="acicula"><p><l>acicul</l><r>acicula</r></p><par n="rosa__n_f"/></e>
+		<e lm="acacia"><p><l>acaci</l><r>acacia</r></p><par n="rosa__n_f"/></e>
+		<e lm="pluvia"><p><l>pluvi</l><r>pluvia</r></p><par n="rosa__n_f"/></e>
+		<e lm="tuba"><p><l>tub</l><r>tuba</r></p><par n="rosa__n_f"/></e>
+		<e lm="zebra"><p><l>zebr</l><r>zebra</r></p><par n="rosa__n_f"/></e>
+		<e lm="copula"><p><l>copul</l><r>copula</r></p><par n="rosa__n_f"/></e>
+		<e lm="vertebra"><p><l>vertebr</l><r>vertebra</r></p><par n="rosa__n_f"/></e>
+		<e lm="sepia"><p><l>sepi</l><r>sepia</r></p><par n="rosa__n_f"/></e>
+		<e lm="abolla"><p><l>aboll</l><r>abolla</r></p><par n="rosa__n_f"/></e>
+		<e lm="chemia"><p><l>chemi</l><r>chemia</r></p><par n="rosa__n_f"/></e>
+		<e lm="magia"><p><l>magi</l><r>magia</r></p><par n="rosa__n_f"/></e>
+		<e lm="regina"><p><l>regin</l><r>regina</r></p><par n="rosa__n_f"/></e>
+		<e lm="larva"><p><l>larv</l><r>larva</r></p><par n="rosa__n_f"/></e>
+		<e lm="camera"><p><l>camer</l><r>camera</r></p><par n="rosa__n_f"/></e>
+		<e lm="era"><p><l>er</l><r>era</r></p><par n="rosa__n_f"/></e>
+		<e lm="musica"><p><l>music</l><r>musica</r></p><par n="rosa__n_f"/></e>
+		<e lm="idea"><p><l>ide</l><r>idea</r></p><par n="rosa__n_f"/></e>
+		<e lm="casa"><p><l>cas</l><r>casa</r></p><par n="rosa__n_f"/></e>
+		<e lm="uva"><p><l>uv</l><r>uva</r></p><par n="rosa__n_f"/></e>
+		<e lm="area"><p><l>are</l><r>area</r></p><par n="rosa__n_f"/></e>
+		<e lm="drachma"><p><l>drachm</l><r>drachma</r></p><par n="rosa__n_f"/></e>
+		<e lm="mania"><p><l>mani</l><r>mania</r></p><par n="rosa__n_f"/></e>
+		<e lm="aqua"><p><l>aq</l><r>aqua</r></p><par n="rosa__n_f"/></e>
+		<e lm="algebra"><p><l>algebr</l><r>algebra</r></p><par n="rosa__n_f"/></e>
+		<e lm="testa"><p><l>test</l><r>testa</r></p><par n="rosa__n_f"/></e>
+		<e lm="Latina"><p><l>Latin</l><r>Latina</r></p><par n="rosa__n_f"/></e>
+		<e lm="parma"><p><l>parm</l><r>parma</r></p><par n="rosa__n_f"/></e>
+		<e lm="candela"><p><l>candel</l><r>candela</r></p><par n="rosa__n_f"/></e>
+		<e lm="insula"><p><l>insul</l><r>insula</r></p><par n="rosa__n_f"/></e>
+		<e lm="panacea"><p><l>panace</l><r>panacea</r></p><par n="rosa__n_f"/></e>
+		<e lm="labia"><p><l>labi</l><r>labia</r></p><par n="rosa__n_f"/></e>
+		<e lm="hyaena"><p><l>hyaen</l><r>hyaena</r></p><par n="rosa__n_f"/></e>
+		<e lm="navicula"><p><l>navicul</l><r>navicula</r></p><par n="rosa__n_f"/></e>
+		<e lm="antenna"><p><l>antenn</l><r>antenna</r></p><par n="rosa__n_f"/></e>
+		<e lm="nebula"><p><l>nebul</l><r>nebula</r></p><par n="rosa__n_f"/></e>
+		<e lm="formula"><p><l>formul</l><r>formula</r></p><par n="rosa__n_f"/></e>
+		<e lm="vita"><p><l>vit</l><r>vita</r></p><par n="rosa__n_f"/></e>
+		<e lm="unda"><p><l>und</l><r>unda</r></p><par n="rosa__n_f"/></e>
+		<e lm="ursa"><p><l>urs</l><r>ursa</r></p><par n="rosa__n_f"/></e>
+		<e lm="poeta"><p><l>poet</l><r>poeta</r></p><par n="rosa__n_m"/></e>
+		<e lm="hybrida"><p><l>hybrid</l><r>hybrida</r></p><par n="rosa__n_f"/></e>
+		<e lm="vacca"><p><l>vacc</l><r>vacca</r></p><par n="rosa__n_f"/></e>
+		<e lm="tyrannicida"><p><l>tyrannicid</l><r>tyrannicida</r></p><par n="rosa__n_m"/></e>
+		<e lm="agricola"><p><l>agricol</l><r>agricola</r></p><par n="rosa__n_m"/></e>
+		<e lm="pelta"><p><l>pelt</l><r>pelta</r></p><par n="rosa__n_f"/></e>
+		<e lm="bestia"><p><l>besti</l><r>bestia</r></p><par n="rosa__n_f"/></e>
+		<e lm="bestiola"><p><l>bestiol</l><r>bestiola</r></p><par n="rosa__n_f"/></e>
+		<e lm="serva"><p><l>serv</l><r>serva</r></p><par n="rosa__n_f"/></e>
+		<e lm="sagitta"><p><l>sagitt</l><r>sagitta</r></p><par n="rosa__n_f"/></e>
+		<e lm="viverra"><p><l>viverr</l><r>viverra</r></p><par n="rosa__n_f"/></e>
+		<e lm="vespa"><p><l>vesp</l><r>vespa</r></p><par n="rosa__n_f"/></e>
+		<e lm="syllaba"><p><l>syllab</l><r>syllaba</r></p><par n="rosa__n_f"/></e>
+		<e lm="symmetria"><p><l>symmetri</l><r>symmetria</r></p><par n="rosa__n_f"/></e>
+		<e lm="symphonia"><p><l>symphoni</l><r>symphonia</r></p><par n="rosa__n_f"/></e>
+		<e lm="pyra"><p><l>pyr</l><r>pyra</r></p><par n="rosa__n_f"/></e>
+		<e lm="lyra"><p><l>lyr</l><r>lyra</r></p><par n="rosa__n_f"/></e>
+		<e lm="lupa"><p><l>lup</l><r>lupa</r></p><par n="rosa__n_f"/></e>
+		<e lm="lacerta"><p><l>lacert</l><r>lacerta</r></p><par n="rosa__n_f"/></e>
+		<e lm="lanterna"><p><l>lantern</l><r>lanterna</r></p><par n="rosa__n_f"/></e>
+		<e lm="libra"><p><l>libr</l><r>libra</r></p><par n="rosa__n_f"/></e>
+		<e lm="serra"><p><l>serr</l><r>serra</r></p><par n="rosa__n_f"/></e>
+		<e lm="pseudopropheta"><p><l>pseudoprophet</l><r>pseudopropheta</r></p><par n="rosa__n_m"/></e>
+		<e lm="pseudoprophetia"><p><l>pseudopropheti</l><r>pseudoprophetia</r></p><par n="rosa__n_m"/></e>
+		<e lm="zona"><p><l>zon</l><r>zona</r></p><par n="rosa__n_f"/></e>
+		<e lm="zotheca"><p><l>zothec</l><r>zotheca</r></p><par n="rosa__n_f"/></e>
+		<e lm="machina"><p><l>machin</l><r>machina</r></p><par n="rosa__n_f"/></e>
+		<e lm="moecha"><p><l>moech</l><r>moecha</r></p><par n="rosa__n_f"/></e>
+		<e lm="puella"><p><l>puell</l><r>puella</r></p><par n="rosa__n_f"/></e>
+		<e lm="fuga"><p><l>fug</l><r>fuga</r></p><par n="rosa__n_f"/></e>
+		<e lm="formica"><p><l>formic</l><r>formica</r></p><par n="rosa__n_f"/></e>
+		<e lm="simia"><p><l>simi</l><r>simia</r></p><par n="rosa__n_f"/></e>
+		<e lm="apicula"><p><l>apicul</l><r>apicula</r></p><par n="rosa__n_f"/></e>
+		<e lm="fenestra"><p><l>fenestr</l><r>fenestra</r></p><par n="rosa__n_f"/></e>
+		<e lm="rana"><p><l>ran</l><r>rana</r></p><par n="rosa__n_f"/></e>
+		<e lm="pluma"><p><l>plum</l><r>pluma</r></p><par n="rosa__n_f"/></e>
+		<e lm="luna"><p><l>lun</l><r>luna</r></p><par n="rosa__n_f"/></e>
+		<e lm="pagina"><p><l>pagin</l><r>pagina</r></p><par n="rosa__n_f"/></e>
+		<e lm="landica"><p><l>landic</l><r>landica</r></p><par n="rosa__n_f"/></e>
+		<e lm="lingua"><p><l>ling</l><r>lingua</r></p><par n="rosa__n_f"/></e>
+		<e lm="architectura"><p><l>architectur</l><r>architectura</r></p><par n="rosa__n_f"/></e>
+		<e lm="historia"><p><l>histori</l><r>historia</r></p><par n="rosa__n_f"/></e>
+		<e lm="natura"><p><l>natur</l><r>natura</r></p><par n="rosa__n_f"/></e>
+		<e lm="nympha"><p><l>nymph</l><r>nympha</r></p><par n="rosa__n_f"/></e>
+		<e lm="clepta"><p><l>clept</l><r>clepta</r></p><par n="rosa__n_m"/></e>
+		<e lm="pera"><p><l>per</l><r>pera</r></p><par n="rosa__n_f"/></e>
+		<e lm="essentia"><p><l>essenti</l><r>essentia</r></p><par n="rosa__n_f"/></e>
+		<e lm="moneta"><p><l>monet</l><r>moneta</r></p><par n="rosa__n_f"/></e>
+		<e lm="nonna"><p><l>nonn</l><r>nonna</r></p><par n="rosa__n_f"/></e>
+		<e lm="materia"><p><l>materi</l><r>materia</r></p><par n="rosa__n_f"/></e>
+		<e lm="absentia"><p><l>absenti</l><r>absentia</r></p><par n="rosa__n_f"/></e>
+		<e lm="massa"><p><l>mass</l><r>massa</r></p><par n="rosa__n_f"/></e>
+		<e lm="baca"><p><l>bac</l><r>baca</r></p><par n="rosa__n_f"/></e>
+		<e lm="vipera"><p><l>viper</l><r>vipera</r></p><par n="rosa__n_f"/></e>
+		<e lm="carta"><p><l>cart</l><r>carta</r></p><par n="rosa__n_f"/></e>
+		<e lm="amphora"><p><l>amphor</l><r>amphora</r></p><par n="amphora__n_f"/></e>
+ </section>
 </dictionary>
