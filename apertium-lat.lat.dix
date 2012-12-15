@@ -85,15 +85,15 @@
     <e><p><l>ri</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
     <e><p><l>ro</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
     <e><p><l>rum</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
-    <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
-    <e><p><l>o</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="abl"/></r></p></e>
+    <e><p><l>er</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+    <e><p><l>ro</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="abl"/></r></p></e>
 
-    <e><p><l>i</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
-    <e><p><l>orum</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
-    <e><p><l>is</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
-    <e><p><l>os</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
-    <e><p><l>i</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
-    <e><p><l>is</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="abl"/></r></p></e>
+    <e><p><l>ri</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+    <e><p><l>rorum</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
+    <e><p><l>ris</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
+    <e><p><l>ros</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
+    <e><p><l>ri</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+    <e><p><l>ris</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="abl"/></r></p></e>
    </pardef>
     <pardef n="equus__n_m">
     <e><p><l>us</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
@@ -354,5 +354,21 @@
 		<e lm="cancer"><p><l>canc</l><r>cancer</r></p><par n="ager__n_m"/></e>
 		<e lm="liber"><p><l>lib</l><r>liber</r></p><par n="ager__n_m"/></e>
 		<e lm="magister"><p><l>magist</l><r>magister</r></p><par n="ager__n_m"/></e>
+		<e lm="aeger"><p><l>aeg</l><r>aeger</r></p><par n="ager__n_m"/></e>
+		<e lm="integer"><p><l>integ</l><r>integer</r></p><par n="ager__n_m"/></e>
+		<e lm="noster"><p><l>nost</l><r>noster</r></p><par n="ager__n_m"/></e>
+		<e lm="aper"><p><l>ap</l><r>aper</r></p><par n="ager__n_m"/></e>
+		<e lm="culter"><p><l>cult</l><r>culter</r></p><par n="ager__n_m"/></e>
+		<e lm="faber"><p><l>fab</l><r>faber</r></p><par n="ager__n_m"/></e>
+		<e lm="puer"><p><l>pue</l><r>puer</r></p><par n="no_paradigm"/></e>
+		<e lm="dapifer"><p><l>dapife</l><r>dapifer</r></p><par n="no_paradigm"/></e>
+		<e lm="liber"><p><l>libe</l><r>liber</r></p><par n="no_paradigm"/></e>
+		<e lm="miser"><p><l>mise</l><r>miser</r></p><par n="no_paradigm"/></e>
+		<e lm="procer"><p><l>proce</l><r>procer</r></p><par n="no_paradigm"/></e>
+		<e lm="progener"><p><l>progene</l><r>progener</r></p><par n="no_paradigm"/></e>
+		<e lm="socer"><p><l>soce</l><r>socer</r></p><par n="no_paradigm"/></e>
+		<e lm="vesper"><p><l>vespe</l><r>vesper</r></p><par n="no_paradigm"/></e>
+		<e lm="alter"><p><l>alte</l><r>alter</r></p><par n="no_paradigm"/></e>
+		<e lm="furcifer"><p><l>furcife</l><r>furcifer</r></p><par n="no_paradigm"/></e>
  </section>
 </dictionary>
