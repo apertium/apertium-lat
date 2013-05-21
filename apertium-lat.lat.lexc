@@ -699,7 +699,7 @@ LEXICON Nouns
 rosa:ros CASE1 ; ! "rose"
 Athenae:Athen CASE1-PL-TANT ; ! "Athens"
 sapientia:sapienti CASE1-SG-TANT ; ! "knowledge" ?
-eloquentia:eloquenti CASE1-SG-TANT ; "eloquence"
+eloquentia:eloquenti CASE1-SG-TANT ; ! "eloquence"
 prudentia:prudenti CASE1-SG-TANT ; ! "prudence"
 abundantia:abundanti CASE1-SG-TANT ; ! "abundance"
 scientia:scienti CASE1-SG-TANT ; ! "science"
@@ -711,7 +711,7 @@ bonus:bon ADJ-CLASS1 ; ! "good"
 
 LEXICON Verbs 
 
-esse: ESSE ; ! "to be"
+esse:esse NOV ; ! "to be"
 
 laudo:laud CONJ1 ; ! "to praise"
 laudo:laudav REGULAR-PERFECT ;
