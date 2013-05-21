@@ -272,8 +272,8 @@ LEXICON CONGIUNTIVE-IMPF1-PASS
 
 LEXICON IMPERATIVE-PRESENT1
 
-%<imp%>%<pres%>%<sg%>%<p2%>: a # ;
-%<imp%>%<pres%>%<pl%>%<p2%>: ate # ;
+%<imp%>%<pres%>%<sg%>%<p2%>:a # ;
+%<imp%>%<pres%>%<pl%>%<p2%>:ate # ;
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -455,8 +455,8 @@ LEXICON CONGIUNTIVE-IMPF2-PASS
 
 LEXICON IMPERATIVE-PRESENT2
 
-%<imp%>%<pres%>%<sg%>%<p2%>: e # ;
-%<imp%>%<pres%>%<pl%>%<p2%>: ete # ;
+%<imp%>%<pres%>%<sg%>%<p2%>:e # ;
+%<imp%>%<pres%>%<pl%>%<p2%>:ete # ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!! THIRD CONJUGATION i.e. lego/is/lexi/itum/ere !!!!
@@ -569,8 +569,8 @@ LEXICON CONGIUNTIVE-IMPF3-PASS
 
 LEXICON IMPERATIVE-PRESENT3
 
-%<imp%>%<pres%>%<sg%>%<p2%>: e # ;
-%<imp%>%<pres%>%<pl%>%<p2%>: ite # ;
+%<imp%>%<pres%>%<sg%>%<p2%>:e # ;
+%<imp%>%<pres%>%<pl%>%<p2%>:ite # ;
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -683,8 +683,8 @@ LEXICON CONGIUNTIVE-IMPF4-PASS
 
 LEXICON IMPERATIVE-PRESENT4
 
-%<imp%>%<pres%>%<sg%>%<p2%>: i # ;
-%<imp%>%<pres%>%<pl%>%<p2%>: ite # ;
+%<imp%>%<pres%>%<sg%>%<p2%>:i # ;
+%<imp%>%<pres%>%<pl%>%<p2%>:ite # ;
 
 
 
