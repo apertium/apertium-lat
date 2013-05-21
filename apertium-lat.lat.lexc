@@ -713,9 +713,9 @@ LEXICON Verbs
 
 esse: ESSE ; ! "to be"
 
-laudo:laud CONJ1 ; "to praise"
+laudo:laud CONJ1 ; ! "to praise"
 laudo:laudav REGULAR-PERFECT ;
-moneo:mon CONJ2 ; "to warn"
+moneo:mon CONJ2 ; ! "to warn"
 moneo:monu REGULAR-PERFECT ;
 lego:leg CONJ3 ; 
-audio:aud CONJ4 ; "i hear"
+audio:aud CONJ4 ;  ! "i hear"
