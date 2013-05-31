@@ -14,6 +14,11 @@
     <sdef n="adj"   c="Adjective"/>
     <sdef n="adv"   c="Adverb"/>
     <sdef n="neg"   c="Negative"/>
+    <sdef n="prn"   c="Pronoun"/>
+    <sdef n="ref"   c="Reflexive"/>
+    <sdef n="rel"   c="Relative"/>
+
+
 
 
 
@@ -47,9 +52,9 @@
 	  	 <sdef n="tv"   c="Transitive"/>
 	  	 <sdef n="iv"   c="Intransitive"/>
 	  	 
-	  	 <sdef n="prima"   c="first person"/>
-	  	 <sdef n="seconda"   c="second person"/>
-	  	 <sdef n="terza"   c="third person"/>
+	  	 <sdef n="p1"   c="first person"/>
+	  	 <sdef n="p2"   c="second person"/>
+	  	 <sdef n="p3"   c="third person"/>
 
 
 	  	 
@@ -67,6 +72,140 @@
 
   </sdefs>
   <pardefs>
+  
+  
+  <pardef n="gen_se">
+     <e><p><l></l><r><s n="prn"/><s n="ref"/><s n="p3"/><s n="sg"/><s n="gen"/></r></p></e>
+    </pardef>
+    
+<pardef n="dat_se">
+     <e><p><l></l><r><s n="prn"/><s n="ref"/><s n="p3"/><s n="sg"/><s n="dat"/></r></p></e>
+    </pardef>
+    <pardef n="acc_se">
+     <e><p><l></l><r><s n="prn"/><s n="ref"/><s n="p3"/><s n="sg"/><s n="acc"/></r></p></e>
+    </pardef>
+    <pardef n="abl_se">
+     <e><p><l></l><r><s n="prn"/><s n="ref"/><s n="p3"/><s n="sg"/><s n="abl"/></r></p></e>
+    </pardef>
+
+
+<pardef n="qui_m_nom_sg">
+     <e><p><l></l><r><s n="prn"/><s n="m"/><s n="rel"/><s n="sg"/><s n="nom"/></r></p></e>
+    </pardef>
+    
+<pardef n="qui_m_gen_sg">
+     <e><p><l></l><r><s n="prn"/><s n="m"/><s n="rel"/><s n="sg"/><s n="gen"/></r></p></e>
+    </pardef>
+    <pardef n="qui_m_dat_sg">
+     <e><p><l></l><r><s n="prn"/><s n="m"/><s n="rel"/><s n="sg"/><s n="dat"/></r></p></e>
+    </pardef>
+    <pardef n="qui_m_acc_sg">
+     <e><p><l></l><r><s n="prn"/><s n="m"/><s n="rel"/><s n="sg"/><s n="acc"/></r></p></e>
+    </pardef>
+    <pardef n="qui_m_voc_sg">
+     <e><p><l></l><r><s n="prn"/><s n="m"/><s n="rel"/><s n="sg"/><s n="voc"/></r></p></e>
+    </pardef>
+    <pardef n="qui_m_abl_sg">
+     <e><p><l></l><r><s n="prn"/><s n="m"/><s n="rel"/><s n="sg"/><s n="abl"/></r></p></e>
+    </pardef>
+    
+    <pardef n="qui_m_nom_pl">
+     <e><p><l></l><r><s n="prn"/><s n="m"/><s n="rel"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+<pardef n="qui_m_gen_pl">
+     <e><p><l></l><r><s n="prn"/><s n="m"/><s n="rel"/><s n="pl"/><s n="gen"/></r></p></e>
+    </pardef>
+    <pardef n="qui_m_dat_pl">
+     <e><p><l></l><r><s n="prn"/><s n="m"/><s n="rel"/><s n="pl"/><s n="dat"/></r></p></e>
+    </pardef>
+    <pardef n="qui_m_acc_pl">
+     <e><p><l></l><r><s n="prn"/><s n="m"/><s n="rel"/><s n="pl"/><s n="acc"/></r></p></e>
+    </pardef>
+    <pardef n="qui_m_voc_pl">
+     <e><p><l></l><r><s n="prn"/><s n="m"/><s n="rel"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+    <pardef n="qui_m_abl_pl">
+     <e><p><l></l><r><s n="prn"/><s n="m"/><s n="rel"/><s n="pl"/><s n="abl"/></r></p></e>
+    </pardef>
+    
+    <pardef n="qui_f_nom_sg">
+     <e><p><l></l><r><s n="prn"/><s n="f"/><s n="rel"/><s n="sg"/><s n="nom"/></r></p></e>
+    </pardef>
+<pardef n="qui_f_gen_sg">
+     <e><p><l></l><r><s n="prn"/><s n="f"/><s n="rel"/><s n="sg"/><s n="gen"/></r></p></e>
+    </pardef>
+    <pardef n="qui_f_dat_sg">
+     <e><p><l></l><r><s n="prn"/><s n="f"/><s n="rel"/><s n="sg"/><s n="dat"/></r></p></e>
+    </pardef>
+    <pardef n="qui_f_acc_sg">
+     <e><p><l></l><r><s n="prn"/><s n="f"/><s n="rel"/><s n="sg"/><s n="acc"/></r></p></e>
+    </pardef>
+    <pardef n="qui_f_voc_sg">
+     <e><p><l></l><r><s n="prn"/><s n="f"/><s n="rel"/><s n="sg"/><s n="voc"/></r></p></e>
+    </pardef>
+    <pardef n="qui_f_abl_sg">
+     <e><p><l></l><r><s n="prn"/><s n="f"/><s n="rel"/><s n="sg"/><s n="abl"/></r></p></e>
+    </pardef>
+    
+    <pardef n="qui_f_nom_pl">
+     <e><p><l></l><r><s n="prn"/><s n="f"/><s n="rel"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+     <pardef n="qui_f_gen_pl">
+     <e><p><l></l><r><s n="prn"/><s n="f"/><s n="rel"/><s n="pl"/><s n="gen"/></r></p></e>
+    </pardef>
+    <pardef n="qui_f_dat_pl">
+     <e><p><l></l><r><s n="prn"/><s n="f"/><s n="rel"/><s n="pl"/><s n="dat"/></r></p></e>
+    </pardef>
+    <pardef n="qui_f_acc_pl">
+     <e><p><l></l><r><s n="prn"/><s n="f"/><s n="rel"/><s n="pl"/><s n="acc"/></r></p></e>
+    </pardef>
+    <pardef n="qui_f_voc_pl">
+     <e><p><l></l><r><s n="prn"/><s n="f"/><s n="rel"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+    <pardef n="qui_f_abl_pl">
+     <e><p><l></l><r><s n="prn"/><s n="f"/><s n="rel"/><s n="pl"/><s n="abl"/></r></p></e>
+    </pardef>
+    
+    
+    <pardef n="qui_nt_nom_sg">
+     <e><p><l></l><r><s n="prn"/><s n="nt"/><s n="rel"/><s n="sg"/><s n="nom"/></r></p></e>
+    </pardef>
+<pardef n="qui_nt_gen_sg">
+     <e><p><l></l><r><s n="prn"/><s n="nt"/><s n="rel"/><s n="sg"/><s n="gen"/></r></p></e>
+    </pardef>
+    <pardef n="qui_nt_dat_sg">
+     <e><p><l></l><r><s n="prn"/><s n="nt"/><s n="rel"/><s n="sg"/><s n="dat"/></r></p></e>
+    </pardef>
+    <pardef n="qui_nt_acc_sg">
+     <e><p><l></l><r><s n="prn"/><s n="nt"/><s n="rel"/><s n="sg"/><s n="acc"/></r></p></e>
+    </pardef>
+    <pardef n="qui_nt_voc_sg">
+     <e><p><l></l><r><s n="prn"/><s n="nt"/><s n="rel"/><s n="sg"/><s n="voc"/></r></p></e>
+    </pardef>
+    <pardef n="qui_nt_abl_sg">
+     <e><p><l></l><r><s n="prn"/><s n="nt"/><s n="rel"/><s n="sg"/><s n="abl"/></r></p></e>
+    </pardef>
+    
+     <pardef n="qui_nt_nom_pl">
+     <e><p><l></l><r><s n="prn"/><s n="nt"/><s n="rel"/><s n="pl"/><s n="nom"/></r></p></e>
+    </pardef>
+     <pardef n="qui_nt_gen_pl">
+     <e><p><l></l><r><s n="prn"/><s n="nt"/><s n="rel"/><s n="pl"/><s n="gen"/></r></p></e>
+    </pardef>
+    <pardef n="qui_nt_dat_pl">
+     <e><p><l></l><r><s n="prn"/><s n="nt"/><s n="rel"/><s n="pl"/><s n="dat"/></r></p></e>
+    </pardef>
+    <pardef n="qui_nt_acc_pl">
+     <e><p><l></l><r><s n="prn"/><s n="nt"/><s n="rel"/><s n="pl"/><s n="acc"/></r></p></e>
+    </pardef>
+    <pardef n="qui_nt_voc_pl">
+     <e><p><l></l><r><s n="prn"/><s n="nt"/><s n="rel"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+    <pardef n="qui_nt_abl_pl">
+     <e><p><l></l><r><s n="prn"/><s n="nt"/><s n="rel"/><s n="pl"/><s n="abl"/></r></p></e>
+    </pardef>
+
+  
    <pardef n="que">
     <e><p><l>que</l><r><j/>que<s n="cnjcoo"/></r></p></e>
     <e><p><l></l><r></r></p></e>
@@ -99,12 +238,12 @@
 
    <pardef n="regular__v_are_noperf">
    
-     <e><p><l>o</l><r><s n="v"/><s n="tv"/><s n="pres"/><s n="ind"/><s n="prima"/><s n="sg"/></r></p><par n="que"/></e>
-     <e><p><l>as</l><r><s n="v"/><s n="tv"/><s n="pres"/><s n="ind"/><s n="seconda"/><s n="sg"/></r></p><par n="que"/></e>
-     <e><p><l>at</l><r><s n="v"/><s n="tv"/><s n="pres"/><s n="ind"/><s n="terza"/><s n="sg"/></r></p><par n="que"/></e>
-     <e><p><l>amus</l><r><s n="v"/><s n="tv"/><s n="pres"/><s n="ind"/><s n="prima"/><s n="pl"/></r></p><par n="que"/></e>
-     <e><p><l>atis</l><r><s n="v"/><s n="tv"/><s n="pres"/><s n="ind"/><s n="seconda"/><s n="pl"/></r></p><par n="que"/></e>
-     <e><p><l>ant</l><r><s n="v"/><s n="tv"/><s n="pres"/><s n="ind"/><s n="terza"/><s n="pl"/></r></p><par n="que"/></e>
+     <e><p><l>o</l><r><s n="v"/><s n="tv"/><s n="pres"/><s n="ind"/><s n="p1"/><s n="sg"/></r></p><par n="que"/></e>
+     <e><p><l>as</l><r><s n="v"/><s n="tv"/><s n="pres"/><s n="ind"/><s n="p2"/><s n="sg"/></r></p><par n="que"/></e>
+     <e><p><l>at</l><r><s n="v"/><s n="tv"/><s n="pres"/><s n="ind"/><s n="p3"/><s n="sg"/></r></p><par n="que"/></e>
+     <e><p><l>amus</l><r><s n="v"/><s n="tv"/><s n="pres"/><s n="ind"/><s n="p1"/><s n="pl"/></r></p><par n="que"/></e>
+     <e><p><l>atis</l><r><s n="v"/><s n="tv"/><s n="pres"/><s n="ind"/><s n="p2"/><s n="pl"/></r></p><par n="que"/></e>
+     <e><p><l>ant</l><r><s n="v"/><s n="tv"/><s n="pres"/><s n="ind"/><s n="p3"/><s n="pl"/></r></p><par n="que"/></e>
 
 
         </pardef>
@@ -534,6 +673,8 @@
 	    <e lm="propterea"><p><l>propterea</l><r>propterea</r></p><par n="adv"/></e>
 	    <e lm="tum"><p><l>tum</l><r>tum</r></p><par n="adv"/></e>
 	    <e lm="facile"><p><l>facile</l><r>facile</r></p><par n="adv"/></e>
+	    <e lm="qui"><p><l>qui</l><r>qui</r></p><par n="adv"/></e>
+
 
 
 	    
@@ -548,6 +689,8 @@
 	    <e lm="quod"><p><l>quod</l><r>quod</r></p><par n="cnjcoo"/></e>
 	    <e lm="tamen"><p><l>tamen</l><r>tamen</r></p><par n="cnjcoo"/></e>
 	    <e lm="nam"><p><l>nam</l><r>nam</r></p><par n="cnjcoo"/></e>
+	    <e lm="etiam"><p><l>etiam</l><r>etiam</r></p><par n="cnjcoo"/></e>
+
 
 
 	    
@@ -558,7 +701,52 @@
 
 
 	    <e lm="non"><p><l>non</l><r>non</r></p><par n="neg"/></e>
+	    
+	    
+	    	    <!-- Pronouns -->
 
+	    
+	    <e lm="se"><p><l>sui</l><r>sui</r></p><par n="gen_se"/></e>
+	    <e lm="se"><p><l>sibi</l><r>sibi</r></p><par n="dat_se"/></e>
+	    <e lm="se"><p><l>se</l><r>se</r></p><par n="acc_se"/></e>
+	    <e lm="se"><p><l>se</l><r>se</r></p><par n="abl_se"/></e>
+
+	<e lm="qui"><p><l>qui</l><r>qui</r></p><par n="qui_m_nom_sg"/></e>
+	<e lm="qui"><p><l>cuius</l><r>cuius</r></p><par n="qui_m_gen_sg"/></e>
+    <e lm="qui"><p><l>cui</l><r>cui</r></p><par n="qui_m_dat_sg"/></e>
+	<e lm="qui"><p><l>quem</l><r>quem</r></p><par n="qui_m_acc_sg"/></e>
+	<e lm="qui"><p><l>quo</l><r>quo</r></p><par n="qui_m_abl_sg"/></e>
+	
+	<e lm="qui"><p><l>qui</l><r>qui</r></p><par n="qui_m_nom_pl"/></e>
+	<e lm="qui"><p><l>quorum</l><r>quorum</r></p><par n="qui_m_gen_pl"/></e>
+	<e lm="qui"><p><l>quibus</l><r>quibus</r></p><par n="qui_m_dat_pl"/></e>
+	<e lm="qui"><p><l>quos</l><r>quos</r></p><par n="qui_m_acc_pl"/></e>
+	<e lm="qui"><p><l>quibus</l><r>quibus</r></p><par n="qui_m_abl_pl"/></e>
+	
+	<e lm="qui"><p><l>quae</l><r>quae</r></p><par n="qui_f_nom_sg"/></e>
+	<e lm="qui"><p><l>cuius</l><r>cuius</r></p><par n="qui_f_gen_sg"/></e>
+    <e lm="qui"><p><l>cui</l><r>cui</r></p><par n="qui_f_dat_sg"/></e>
+	<e lm="qui"><p><l>quam</l><r>quam</r></p><par n="qui_f_acc_sg"/></e>
+	<e lm="qui"><p><l>qua</l><r>qua</r></p><par n="qui_f_abl_sg"/></e>
+	
+	<e lm="qui"><p><l>quae</l><r>quae</r></p><par n="qui_f_nom_pl"/></e>
+	<e lm="qui"><p><l>quarum</l><r>quarum</r></p><par n="qui_f_gen_pl"/></e>
+	<e lm="qui"><p><l>quibus</l><r>quibus</r></p><par n="qui_f_dat_pl"/></e>
+	<e lm="qui"><p><l>quas</l><r>quas</r></p><par n="qui_f_acc_pl"/></e>
+	<e lm="qui"><p><l>quibus</l><r>quibus</r></p><par n="qui_f_abl_pl"/></e>
+	
+	<e lm="qui"><p><l>quod</l><r>quod</r></p><par n="qui_nt_nom_sg"/></e>
+	<e lm="qui"><p><l>cuius</l><r>cuius</r></p><par n="qui_nt_gen_sg"/></e>
+    <e lm="qui"><p><l>cui</l><r>cui</r></p><par n="qui_nt_dat_sg"/></e>
+	<e lm="qui"><p><l>quod</l><r>quod</r></p><par n="qui_nt_acc_sg"/></e>
+	<e lm="qui"><p><l>quo</l><r>quo</r></p><par n="qui_nt_abl_sg"/></e>
+	
+	<e lm="qui"><p><l>quae</l><r>quae</r></p><par n="qui_nt_nom_pl"/></e>
+	<e lm="qui"><p><l>quorum</l><r>quorum</r></p><par n="qui_nt_gen_pl"/></e>
+	<e lm="qui"><p><l>quibus</l><r>quibus</r></p><par n="qui_nt_dat_pl"/></e>
+	<e lm="qui"><p><l>quae</l><r>quae</r></p><par n="qui_nt_acc_pl"/></e>
+	<e lm="qui"><p><l>quibus</l><r>quibus</r></p><par n="qui_nt_abl_pl"/></e>
+		
 		
 		
 		
