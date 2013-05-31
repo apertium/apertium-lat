@@ -4,9 +4,19 @@
  <sdefs>
     
     <sdef n="n"     c="Noun"/>
+     <sdef n="np"     c="Proper Noun"/>
+    <sdef n="top"   c="Toponym"/>
+
+
     <sdef n="v"     c="Verb"/>
     <sdef n="cnjcoo"   c="Coordinating conjunction"/>
     <sdef n="prep"   c="Preposition"/>
+    <sdef n="adj"   c="Adjective"/>
+    <sdef n="adv"   c="Adverb"/>
+    <sdef n="neg"   c="Negative"/>
+
+
+
 
     <!-- Nouns -->
     	 <!-- Gender, latin has 3 genders: masculine, feminine and neuter-->
@@ -62,14 +72,29 @@
     <e><p><l></l><r></r></p></e>
    </pardef>
    
-   
+   <pardef n="cnjcoo">
+    	
+    <e><p><l></l><r><s n="cnjcoo"/></r></p></e>
+
+	</pardef>   
+	
+	<pardef n="neg">
+    	
+    <e><p><l></l><r><s n="neg"/></r></p></e>
+
+	</pardef>   
+	
    <pardef n="prep">
    
  	<e><p><l></l><r><s n="prep"/></r></p></e>
  	
  	</pardef>
    
+    <pardef n="adv">
    
+ 	<e><p><l></l><r><s n="adv"/></r></p></e>
+ 	
+ 	</pardef>
 
 
    <pardef n="regular__v_are_noperf">
@@ -118,6 +143,24 @@
     <e><p><l>ae</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p><par n="que"/></e>
     <e><p><l>is</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="abl"/></r></p><par n="que"/></e>
    </pardef>
+   
+  
+   <pardef n="Gallia__n_f">
+    <e><p><l>a</l><r><s n="np"/><s n="f"/><s n="top"/><s n="sg"/><s n="nom"/></r></p><par n="que"/></e>
+    <e><p><l>ae</l><r><s n="np"/><s n="f"/><s n="top"/><s n="sg"/><s n="gen"/></r></p><par n="que"/></e>
+    <e><p><l>ae</l><r><s n="np"/><s n="f"/><s n="top"/><s n="sg"/><s n="dat"/></r></p><par n="que"/></e>
+    <e><p><l>am</l><r><s n="np"/><s n="f"/><s n="top"/><s n="sg"/><s n="acc"/></r></p><par n="que"/></e>
+    <e><p><l>a</l><r><s n="np"/><s n="f"/><s n="top"/><s n="sg"/><s n="voc"/></r></p><par n="que"/></e>
+    <e><p><l>a</l><r><s n="np"/><s n="f"/><s n="top"/><s n="sg"/><s n="abl"/></r></p><par n="que"/></e>
+
+    <e><p><l>ae</l><r><s n="np"/><s n="f"/><s n="top"/><s n="pl"/><s n="nom"/></r></p><par n="que"/></e>
+    <e><p><l>arum</l><r><s n="np"/><s n="f"/><s n="top"/><s n="pl"/><s n="gen"/></r></p><par n="que"/></e>
+    <e><p><l>is</l><r><s n="np"/><s n="f"/><s n="top"/><s n="pl"/><s n="dat"/></r></p><par n="que"/></e>
+    <e><p><l>as</l><r><s n="np"/><s n="f"/><s n="top"/><s n="pl"/><s n="acc"/></r></p><par n="que"/></e>
+    <e><p><l>ae</l><r><s n="np"/><s n="f"/><s n="top"/><s n="pl"/><s n="voc"/></r></p><par n="que"/></e>
+    <e><p><l>is</l><r><s n="np"/><s n="f"/><s n="top"/><s n="pl"/><s n="abl"/></r></p><par n="que"/></e>
+   </pardef>
+  
    <!-- Note there are no neuter first declension nouns. -->
 
    <!-- amphora, -ae also allows amphorum as genitive plural. -->
@@ -203,6 +246,8 @@
    </pardef>
  </pardefs>
  
+ 
+
  
  
  
@@ -411,7 +456,9 @@
 		<e lm="cuppa"><p><l>cupp</l><r>cuppa</r></p><par n="rosa__n_f"/></e>
 		<e lm="domina"><p><l>domin</l><r>domina</r></p><par n="rosa__n_f"/></e>
 		<e lm="ancilla"><p><l>ancill</l><r>ancilla</r></p><par n="rosa__n_f"/></e>
-		
+		<e lm="causa"><p><l>caus</l><r>causa</r></p><par n="rosa__n_f"/></e>
+		<e lm="provincia"><p><l>provinci</l><r>provincia</r></p><par n="rosa__n_f"/></e>
+
 
 		
 		
@@ -429,12 +476,20 @@
 				
 				
 		<e lm="lupus"><p><l>lup</l><r>lupus</r></p><par n="equus__n_m"/></e>
+		<e lm="agnus"><p><l>agn</l><r>agnus</r></p><par n="equus__n_m"/></e>
+		<e lm="locus"><p><l>loc</l><r>locus</r></p><par n="equus__n_m"/></e>
+
+		<e lm="rivus"><p><l>riv</l><r>rivus</r></p><par n="equus__n_m"/></e>
+		<e lm="bellum"><p><l>bell</l><r>bellum</r></p><par n="bellum__n_nt"/></e>
+		<e lm="castrum"><p><l>castr</l><r>castrum</r></p><par n="bellum__n_nt"/></e>
 
 		
 		
-		
-		
 	    <e lm="amo"><p><l>am</l><r>amo</r></p><par n="regular__v_are_noperf"/></e>
+	    
+	    
+	    <e lm="Gallia"><p><l>Galli</l><r>Gallia</r></p><par n="Gallia__n_f"/></e>
+
 	    
 	    <!-- Prepositions -->
 
@@ -451,7 +506,58 @@
 	    <e lm="ante"><p><l>ante</l><r>ante</r></p><par n="prep"/></e>
 	    <e lm="post"><p><l>post</l><r>post</r></p><par n="prep"/></e>
 	    <e lm="contra"><p><l>contra</l><r>contra</r></p><par n="prep"/></e>
+	    <e lm="inter"><p><l>inter</l><r>inter</r></p><par n="prep"/></e>
+	    <e lm="ex"><p><l>ex</l><r>ex</r></p><par n="prep"/></e>
+	    <e lm="e"><p><l>e</l><r>e</r></p><par n="prep"/></e>
+	    <e lm="per"><p><l>per</l><r>per</r></p><par n="prep"/></e>
 
+
+
+	    
+	    <e lm="tunc"><p><l>tunc</l><r>tunc</r></p><par n="adv"/></e>
+	    <e lm="mox"><p><l>mox</l><r>mox</r></p><par n="adv"/></e>
+	    <e lm="iam"><p><l>iam</l><r>iam</r></p><par n="adv"/></e>
+	    <e lm="dum"><p><l>dum</l><r>dum</r></p><par n="adv"/></e>
+	    <e lm="primum"><p><l>primum</l><r>primum</r></p><par n="adv"/></e>
+	    <e lm="deinde"><p><l>deinde</l><r>deinde</r></p><par n="adv"/></e>
+	    <e lm="hodie"><p><l>hodie</l><r>hodie</r></p><par n="adv"/></e>
+	    <e lm="heri"><p><l>heri</l><r>heri</r></p><par n="adv"/></e>
+	    <e lm="nunc"><p><l>nunc</l><r>nunc</r></p><par n="adv"/></e>
+	    <e lm="postremo"><p><l>postremo</l><r>postremo</r></p><par n="adv"/></e>
+	    <e lm="postquam"><p><l>postquam</l><r>postquam</r></p><par n="adv"/></e>
+	    <e lm="numquam"><p><l>numquam</l><r>numquam</r></p><par n="adv"/></e>
+	    <e lm="saepe"><p><l>saepe</l><r>saepe</r></p><par n="adv"/></e>
+	    <e lm="cotidie"><p><l>cotidie</l><r>cotidie</r></p><par n="adv"/></e>
+	    <e lm="nondum"><p><l>nondum</l><r>nondum</r></p><par n="adv"/></e>
+	    <e lm="crebro"><p><l>crebro</l><r>crebro</r></p><par n="adv"/></e>
+	    <e lm="pridie"><p><l>pridie</l><r>pridie</r></p><par n="adv"/></e>
+	    <e lm="propterea"><p><l>propterea</l><r>propterea</r></p><par n="adv"/></e>
+	    <e lm="tum"><p><l>tum</l><r>tum</r></p><par n="adv"/></e>
+	    <e lm="facile"><p><l>facile</l><r>facile</r></p><par n="adv"/></e>
+
+
+	    
+
+	    <e lm="ac"><p><l>ac</l><r>ac</r></p><par n="cnjcoo"/></e>
+	    <e lm="at"><p><l>at</l><r>at</r></p><par n="cnjcoo"/></e>
+	    <e lm="et"><p><l>et</l><r>et</r></p><par n="cnjcoo"/></e>
+	    <e lm="sed"><p><l>sed</l><r>sed</r></p><par n="cnjcoo"/></e>
+	    <e lm="vel"><p><l>vel</l><r>vel</r></p><par n="cnjcoo"/></e>
+	    <e lm="aut"><p><l>aut</l><r>aut</r></p><par n="cnjcoo"/></e>
+	    <e lm="atque"><p><l>atque</l><r>atque</r></p><par n="cnjcoo"/></e>
+	    <e lm="quod"><p><l>quod</l><r>quod</r></p><par n="cnjcoo"/></e>
+	    <e lm="tamen"><p><l>tamen</l><r>tamen</r></p><par n="cnjcoo"/></e>
+	    <e lm="nam"><p><l>nam</l><r>nam</r></p><par n="cnjcoo"/></e>
+
+
+	    
+	    
+	    <e lm="neque"><p><l>neque</l><r>neque</r></p><par n="cnjcoo"/></e>
+	    <e lm="si"><p><l>si</l><r>si</r></p><par n="cnjcoo"/></e>
+
+
+
+	    <e lm="non"><p><l>non</l><r>non</r></p><par n="neg"/></e>
 
 		
 		
