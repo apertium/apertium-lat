@@ -4,6 +4,10 @@
  <sdefs>
     
     <sdef n="n"     c="Noun"/>
+    <sdef n="v"     c="Verb"/>
+    <sdef n="cnjcoo"   c="Coordinating conjunction"/>
+    <sdef n="prep"   c="Preposition"/>
+
     <!-- Nouns -->
     	 <!-- Gender, latin has 3 genders: masculine, feminine and neuter-->
 
@@ -19,16 +23,37 @@
 
 	  <!-- Cases, latin has basically 6 cases, with locative that triggers for a very small set of Toponyms-->
 
-	  <sdef n="nom"   c="Nominative"/>
+	      <sdef n="nom"   c="Nominative"/>
     	  <sdef n="gen"   c="Genitive"/>
     	  <sdef n="dat"   c="Dative"/>
     	  <sdef n="acc"   c="Accusative"/>
     	  <sdef n="loc"   c="Locative"/>
     	  <sdef n="voc"   c="Vocative"/>
     	  <sdef n="abl"   c="Ablative"/>
-    	  <sdef n="cnjcoo"   c="Coordinating conjunction"/>
+
+    	  
+	  <!-- Verb Tags -->
+	  
+	  	 <sdef n="tv"   c="Transitive"/>
+	  	 <sdef n="iv"   c="Intransitive"/>
+	  	 
+	  	 <sdef n="prima"   c="first person"/>
+	  	 <sdef n="seconda"   c="second person"/>
+	  	 <sdef n="terza"   c="third person"/>
 
 
+	  	 
+	  	 <sdef n="jus"   c="Jussative"/>
+	  	 <sdef n="ind"   c="Indicative"/>
+
+	  	 
+	  	 
+	  	 <sdef n="pres"   c="present"/>
+
+
+
+
+		
 
   </sdefs>
   <pardefs>
@@ -36,6 +61,30 @@
     <e><p><l>que</l><r><j/>que<s n="cnjcoo"/></r></p></e>
     <e><p><l></l><r></r></p></e>
    </pardef>
+   
+   
+   <pardef n="prep">
+   
+ 	<e><p><l></l><r><s n="prep"/></r></p></e>
+ 	
+ 	</pardef>
+   
+   
+
+
+   <pardef n="regular__v_are_noperf">
+   
+     <e><p><l>o</l><r><s n="v"/><s n="tv"/><s n="pres"/><s n="ind"/><s n="prima"/><s n="sg"/></r></p><par n="que"/></e>
+     <e><p><l>as</l><r><s n="v"/><s n="tv"/><s n="pres"/><s n="ind"/><s n="seconda"/><s n="sg"/></r></p><par n="que"/></e>
+     <e><p><l>at</l><r><s n="v"/><s n="tv"/><s n="pres"/><s n="ind"/><s n="terza"/><s n="sg"/></r></p><par n="que"/></e>
+     <e><p><l>amus</l><r><s n="v"/><s n="tv"/><s n="pres"/><s n="ind"/><s n="prima"/><s n="pl"/></r></p><par n="que"/></e>
+     <e><p><l>atis</l><r><s n="v"/><s n="tv"/><s n="pres"/><s n="ind"/><s n="seconda"/><s n="pl"/></r></p><par n="que"/></e>
+     <e><p><l>ant</l><r><s n="v"/><s n="tv"/><s n="pres"/><s n="ind"/><s n="terza"/><s n="pl"/></r></p><par n="que"/></e>
+
+
+        </pardef>
+
+     
 
    <pardef n="rosa__n_f">
     <e><p><l>a</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p><par n="que"/></e>
@@ -377,6 +426,35 @@
 		<e lm="aper"><p><l>ap</l><r>aper</r></p><par n="ager__n_m"/></e>
 		<e lm="culter"><p><l>cult</l><r>culter</r></p><par n="ager__n_m"/></e>
 		<e lm="faber"><p><l>fab</l><r>faber</r></p><par n="ager__n_m"/></e>
+				
+				
+		<e lm="lupus"><p><l>lup</l><r>lupus</r></p><par n="equus__n_m"/></e>
+
+		
+		
+		
+		
+	    <e lm="amo"><p><l>am</l><r>amo</r></p><par n="regular__v_are_noperf"/></e>
+	    
+	    <!-- Prepositions -->
+
+	    
+	    <e lm="ut"><p><l>ut</l><r>ut</r></p><par n="prep"/></e>
+	    <e lm="in"><p><l>in</l><r>in</r></p><par n="prep"/></e>
+	    <e lm="ad"><p><l>ad</l><r>ad</r></p><par n="prep"/></e>
+	    <e lm="cum"><p><l>cum</l><r>cum</r></p><par n="prep"/></e>
+	    <e lm="de"><p><l>de</l><r>de</r></p><par n="prep"/></e>
+	    <e lm="a"><p><l>a</l><r>a</r></p><par n="prep"/></e>
+	    <e lm="ab"><p><l>ab</l><r>ab</r></p><par n="prep"/></e>
+	    <e lm="pro"><p><l>pro</l><r>pro</r></p><par n="prep"/></e>
+	    <e lm="apud"><p><l>apud</l><r>apud</r></p><par n="prep"/></e>
+	    <e lm="ante"><p><l>ante</l><r>ante</r></p><par n="prep"/></e>
+	    <e lm="post"><p><l>post</l><r>post</r></p><par n="prep"/></e>
+	    <e lm="contra"><p><l>contra</l><r>contra</r></p><par n="prep"/></e>
+
+
+		
+		
 		
  </section>
 </dictionary>
