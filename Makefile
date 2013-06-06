@@ -1,5 +1,6 @@
 INFILE=apertium-lat.lat
 OUTFILE=lat
+
 all:
 #	hfst-lexc -f foma $(INFILE).lexc -o $(OUTFILE).gen.hfst
 #	hfst-lexc -f foma $(INFILE).lexc -o $(OUTFILE).lexc.hfst
