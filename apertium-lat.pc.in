@@ -1,0 +1,10 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+libdir=@libdir@
+dir=@libdir@/apertium/apertium-lat
+srcdir=@datarootdir@/apertium/apertium-lat
+
+Name: apertium-lat
+Description: Finite-state morphological transducer and constraint grammar for Latin 
+Version: @VERSION@
+
