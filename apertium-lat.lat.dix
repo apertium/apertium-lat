@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
   Latin morphological analyser for Apertium
   
@@ -47,6 +47,8 @@
     <sdef n="voc"/>
     <sdef n="loc"/>
 
+    <sdef n="num"/>
+
     <sdef n="pr"/>
     <sdef n="cnjcoo"/>
     <sdef n="cnjsub"/>
@@ -63,6 +65,8 @@
 
     <sdef n="vbser"/>
     <sdef n="vblex"/>
+      
+    <sdef n="adj"/>
 
     <sdef n="fti"/>
     <sdef n="pri"/>
@@ -93,6 +97,134 @@
     <sdef n="sent"/>
   </sdefs>
   <pardefs>
+    <!-- Adjectives -->  
+    <pardef n="alt/us__adj">
+        <e><p><l>us</l>              <r>us<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+        <e><p><l>e</l>               <r>us<s n="adj"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+        <e><p><l>um</l>              <r>us<s n="adj"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+        <e><p><l>ī</l>               <r>us<s n="adj"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+        <e><p><l>ō</l>               <r>us<s n="adj"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
+        <e><p><l>ō</l>               <r>us<s n="adj"/><s n="m"/><s n="sg"/><s n="abl"/></r></p></e>
+        <e><p><l>ī</l>               <r>us<s n="adj"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+        <e><p><l>ī</l>               <r>us<s n="adj"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+        <e><p><l>ōs</l>              <r>us<s n="adj"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
+        <e><p><l>ōrum</l>            <r>us<s n="adj"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
+        <e><p><l>īs</l>              <r>us<s n="adj"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
+        <e><p><l>īs</l>              <r>us<s n="adj"/><s n="m"/><s n="pl"/><s n="abl"/></r></p></e>
+        
+        <e><p><l>a</l>               <r>us<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+        <e><p><l>a</l>               <r>us<s n="adj"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+        <e><p><l>am</l>              <r>us<s n="adj"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+        <e><p><l>ae</l>              <r>us<s n="adj"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+        <e><p><l>ae</l>              <r>us<s n="adj"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+        <e><p><l>ā</l>               <r>us<s n="adj"/><s n="f"/><s n="sg"/><s n="abl"/></r></p></e>
+        <e><p><l>ae</l>              <r>us<s n="adj"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+        <e><p><l>ae</l>              <r>us<s n="adj"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+        <e><p><l>ās</l>              <r>us<s n="adj"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+        <e><p><l>ārum</l>            <r>us<s n="adj"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+        <e><p><l>īs</l>              <r>us<s n="adj"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
+        <e><p><l>īs</l>              <r>us<s n="adj"/><s n="f"/><s n="pl"/><s n="abl"/></r></p></e>
+        
+        <e><p><l>um</l>              <r>us<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+        <e><p><l>um</l>              <r>us<s n="adj"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+        <e><p><l>um</l>              <r>us<s n="adj"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+        <e><p><l>ī</l>               <r>us<s n="adj"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+        <e><p><l>ō</l>               <r>us<s n="adj"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+        <e><p><l>ō</l>               <r>us<s n="adj"/><s n="f"/><s n="sg"/><s n="abl"/></r></p></e>
+        <e><p><l>a</l>               <r>us<s n="adj"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+        <e><p><l>a</l>               <r>us<s n="adj"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+        <e><p><l>a</l>               <r>us<s n="adj"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+        <e><p><l>ōrum</l>            <r>us<s n="adj"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+        <e><p><l>īs</l>              <r>us<s n="adj"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
+        <e><p><l>īs</l>              <r>us<s n="adj"/><s n="f"/><s n="pl"/><s n="abl"/></r></p></e>
+    </pardef>
+      
+    <!-- Numerals -->  
+      
+    <pardef n="un/us__num">
+        <e><p><l>us</l>              <r>us<s n="num"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+        <e><p><l>e</l>               <r>us<s n="num"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+        <e><p><l>um</l>              <r>us<s n="num"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+        <e><p><l>īus</l>             <r>us<s n="num"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+        <e><p><l>ī</l>               <r>us<s n="num"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
+        <e><p><l>ō</l>               <r>us<s n="num"/><s n="m"/><s n="sg"/><s n="abl"/></r></p></e>
+        <e><p><l>ī</l>               <r>us<s n="num"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+        <e><p><l>ī</l>               <r>us<s n="num"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+        <e><p><l>ōs</l>              <r>us<s n="num"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
+        <e><p><l>ōrum</l>            <r>us<s n="num"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
+        <e><p><l>īs</l>              <r>us<s n="num"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
+        <e><p><l>īs</l>              <r>us<s n="num"/><s n="m"/><s n="pl"/><s n="abl"/></r></p></e>
+        
+        <e><p><l>a</l>               <r>us<s n="num"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+        <e><p><l>a</l>               <r>us<s n="num"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+        <e><p><l>am</l>              <r>us<s n="num"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+        <e><p><l>īus</l>             <r>us<s n="num"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+        <e><p><l>ī</l>               <r>us<s n="num"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+        <e><p><l>ā</l>               <r>us<s n="num"/><s n="f"/><s n="sg"/><s n="abl"/></r></p></e>
+        <e><p><l>ae</l>              <r>us<s n="num"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+        <e><p><l>ae</l>              <r>us<s n="num"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+        <e><p><l>ās</l>              <r>us<s n="num"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+        <e><p><l>ārum</l>            <r>us<s n="num"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+        <e><p><l>īs</l>              <r>us<s n="num"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
+        <e><p><l>īs</l>              <r>us<s n="num"/><s n="f"/><s n="pl"/><s n="abl"/></r></p></e>
+        
+        <e><p><l>um</l>              <r>us<s n="num"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+        <e><p><l>um</l>              <r>us<s n="num"/><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
+        <e><p><l>um</l>              <r>us<s n="num"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+        <e><p><l>īus</l>             <r>us<s n="num"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+        <e><p><l>ī</l>               <r>us<s n="num"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
+        <e><p><l>ō</l>               <r>us<s n="num"/><s n="nt"/><s n="sg"/><s n="abl"/></r></p></e>
+        <e><p><l>a</l>               <r>us<s n="num"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+        <e><p><l>a</l>               <r>us<s n="num"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
+        <e><p><l>a</l>               <r>us<s n="num"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
+        <e><p><l>ōrum</l>            <r>us<s n="num"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
+        <e><p><l>īs</l>              <r>us<s n="num"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
+        <e><p><l>īs</l>              <r>us<s n="num"/><s n="nt"/><s n="pl"/><s n="abl"/></r></p></e>
+    </pardef>
+      
+        <!-- Numerals -->  
+      
+    <pardef n="ūn/us__num">
+        <e><p><l>us</l>              <r>us<s n="num"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+        <e><p><l>e</l>               <r>us<s n="num"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+        <e><p><l>um</l>              <r>us<s n="num"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+        <e><p><l>īus</l>             <r>us<s n="num"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+        <e><p><l>ī</l>               <r>us<s n="num"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
+        <e><p><l>ō</l>               <r>us<s n="num"/><s n="m"/><s n="sg"/><s n="abl"/></r></p></e>
+        <e><p><l>ī</l>               <r>us<s n="num"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+        <e><p><l>ī</l>               <r>us<s n="num"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+        <e><p><l>ōs</l>              <r>us<s n="num"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
+        <e><p><l>ōrum</l>            <r>us<s n="num"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
+        <e><p><l>īs</l>              <r>us<s n="num"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
+        <e><p><l>īs</l>              <r>us<s n="num"/><s n="m"/><s n="pl"/><s n="abl"/></r></p></e>
+        
+        <e><p><l>a</l>               <r>us<s n="num"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+        <e><p><l>a</l>               <r>us<s n="num"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+        <e><p><l>am</l>              <r>us<s n="num"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+        <e><p><l>īus</l>             <r>us<s n="num"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+        <e><p><l>ī</l>               <r>us<s n="num"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+        <e><p><l>ā</l>               <r>us<s n="num"/><s n="f"/><s n="sg"/><s n="abl"/></r></p></e>
+        <e><p><l>ae</l>              <r>us<s n="num"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+        <e><p><l>ae</l>              <r>us<s n="num"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+        <e><p><l>ās</l>              <r>us<s n="num"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+        <e><p><l>ārum</l>            <r>us<s n="num"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+        <e><p><l>īs</l>              <r>us<s n="num"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
+        <e><p><l>īs</l>              <r>us<s n="num"/><s n="f"/><s n="pl"/><s n="abl"/></r></p></e>
+        
+        <e><p><l>um</l>              <r>us<s n="num"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+        <e><p><l>um</l>              <r>us<s n="num"/><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
+        <e><p><l>um</l>              <r>us<s n="num"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+        <e><p><l>īus</l>             <r>us<s n="num"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+        <e><p><l>ī</l>               <r>us<s n="num"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
+        <e><p><l>ō</l>               <r>us<s n="num"/><s n="nt"/><s n="sg"/><s n="abl"/></r></p></e>
+        <e><p><l>a</l>               <r>us<s n="num"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+        <e><p><l>a</l>               <r>us<s n="num"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
+        <e><p><l>a</l>               <r>us<s n="num"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
+        <e><p><l>ōrum</l>            <r>us<s n="num"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
+        <e><p><l>īs</l>              <r>us<s n="num"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
+        <e><p><l>īs</l>              <r>us<s n="num"/><s n="nt"/><s n="pl"/><s n="abl"/></r></p></e>
+    </pardef>
+      
     <!-- Prepositions -->  
     <pardef n="ab__pr">
       <e>
@@ -5329,6 +5461,13 @@
     <e a="agfl-lat" lm="viscerum"><i>viscer</i><par n="bell/um__n"/></e>
     <e a="agfl-lat" lm="vitium"><i>viti</i><par n="bell/um__n"/></e>
     <e a="agfl-lat" lm="vocabulum"><i>vocabul</i><par n="bell/um__n"/></e>
+      
+      
+    <e lm="altus"><i>alt</i><par n="alt/us__adj"/></e>
+      
+    <e lm="unus"><i>un</i><par n="un/us__num"/></e>
+
+
 
   </section>
   <section id="punt" type="inconditional">
