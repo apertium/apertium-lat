@@ -33,6 +33,7 @@
     <sdef n="m"/>
     <sdef n="f"/>
     <sdef n="nt"/>
+    <sdef n="mf"/>  
     <sdef n="sg"/>
     <sdef n="pl"/>
     <sdef n="np"/>
@@ -47,6 +48,8 @@
     <sdef n="abl"/>
     <sdef n="voc"/>
     <sdef n="loc"/>
+      
+    <sdef n="pers"/>      
 
     <sdef n="num"/>
 
@@ -90,9 +93,12 @@
     <sdef n="act"/>
     <sdef n="psv"/>
       
+    <sdef n="sp"/>
+      
     <sdef n="comp"/>
     <sdef n="sup"/>
      
+    <sdef n="qnt"/>
 
     <sdef n="p1"/>
     <sdef n="p2"/>
@@ -187,6 +193,17 @@
         <e><p><l>īs</l>              <r>us<s n="num"/><s n="nt"/><s n="pl"/><s n="abl"/></r></p></e>
     </pardef>
       
+    <!-- Pronouns -->  
+      
+    <pardef n="/ego__prn">
+        <e><p><l>ego</l>         <r>ego<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="nom"/></r></p></e>
+        <e><p><l>mei</l>         <r>ego<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="gen"/></r></p></e>
+        <e><p><l>mihi</l>        <r>ego<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="dat"/></r></p></e>
+        <e><p><l>me</l>          <r>ego<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="acc"/></r></p></e>
+        <e><p><l>me</l>          <r>ego<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="abl"/></r></p></e>
+        <e><p><l>ego</l>         <r>ego<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="voc"/></r></p></e>
+        <e><p><l>meus</l>        <r>ego<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="pos"/></r></p></e>
+    </pardef>
         <!-- Adverbs -->  
       
     <pardef n="clar/e__adv">
@@ -194,7 +211,13 @@
       <e>       <p><l>ius</l>       <r>e<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
       <e>       <p><l>issime</l>    <r>e<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
     </pardef>
+   
+    <!-- Determiners -->  
       
+    <pardef n="magis__det">
+      <e>       <p><l></l>         <r><s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
+    </pardef>
+
     <!-- Prepositions -->  
     <pardef n="ab__pr">
       <e>
@@ -5432,12 +5455,27 @@
     <e a="agfl-lat" lm="vitium"><i>viti</i><par n="bell/um__n"/></e>
     <e a="agfl-lat" lm="vocabulum"><i>vocabul</i><par n="bell/um__n"/></e>
       
+    <!-- Adjectives -->
       
     <e lm="altus"><i>alt</i><par n="alt/us__adj"/></e>
-      
+
+    <!-- Numerals -->
+
     <e lm="unus"><i>un</i><par n="un/us__num"/></e>
-      
+
+    <!-- Adverbs -->
+
     <e lm="clare"><i>clar</i><par n="clar/e__adv"/></e>
+      
+    <!-- Pronouns -->
+
+    <e lm="ego"><i></i><par n="/ego__prn"/></e>
+      
+     <!-- Pronouns -->
+     
+    <e lm="magis"><i></i><par n="magis__det"/></e>
+    <e lm="maxime"><i></i><par n="magis__det"/></e>
+
 
 
 
