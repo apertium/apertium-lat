@@ -196,13 +196,21 @@
     <!-- Pronouns -->  
       
     <pardef n="/ego__prn">
-        <e><p><l>ego</l>         <r>ego<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="nom"/></r></p></e>
-        <e><p><l>mei</l>         <r>ego<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="gen"/></r></p></e>
-        <e><p><l>mihi</l>        <r>ego<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="dat"/></r></p></e>
-        <e><p><l>me</l>          <r>ego<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="acc"/></r></p></e>
-        <e><p><l>me</l>          <r>ego<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="abl"/></r></p></e>
-        <e><p><l>ego</l>         <r>ego<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="voc"/></r></p></e>
-        <e><p><l>meus</l>        <r>ego<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="pos"/></r></p></e>
+        <e><p><l>ego</l>          <r>ego<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="nom"/></r></p></e>
+        <e><p><l>mei</l>          <r>ego<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="gen"/></r></p></e>
+        <e><p><l>mihi</l>         <r>ego<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="dat"/></r></p></e>
+        <e><p><l>me</l>           <r>ego<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="acc"/></r></p></e>
+        <e><p><l>me</l>           <r>ego<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="abl"/></r></p></e>
+        <e><p><l>ego</l>          <r>ego<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="voc"/></r></p></e>
+        <e><p><l>meus</l>         <r>ego<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="pos"/></r></p></e>
+    </pardef>
+      
+    <pardef n="ill/e__prn">
+        <e><p><l>e</l>            <r>e<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+        <e><p><l>us</l>           <r>e<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+        <e><p><l>i</l>            <r>e<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
+        <e><p><l>um</l>           <r>e<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+        <e><p><l>o</l>            <r>e<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/><s n="abl"/></r></p></e>
     </pardef>
         <!-- Adverbs -->  
       
@@ -217,6 +225,19 @@
     <pardef n="magis__det">
       <e>       <p><l></l>         <r><s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     </pardef>
+      
+    <!-- Toponyms -->  
+      
+    <pardef n="Rom/a__np">
+      <e>       <p><l>a</l>         <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>ae</l>         <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>       <p><l>ae</l>         <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e>       <p><l>am</l>         <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e>       <p><l>a</l>         <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="abl"/></r></p></e>
+      <e>       <p><l>a</l>         <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ae</l>         <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
+
+    </pardef>   
 
     <!-- Prepositions -->  
     <pardef n="ab__pr">
@@ -5470,13 +5491,17 @@
     <!-- Pronouns -->
 
     <e lm="ego"><i></i><par n="/ego__prn"/></e>
+    <e lm="ille"><i>ill</i><par n="ill/e__prn"/></e>
+
       
-     <!-- Pronouns -->
+     <!-- Determiners -->
      
-    <e lm="magis"><i></i><par n="magis__det"/></e>
-    <e lm="maxime"><i></i><par n="magis__det"/></e>
+    <e lm="magis"><i>magis</i><par n="magis__det"/></e>
+    <e lm="maxime"><i>maxime</i><par n="magis__det"/></e>
+      
+     <!-- Proper Nouns -->
 
-
+    <e lm="Roma"><i>Rom</i><par n="Rom/a__np"/></e>
 
 
   </section>
