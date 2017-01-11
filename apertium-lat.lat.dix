@@ -4656,6 +4656,7 @@
     <e lm="esse"><i></i><par n="/esse__vbser"/></e>
     <e lm="ire"><i></i><par n="/ire__vblex"/></e>
     <e lm="amare"><i>am</i><par n="am/are__vblex"/></e>
+    <e lm="portare"><i>port</i><par n="am/are__vblex"/></e>
 
     <e a="agfl-lat" lm="antequam"><i>antequam</i><par n="ut__cnjsub"/></e>
     <e a="agfl-lat" lm="cur"><i>cur</i><par n="ut__cnjsub"/></e>
