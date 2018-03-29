@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Latin morphological analyser for Apertium
-  
+
   Resources for Latin are bountiful...
   much of this lexicon was imported from AFGL's Latin lexicon
   http://www.agfl.cs.ru.nl/lat/generating.html
@@ -9,8 +9,8 @@
  # Latin grammar and lexicon constructed by
  # Cornelis H.A. Koster for Tineke E.Koster
  # as part of the AGFL project
- # C.H.A. Koster, dec 2003 
- 
+ # C.H.A. Koster, dec 2003
+
 #   This grammar is free software; you can use it, redistribute it
 #   and/or modify it under the terms of the GNU Lesser General Public
 #   License as published by the Free Software Foundation; either
@@ -24,7 +24,7 @@
 #   You should have received a copy of the GNU Lesser General Public
 #   License along with this library; if not, write to the Free Software
 #   Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
- 
+
 -->
 <dictionary>
   <alphabet>ÀÁÂÄÇÈÉÊËÌÍÎÏÑÒÓÔÖÙÚÛÜàáâäçèéêëìíîïñòóôöùúûüABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzŀlāēīōū</alphabet>
@@ -33,13 +33,13 @@
     <sdef n="m"/>
     <sdef n="f"/>
     <sdef n="nt"/>
-    <sdef n="mf"/>  
+    <sdef n="mf"/>
     <sdef n="sg"/>
     <sdef n="pl"/>
     <sdef n="np"/>
     <sdef n="ant"/>
     <sdef n="top"/>
-    
+
     <sdef n="sint"/>
     <sdef n="nom"/>
     <sdef n="gen"/>
@@ -48,8 +48,8 @@
     <sdef n="abl"/>
     <sdef n="voc"/>
     <sdef n="loc"/>
-      
-    <sdef n="pers"/>      
+
+    <sdef n="pers"/>
 
     <sdef n="num"/>
 
@@ -69,7 +69,7 @@
 
     <sdef n="vbser"/>
     <sdef n="vblex"/>
-      
+
     <sdef n="adj"/>
 
     <sdef n="fti"/>
@@ -92,12 +92,12 @@
     <sdef n="pp"/>
     <sdef n="act"/>
     <sdef n="psv"/>
-      
+
     <sdef n="sp"/>
-      
+
     <sdef n="comp"/>
     <sdef n="sup"/>
-     
+
     <sdef n="qnt"/>
 
     <sdef n="p1"/>
@@ -108,7 +108,7 @@
     <sdef n="sent"/>
   </sdefs>
   <pardefs>
-    <!-- Adjectives -->  
+    <!-- Adjectives -->
     <pardef n="alt/us__adj">
         <e><p><l>us</l>              <r>us<s n="adj"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
         <e><p><l>e</l>               <r>us<s n="adj"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
@@ -122,7 +122,7 @@
         <e><p><l>ōrum</l>            <r>us<s n="adj"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
         <e><p><l>īs</l>              <r>us<s n="adj"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
         <e><p><l>īs</l>              <r>us<s n="adj"/><s n="m"/><s n="pl"/><s n="abl"/></r></p></e>
-        
+
         <e><p><l>a</l>               <r>us<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
         <e><p><l>a</l>               <r>us<s n="adj"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
         <e><p><l>am</l>              <r>us<s n="adj"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -135,7 +135,7 @@
         <e><p><l>ārum</l>            <r>us<s n="adj"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
         <e><p><l>īs</l>              <r>us<s n="adj"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
         <e><p><l>īs</l>              <r>us<s n="adj"/><s n="f"/><s n="pl"/><s n="abl"/></r></p></e>
-        
+
         <e><p><l>um</l>              <r>us<s n="adj"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
         <e><p><l>um</l>              <r>us<s n="adj"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
         <e><p><l>um</l>              <r>us<s n="adj"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -149,9 +149,9 @@
         <e><p><l>īs</l>              <r>us<s n="adj"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
         <e><p><l>īs</l>              <r>us<s n="adj"/><s n="f"/><s n="pl"/><s n="abl"/></r></p></e>
     </pardef>
-      
-    <!-- Numerals -->  
-      
+
+    <!-- Numerals -->
+
     <pardef n="un/us__num">
         <e><p><l>us</l>              <r>us<s n="num"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
         <e><p><l>e</l>               <r>us<s n="num"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
@@ -165,7 +165,7 @@
         <e><p><l>ōrum</l>            <r>us<s n="num"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
         <e><p><l>īs</l>              <r>us<s n="num"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
         <e><p><l>īs</l>              <r>us<s n="num"/><s n="m"/><s n="pl"/><s n="abl"/></r></p></e>
-        
+
         <e><p><l>a</l>               <r>us<s n="num"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
         <e><p><l>a</l>               <r>us<s n="num"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
         <e><p><l>am</l>              <r>us<s n="num"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -178,7 +178,7 @@
         <e><p><l>ārum</l>            <r>us<s n="num"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
         <e><p><l>īs</l>              <r>us<s n="num"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
         <e><p><l>īs</l>              <r>us<s n="num"/><s n="f"/><s n="pl"/><s n="abl"/></r></p></e>
-        
+
         <e><p><l>um</l>              <r>us<s n="num"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
         <e><p><l>um</l>              <r>us<s n="num"/><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
         <e><p><l>um</l>              <r>us<s n="num"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -192,9 +192,9 @@
         <e><p><l>īs</l>              <r>us<s n="num"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
         <e><p><l>īs</l>              <r>us<s n="num"/><s n="nt"/><s n="pl"/><s n="abl"/></r></p></e>
     </pardef>
-      
-    <!-- Pronouns -->  
-      
+
+    <!-- Pronouns -->
+
     <pardef n="/ego__prn">
         <e><p><l>ego</l>          <r>ego<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="nom"/></r></p></e>
         <e><p><l>mei</l>          <r>ego<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="gen"/></r></p></e>
@@ -204,7 +204,7 @@
         <e><p><l>ego</l>          <r>ego<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="voc"/></r></p></e>
         <e><p><l>meus</l>         <r>ego<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="pos"/></r></p></e>
     </pardef>
-      
+
     <pardef n="ill/e__prn">
         <e><p><l>e</l>            <r>e<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
         <e><p><l>us</l>           <r>e<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
@@ -212,22 +212,22 @@
         <e><p><l>um</l>           <r>e<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
         <e><p><l>o</l>            <r>e<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/><s n="abl"/></r></p></e>
     </pardef>
-        <!-- Adverbs -->  
-      
+        <!-- Adverbs -->
+
     <pardef n="clar/e__adv">
       <e>       <p><l>e</l>         <r>e<s n="adv"/><s n="sint"/></r></p></e>
       <e>       <p><l>ius</l>       <r>e<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
       <e>       <p><l>issime</l>    <r>e<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
     </pardef>
-   
-    <!-- Determiners -->  
-      
+
+    <!-- Determiners -->
+
     <pardef n="magis__det">
       <e>       <p><l></l>         <r><s n="det"/><s n="qnt"/><s n="sp"/></r></p></e>
     </pardef>
-      
-    <!-- Toponyms -->  
-      
+
+    <!-- Toponyms -->
+
     <pardef n="Rom/a__np">
       <e>       <p><l>a</l>         <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e>       <p><l>ae</l>         <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
@@ -237,9 +237,9 @@
       <e>       <p><l>a</l>         <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
       <e>       <p><l>ae</l>         <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
 
-    </pardef>   
+    </pardef>
 
-    <!-- Prepositions -->  
+    <!-- Prepositions -->
     <pardef n="ab__pr">
       <e>
         <p>
@@ -2714,6 +2714,92 @@
         </p>
       </e>
     </pardef>
+    <pardef n="tempesta/s__n">
+      <e>
+        <p>
+          <l>s</l>
+          <r>s<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tis</l>
+          <r>s<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ti</l>
+          <r>s<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tem</l>
+          <r>s<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>te</l>
+          <r>s<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tas</l>
+          <r>s<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>te</l>
+          <r>s<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tes</l>
+          <r>s<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tum</l>
+          <r>s<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tibus</l>
+          <r>s<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tes</l>
+          <r>s<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tibus</l>
+          <r>s<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tes</l>
+          <r>s<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tibus</l>
+          <r>s<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="re/s__n">
       <e>
         <p>
@@ -4864,7 +4950,7 @@
     <e a="agfl-lat" lm="itane"><i>itane</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="sursum"><i>sursum</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="retro"><i>retro</i><par n="quasi__adv"/></e>
-    
+
     <!-- Declension 1 f a, ae -->
     <e lm="aqua"><i>aqu</i><par n="aqu/a__n"/></e> <!-- water -->
     <e lm="abbatia"><i>abbati</i><par n="aqu/a__n"/></e> <!-- abbey -->
@@ -4898,6 +4984,7 @@
     <e lm="filia"><i>fili</i><par n="aqu/a__n"/></e> <!-- daughter -->
     <e lm="stella"><i>stell</i><par n="aqu/a__n"/></e>
     <e a="afgl-lat" lm="Cornelia"><i>Corneli</i><par n="Corneli/a__np"/></e>
+    <e a="afgl-lat" lm="Maria"><i>Mari</i><par n="Corneli/a__np"/></e>
     <e a="afgl-lat" lm="abstinentia"><i>abstinenti</i><par n="aqu/a__n"/></e>
     <e a="afgl-lat" lm="abundantia"><i>abundanti</i><par n="aqu/a__n"/></e>
     <e a="afgl-lat" lm="adolescentia"><i>adolescenti</i><par n="aqu/a__n"/></e>
@@ -5246,13 +5333,15 @@
     <e a="agfl-lat" lm="vultus"><i>vult</i><par n="mur/us__n"/></e>
     <!-- Irregular -->
     <e lm="domus"><i>vult</i><par n="dom/us__n"/></e>
-    
+
     <e lm="Iulius"><i>Iuli</i><par n="Iuli/us__np"/></e> <!-- Julius -->
     <e lm="Brutus"><i>Brut</i><par n="Iuli/us__np"/></e> <!-- Brutus -->
     <e lm="Marcus"><i>Marc</i><par n="Iuli/us__np"/></e>
     <e lm="Lucius"><i>Luci</i><par n="Iuli/us__np"/></e>
+    <e lm="Jamus"><i>Jam</i><par n="Iuli/us__np"/></e> <!-- James em -->
     <e lm="puer"><i>puer</i><par n="puer__n"/></e>
     <e lm="arx"><i>ar</i><par n="ar/x__n"/></e>
+    <e lm="tempestas"><i>tempesta</i><par n="tempesta/s__n"/></e>
     <e lm="res"><i>re</i><par n="re/s__n"/></e>
     <e lm="ager"><i>ag</i><par n="ag/er__n"/></e>
     <e lm="bellum"><i>bell</i><par n="bell/um__n"/></e>
@@ -5476,9 +5565,9 @@
     <e a="agfl-lat" lm="viscerum"><i>viscer</i><par n="bell/um__n"/></e>
     <e a="agfl-lat" lm="vitium"><i>viti</i><par n="bell/um__n"/></e>
     <e a="agfl-lat" lm="vocabulum"><i>vocabul</i><par n="bell/um__n"/></e>
-      
+
     <!-- Adjectives -->
-      
+
     <e lm="altus"><i>alt</i><par n="alt/us__adj"/></e>
     <e lm="parvus"><i>alt</i><par n="alt/us__adj"/></e>
     <e lm="caldus"><i>alt</i><par n="alt/us__adj"/></e>
@@ -5490,18 +5579,18 @@
     <!-- Adverbs -->
 
     <e lm="clare"><i>clar</i><par n="clar/e__adv"/></e>
-      
+
     <!-- Pronouns -->
 
     <e lm="ego"><i></i><par n="/ego__prn"/></e>
     <e lm="ille"><i>ill</i><par n="ill/e__prn"/></e>
 
-      
+
      <!-- Determiners -->
-     
+
     <e lm="magis"><i>magis</i><par n="magis__det"/></e>
     <e lm="maxime"><i>maxime</i><par n="magis__det"/></e>
-      
+
      <!-- Proper Nouns -->
 
     <e lm="Roma"><i>Rom</i><par n="Rom/a__np"/></e>
