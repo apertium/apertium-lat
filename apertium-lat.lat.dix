@@ -5480,6 +5480,8 @@
     <!-- Adjectives -->
       
     <e lm="altus"><i>alt</i><par n="alt/us__adj"/></e>
+    <e lm="parvus"><i>alt</i><par n="alt/us__adj"/></e>
+    <e lm="caldus"><i>alt</i><par n="alt/us__adj"/></e>
 
     <!-- Numerals -->
 
