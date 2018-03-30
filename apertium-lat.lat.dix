@@ -2890,6 +2890,92 @@
         </p>
       </e>
     </pardef>
+    <pardef n="soror/__n">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>is</l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>em</l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>es</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>um</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ibus</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>es</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ibus</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>es</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ibus</l>
+          <r><s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="re/s__n">
       <e>
         <p>
@@ -4833,6 +4919,7 @@
     <e lm="ire"><i></i><par n="/ire__vblex"/></e>
     <e lm="amare"><i>am</i><par n="am/are__vblex"/></e>
     <e lm="portare"><i>port</i><par n="am/are__vblex"/></e>
+    <e lm="ludere"><i>lud</i><par n="am/are__vblex"/></e>
 
     <e a="agfl-lat" lm="antequam"><i>antequam</i><par n="ut__cnjsub"/></e>
     <e a="agfl-lat" lm="cur"><i>cur</i><par n="ut__cnjsub"/></e>
@@ -4860,6 +4947,8 @@
     <e a="agfl-lat" lm="propterea"><i>propterea</i><par n="ut__cnjsub"/></e>
 
     <!-- Adverbs -->
+    <e a="agfl-lat" lm="heri"><i>heri</i><par n="quasi__adv"/></e>
+    <e a="agfl-lat" lm="hodie"><i>hodie</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="abhinc"><i>abhinc</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="adfatim"><i>adfatim</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="adhuc"><i>adhuc</i><par n="quasi__adv"/></e>
@@ -4973,6 +5062,7 @@
     <e a="agfl-lat" lm="scilicet"><i>scilicet</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="secretius"><i>secretius</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="semper"><i>semper</i><par n="quasi__adv"/></e>
+    <e a="agfl-lat" lm="communiter"><i>communiter</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="sensim"><i>sensim</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="sic"><i>sic</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="simul"><i>simul</i><par n="quasi__adv"/></e>
@@ -5661,6 +5751,8 @@
     <e lm="altus"><i>alt</i><par n="alt/us__adj"/></e>
     <e lm="parvus"><i>parv</i><par n="alt/us__adj"/></e>
     <e lm="caldus"><i>cald</i><par n="alt/us__adj"/></e>
+    <e lm="magnus"><i>magn</i><par n="alt/us__adj"/></e>
+    <e lm="frigidus"><i>frigid</i><par n="alt/us__adj"/></e>
     <e lm="pulcher"><i>pulch</i><par n="pulch/er__adj"/></e>
 
     <!-- Numerals -->
