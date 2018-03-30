@@ -5520,6 +5520,7 @@
     <e lm="Lucius"><i>Luci</i><par n="Iuli/us__np"/></e>
     <e lm="Jamus"><i>Jam</i><par n="Iuli/us__np"/></e> <!-- James em -->
     <e lm="puer"><i>puer</i><par n="puer__n"/></e>
+    <e lm="soror"><i>soror</i><par n="soror/__n"/></e>
     <e lm="arx"><i>ar</i><par n="ar/x__n"/></e>
     <e lm="tempestas"><i>tempesta</i><par n="tempesta/s__n"/></e>
     <e lm="res"><i>re</i><par n="re/s__n"/></e>
