@@ -5661,7 +5661,7 @@
     <e lm="altus"><i>alt</i><par n="alt/us__adj"/></e>
     <e lm="parvus"><i>parv</i><par n="alt/us__adj"/></e>
     <e lm="caldus"><i>cald</i><par n="alt/us__adj"/></e>
-    <e lm="pulcher"><i>cald</i><par n="pulch/er__adj"/></e>
+    <e lm="pulcher"><i>pulch</i><par n="pulch/er__adj"/></e>
 
     <!-- Numerals -->
 
