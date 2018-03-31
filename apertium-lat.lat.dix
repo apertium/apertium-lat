@@ -5803,7 +5803,7 @@
 
     <e lm="ego"><i></i><par n="/ego__prn"/></e>
     <e lm="ille"><i>ill</i><par n="ill/e__prn"/></e>
-    <e lm="suus"><i>suus</i><par n="/suus__prn"/></e>
+    <e lm="suus"><i></i><par n="/suus__prn"/></e>
 
 
      <!-- Determiners -->
