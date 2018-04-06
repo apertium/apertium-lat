@@ -152,18 +152,8 @@
         <e><p><l>īs</l>              <r>us<s n="adj"/><s n="f"/><s n="pl"/><s n="abl"/></r></p></e>
     </pardef>
     <pardef n="pulch/er__adj">
-      <e>
-        <p>
-          <l>ro</l>
-          <r>er<s n="adj"/><s n="m"/><s n="sg"/><s n="abl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ri</l>
-          <r>er<s n="adj"/><s n="m"/><s n="sg"/><s n="gen"/></r>
-        </p>
-      </e>
+      <e><p><l>ro</l>      <r>er<s n="adj"/><s n="m"/><s n="sg"/><s n="abl"/></r></p></e>
+      <e><p><l>ri</l>       <r>er<s n="adj"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
       <e>
         <p>
           <l>ro</l>
@@ -458,265 +448,24 @@
 
     <!-- Prepositions -->
     <pardef n="ab__pr">
-      <e>
-        <p>
-          <l></l>
-          <r><s n="pr"/></r>
-        </p>
-      </e>
+      <e><p><l></l>            <r><s n="pr"/></r></p></e>
     </pardef>
+
     <pardef n="et__cnjcoo">
-      <e>
-        <p>
-          <l/>
-          <r><s n="cnjcoo"/></r>
-        </p>
-      </e>
+      <e><p><l/>        <r><s n="cnjcoo"/></r></p></e>
     </pardef>
+
     <pardef n="ut__cnjsub">
-      <e>
-        <p>
-          <l/>
-          <r><s n="cnjcoo"/></r>
-        </p>
-      </e>
+      <e><p><l/>        <r><s n="cnjcoo"/></r></p></e>
     </pardef>
+
     <pardef n="quasi__adv">
-      <e>
-        <p>
-          <l/>
-          <r><s n="adv"/></r>
-        </p>
-      </e>
+      <e><p><l/>         <r><s n="adv"/></r></p></e>
     </pardef>
+
     <pardef n="que__enc">
-      <e>
-        <p>
-          <l>que</l>
-          <r><j/>que<s n="enc"/></r>
-        </p>
-      </e>
+      <e><p><l>que</l>      <r><j/>que<s n="enc"/></r></p></e>
     </pardef>
-
-    <pardef n="BASE__amatus">
-      <e>
-        <p>
-          <l>o</l>
-          <r><s n="m"/><s n="sg"/><s n="abl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>i</l>
-          <r><s n="m"/><s n="sg"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>o</l>
-          <r><s n="m"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>um</l>
-          <r><s n="m"/><s n="sg"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>e</l>
-          <r><s n="m"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>us</l>
-          <r><s n="m"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>is</l>
-          <r><s n="m"/><s n="pl"/><s n="abl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>orum</l>
-          <r><s n="m"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>is</l>
-          <r><s n="m"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>os</l>
-          <r><s n="m"/><s n="pl"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>i</l>
-          <r><s n="m"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>i</l>
-          <r><s n="m"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>a</l>
-          <r><s n="f"/><s n="sg"/><s n="abl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ae</l>
-          <r><s n="f"/><s n="sg"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ae</l>
-          <r><s n="f"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>am</l>
-          <r><s n="f"/><s n="sg"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>a</l>
-          <r><s n="f"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>a</l>
-          <r><s n="f"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>is</l>
-          <r><s n="f"/><s n="pl"/><s n="abl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>arum</l>
-          <r><s n="f"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>is</l>
-          <r><s n="f"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>as</l>
-          <r><s n="f"/><s n="pl"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ae</l>
-          <r><s n="f"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ae</l>
-          <r><s n="f"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>o</l>
-          <r><s n="nt"/><s n="sg"/><s n="abl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>i</l>
-          <r><s n="nt"/><s n="sg"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>o</l>
-          <r><s n="nt"/><s n="sg"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>um</l>
-          <r><s n="nt"/><s n="sg"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>um</l>
-          <r><s n="nt"/><s n="sg"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>um</l>
-          <r><s n="nt"/><s n="sg"/><s n="nom"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>is</l>
-          <r><s n="nt"/><s n="pl"/><s n="abl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>orum</l>
-          <r><s n="nt"/><s n="pl"/><s n="gen"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>is</l>
-          <r><s n="nt"/><s n="pl"/><s n="dat"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>a</l>
-          <r><s n="nt"/><s n="pl"/><s n="acc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>a</l>
-          <r><s n="nt"/><s n="pl"/><s n="voc"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>a</l>
-          <r><s n="nt"/><s n="pl"/><s n="nom"/></r>
-        </p>
-      </e>
-    </pardef>
-
 
     <pardef n="tot/us__prn">
       <e>
@@ -5256,358 +5005,107 @@
       </e>
     </pardef>
     <pardef n="am/are__vblex">
-      <e>
-        <p>
-          <l>abo</l>
-          <r>are<s n="vblex"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>abimus</l>
-          <r>are<s n="vblex"/><s n="fti"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>abis</l>
-          <r>are<s n="vblex"/><s n="fti"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>abitis</l>
-          <r>are<s n="vblex"/><s n="fti"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>abit</l>
-          <r>are<s n="vblex"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>abunt</l>
-          <r>are<s n="vblex"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>abor</l>
-          <r>are<s n="vblex"/><s n="fti"/><s n="psv"/><s n="p1"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>abimur</l>
-          <r>are<s n="vblex"/><s n="fti"/><s n="psv"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>aberis</l>
-          <r>are<s n="vblex"/><s n="fti"/><s n="psv"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>abimini</l>
-          <r>are<s n="vblex"/><s n="fti"/><s n="psv"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>abitur</l>
-          <r>are<s n="vblex"/><s n="fti"/><s n="psv"/><s n="p3"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>abuntur</l>
-          <r>are<s n="vblex"/><s n="fti"/><s n="psv"/><s n="p3"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>avero</l>
-          <r>are<s n="vblex"/><s n="ftp"/><s n="p1"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>averimus</l>
-          <r>are<s n="vblex"/><s n="ftp"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>averis</l>
-          <r>are<s n="vblex"/><s n="ftp"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>averitis</l>
-          <r>are<s n="vblex"/><s n="ftp"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>averit</l>
-          <r>are<s n="vblex"/><s n="ftp"/><s n="p3"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>averint</l>
-          <r>are<s n="vblex"/><s n="ftp"/><s n="p3"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>avi</l>
-          <r>are<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>avimus</l>
-          <r>are<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>avisti</l>
-          <r>are<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>avistis</l>
-          <r>are<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>avit</l>
-          <r>are<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>averunt</l>
-          <r>are<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>averam</l>
-          <r>are<s n="vblex"/><s n="pmp"/><s n="p1"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>averamus</l>
-          <r>are<s n="vblex"/><s n="pmp"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>averas</l>
-          <r>are<s n="vblex"/><s n="pmp"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>averatis</l>
-          <r>are<s n="vblex"/><s n="pmp"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>averat</l>
-          <r>are<s n="vblex"/><s n="pmp"/><s n="p3"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>averant</l>
-          <r>are<s n="vblex"/><s n="pmp"/><s n="p3"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>abam</l>
-          <r>are<s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>abamus</l>
-          <r>are<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>abas</l>
-          <r>are<s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>abatis</l>
-          <r>are<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>abat</l>
-          <r>are<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>abant</l>
-          <r>are<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>abar</l>
-          <r>are<s n="vblex"/><s n="pii"/><s n="psv"/><s n="p1"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>abamur</l>
-          <r>are<s n="vblex"/><s n="pii"/><s n="psv"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>abaris</l>
-          <r>are<s n="vblex"/><s n="pii"/><s n="psv"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>abamini</l>
-          <r>are<s n="vblex"/><s n="pii"/><s n="psv"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>abatur</l>
-          <r>are<s n="vblex"/><s n="pii"/><s n="psv"/><s n="p3"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>abantur</l>
-          <r>are<s n="vblex"/><s n="pii"/><s n="psv"/><s n="p3"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>o</l>
-          <r>are<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>amus</l>
-          <r>are<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>as</l>
-          <r>are<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>atis</l>
-          <r>are<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>at</l>
-          <r>are<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>ant</l>
-          <r>are<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>or</l>
-          <r>are<s n="vblex"/><s n="pri"/><s n="psv"/><s n="p1"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>amur</l>
-          <r>are<s n="vblex"/><s n="pri"/><s n="psv"/><s n="p1"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>aris</l>
-          <r>are<s n="vblex"/><s n="pri"/><s n="psv"/><s n="p2"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>amini</l>
-          <r>are<s n="vblex"/><s n="pri"/><s n="psv"/><s n="p2"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>atur</l>
-          <r>are<s n="vblex"/><s n="pri"/><s n="psv"/><s n="p3"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>antur</l>
-          <r>are<s n="vblex"/><s n="pri"/><s n="psv"/><s n="p3"/><s n="pl"/></r>
-        </p>
-      </e>
+      <e><p><l>abo</l>       <r>are<s n="vblex"/><s n="fti"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>abimus</l>    <r>are<s n="vblex"/><s n="fti"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>abis</l>      <r>are<s n="vblex"/><s n="fti"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>abitis</l>    <r>are<s n="vblex"/><s n="fti"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>abit</l>      <r>are<s n="vblex"/><s n="fti"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p><l>abunt</l>     <r>are<s n="vblex"/><s n="fti"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p><l>abor</l>      <r>are<s n="vblex"/><s n="fti"/><s n="psv"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>abimur</l>    <r>are<s n="vblex"/><s n="fti"/><s n="psv"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>aberis</l>    <r>are<s n="vblex"/><s n="fti"/><s n="psv"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>abimini</l>   <r>are<s n="vblex"/><s n="fti"/><s n="psv"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>abitur</l>    <r>are<s n="vblex"/><s n="fti"/><s n="psv"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p><l>abuntur</l>   <r>are<s n="vblex"/><s n="fti"/><s n="psv"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p><l>avero</l>     <r>are<s n="vblex"/><s n="ftp"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>averimus</l>  <r>are<s n="vblex"/><s n="ftp"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>averis</l>    <r>are<s n="vblex"/><s n="ftp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>averitis</l>  <r>are<s n="vblex"/><s n="ftp"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>averit</l>    <r>are<s n="vblex"/><s n="ftp"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p><l>averint</l>   <r>are<s n="vblex"/><s n="ftp"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p><l>avi</l>       <r>are<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>avimus</l>    <r>are<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>avisti</l>    <r>are<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>avistis</l>   <r>are<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>avit</l>      <r>are<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p><l>averunt</l>   <r>are<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p><l>averam</l>    <r>are<s n="vblex"/><s n="pmp"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>averamus</l>  <r>are<s n="vblex"/><s n="pmp"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>averas</l>    <r>are<s n="vblex"/><s n="pmp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>averatis</l>  <r>are<s n="vblex"/><s n="pmp"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>averat</l>    <r>are<s n="vblex"/><s n="pmp"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p><l>averant</l>   <r>are<s n="vblex"/><s n="pmp"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p><l>abam</l>      <r>are<s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>abamus</l>    <r>are<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>abas</l>      <r>are<s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>abatis</l>    <r>are<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>abat</l>      <r>are<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p><l>abant</l>     <r>are<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p><l>abar</l>      <r>are<s n="vblex"/><s n="pii"/><s n="psv"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>abamur</l>    <r>are<s n="vblex"/><s n="pii"/><s n="psv"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>abaris</l>    <r>are<s n="vblex"/><s n="pii"/><s n="psv"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>abamini</l>   <r>are<s n="vblex"/><s n="pii"/><s n="psv"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>abatur</l>    <r>are<s n="vblex"/><s n="pii"/><s n="psv"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p><l>abantur</l>   <r>are<s n="vblex"/><s n="pii"/><s n="psv"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p><l>o</l>         <r>are<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>amus</l>      <r>are<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>as</l>        <r>are<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>atis</l>      <r>are<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>at</l>        <r>are<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p><l>ant</l>       <r>are<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p><l>or</l>        <r>are<s n="vblex"/><s n="pri"/><s n="psv"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>amur</l>      <r>are<s n="vblex"/><s n="pri"/><s n="psv"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>aris</l>      <r>are<s n="vblex"/><s n="pri"/><s n="psv"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>amini</l>     <r>are<s n="vblex"/><s n="pri"/><s n="psv"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>atur</l>      <r>are<s n="vblex"/><s n="pri"/><s n="psv"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p><l>antur</l>     <r>are<s n="vblex"/><s n="pri"/><s n="psv"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p><l>atur</l>      <r>are<s n="vblex"/><s n="pfut"/></r></p><par n="BASE__amatus"/></e>
+      <e><p><l>and</l>       <r>are<s n="vblex"/><s n="pfut"/><s n="psv"/></r></p><par n="BASE__amatus"/></e>
+      <e><p><l>at</l>        <r>are<s n="vblex"/><s n="pp"/></r></p><par n="BASE__amatus"/></e>
+      <e><p><l>are</l>       <r>are<s n="vblex"/><s n="inf"/></r></p></e>
+    </pardef>
 
-      <e>
-        <p>
-          <l>atur</l>
-          <r>are<s n="vblex"/><s n="pfut"/></r>
-        </p>
-        <par n="BASE__amatus"/>
-      </e>
-      <e>
-        <p>
-          <l>and</l>
-          <r>are<s n="vblex"/><s n="pfut"/><s n="psv"/></r>
-        </p>
-        <par n="BASE__amatus"/>
-      </e>
-      <e>
-        <p>
-          <l>at</l>
-          <r>are<s n="vblex"/><s n="pp"/></r>
-        </p>
-        <par n="BASE__amatus"/>
-      </e>
-      <e>
-        <p>
-          <l>are</l>
-          <r>are<s n="vblex"/><s n="inf"/></r>
-        </p>
-      </e>
+    <pardef n="amav/isse__vblex">
+
+    </pardef>
+
+    <pardef n="ama/tus__vblex">
+      <e><p><l>o</l>    <r><s n="m"/><s n="sg"/><s n="abl"/></r></p></e>
+      <e><p><l>i</l>    <r><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>o</l>    <r><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e><p><l>um</l>   <r><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>e</l>    <r><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>us</l>   <r><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>is</l>   <r><s n="m"/><s n="pl"/><s n="abl"/></r></p></e>
+      <e><p><l>orum</l> <r><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>is</l>   <r><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e><p><l>os</l>   <r><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>i</l>    <r><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e><p><l>i</l>    <r><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>a</l>    <r><s n="f"/><s n="sg"/><s n="abl"/></r></p></e>
+      <e><p><l>ae</l>   <r><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ae</l>   <r><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e><p><l>am</l>   <r><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>a</l>    <r><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>a</l>    <r><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>is</l>   <r><s n="f"/><s n="pl"/><s n="abl"/></r></p></e>
+      <e><p><l>arum</l> <r><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>is</l>   <r><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e><p><l>as</l>   <r><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ae</l>   <r><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e><p><l>ae</l>   <r><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>o</l>    <r><s n="nt"/><s n="sg"/><s n="abl"/></r></p></e>
+      <e><p><l>i</l>    <r><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>o</l>    <r><s n="nt"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e><p><l>um</l>   <r><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>um</l>   <r><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>um</l>   <r><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>is</l>   <r><s n="nt"/><s n="pl"/><s n="abl"/></r></p></e>
+      <e><p><l>orum</l> <r><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>is</l>   <r><s n="nt"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e><p><l>a</l>    <r><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>a</l>    <r><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e><p><l>a</l><r><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
     </pardef>
 
   </pardefs>
@@ -5679,7 +5177,11 @@
 
     <e lm="esse"><i></i><par n="/esse__vbser"/></e>
     <e lm="ire"><i></i><par n="/ire__vblex"/></e>
+
     <e lm="amare"><i>am</i><par n="am/are__vblex"/></e>
+    <e lm="amare"><i>amav</i><par n="amav/isse__vblex"/></e>
+    <e lm="amare"><i>amat</i><par n="amat/us__vblex"/></e>
+
     <e lm="cenare"><i>cen</i><par n="am/are__vblex"/></e>
     <e lm="bibere"><i>bib</i><par n="am/are__vblex"/></e>
     <e lm="debere"><i>deb</i><par n="am/are__vblex"/></e>
@@ -5746,8 +5248,10 @@
     <e a="agfl-lat" lm="heri"><i>heri</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="celerrime"><i>celerrime</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="hodie"><i>hodie</i><par n="quasi__adv"/></e>
-    <e a="agfl-lat" lm="abhinc"><i>abhinc</i><par n="quasi__adv"/></e>
-    <e a="agfl-lat" lm="adfatim"><i>adfatim</i><par n="quasi__adv"/></e>
+
+          <e a="agfl-lat" lm="abhinc"><i>abhinc</i><par n="quasi__adv"/></e>
+    <e
+        a="agfl-lat" lm="adfatim"><i>adfatim</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="adhuc"><i>adhuc</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="admodum"><i>admodum</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="adsidue"><i>adsidue</i><par n="quasi__adv"/></e>
