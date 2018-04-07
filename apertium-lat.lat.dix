@@ -6318,6 +6318,10 @@
     <!-- Adjectives -->
 
     <e lm="altus"><i>alt</i><par n="alt/us__adj"/></e>
+    <e lm="turbidus"><i>turbid</i><par n="alt/us__adj"/></e>
+    <e lm="foedus"><i>foed</i><par n="alt/us__adj"/></e>
+    <e lm="perfrigidus"><i>perfrigid</i><par n="alt/us__adj"/></e>
+    <e lm="turbulentus"><i>turbulent</i><par n="alt/us__adj"/></e>
     <e lm="parvus"><i>parv</i><par n="alt/us__adj"/></e>
     <e lm="caldus"><i>cald</i><par n="alt/us__adj"/></e>
     <e lm="beatus"><i>beat</i><par n="alt/us__adj"/></e>
