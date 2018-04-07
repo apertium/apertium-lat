@@ -5082,7 +5082,7 @@
       <e><p><l>untur</l>     <r>ere<s n="vblex"/><s n="pri"/><s n="psv"/><s n="p3"/><s n="pl"/></r></p></e>
       <e><p><l>ere</l>       <r>ere<s n="vblex"/><s n="inf"/></r></p></e>
     </pardef>
-    <pardef n="mon/ere__vblex">
+    <pardef n="man/ere__vblex">
       <e><p><l>ebo</l>       <r>ere<s n="vblex"/><s n="fti"/><s n="act"/><s n="p1"/><s n="sg"/></r></p></e>
       <e><p><l>ebimus</l>    <r>ere<s n="vblex"/><s n="fti"/><s n="act"/><s n="p1"/><s n="pl"/></r></p></e>
       <e><p><l>ebis</l>      <r>ere<s n="vblex"/><s n="fti"/><s n="act"/><s n="p2"/><s n="sg"/></r></p></e>
