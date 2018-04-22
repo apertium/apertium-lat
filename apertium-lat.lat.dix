@@ -5755,6 +5755,7 @@
     <e a="agfl-lat" lm="itane"><i>itane</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="sursum"><i>sursum</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="retro"><i>retro</i><par n="quasi__adv"/></e>
+    <e a="agfl-lat" lm="quod"><i>quod</i><par n="quasi__adv"/></e>
 
     <!-- Declension 1 f a, ae -->
     <e lm="aqua"><i>aqu</i><par n="aqu/a__n"/></e> <!-- water -->
