@@ -5520,6 +5520,9 @@
     <e lm="loqui"><i>loqu</i><par n="loqu/i__vblex"/></e>
     <e lm="loqui"><i>locut</i><par n="amat/us__vblex"/></e>
 
+    <e lm="nasci"><i>nasc</i><par n="loqu/i__vblex"/></e>
+    <e lm="nasci"><i>nat</i><par n="amat/us__vblex"/></e>
+
     <e lm="rogare"><i>rog</i><par n="am/are__vblex"/></e>
     <e lm="rogare"><i>rogav</i><par n="amav/isse__vblex"/></e>
     <e lm="rogare"><i>rogat</i><par n="amat/us__vblex"/></e>
