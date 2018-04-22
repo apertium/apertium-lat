@@ -1632,6 +1632,81 @@
         </p>
       </e>
     </pardef>
+    
+    <pardef n="die/s__n">
+      <e>
+        <p>
+          <l>s</l>
+          <r>s<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>s<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>s<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>m</l>
+          <r>s<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r>s<s n="n"/><s n="m"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>s</l>
+          <r>s<s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>s</l>
+          <r>s<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rum</l>
+          <r>s<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>bus</l>
+          <r>s<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>s</l>
+          <r>s<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>bus</l>
+          <r>s<s n="n"/><s n="m"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>s</l>
+          <r>s<s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <pardef n="dom/us__n">
       <e>
@@ -6077,6 +6152,7 @@
     <e lm="Lucius"><i>Luci</i><par n="Iuli/us__np"/></e>
     <e lm="Jamus"><i>Jam</i><par n="Iuli/us__np"/></e> <!-- James em -->
     <e lm="puer"><i>puer</i><par n="puer__n"/></e>
+    <e lm="dies"><i>die</i><par n="die/s__n"/></e>
     <!-- Thid declension -->
     <e lm="soror"><i>soror</i><par n="soror/__n"/></e>
     <e lm="arbor"><i>arbor</i><par n="soror/__n"/></e>
