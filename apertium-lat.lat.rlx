@@ -2,13 +2,13 @@
 DELIMITERS = "<.>" ;
 
 # We can define sets for common tag clusters
-LIST Case = nom gen dat abl voc acc
+LIST Case = nom gen dat abl voc acc ;
 LIST Det = det ;
-LIST Pron = prn;
+LIST Pron = prn ;
 
 SECTION
 # If there is a singular noun to the right, I cannot be a verb or noun.
-SELECT Det IF (1 $$Case)
+SELECT Det IF (1 $$Case) ;
 
 # If there is a conjunction followed by a certain cohort of the same CASE as me, choose me.
 
