@@ -2,13 +2,22 @@
 DELIMITERS = "<.>" ;
 
 # We can define sets for common tag clusters
-LIST Case = nom gen dat abl voc acc ;
-LIST Det = det ;
+LIST Case = (nom) (gen) (dat) (abl) (voc) (acc) ;
+LIST Number = (pl) (sg) ;
+LIST Gender = (m) (f) (mf) ;
+LIST Det = (det dem) ;
 LIST Pron = prn ;
+LIST Verb = vblex ;
 
 SECTION
-# If there is a singular noun to the right, I cannot be a verb or noun.
-SELECT Det IF (1 $$Case) ;
+# Remove determiner if followed by something (noun or adjective) of a different gender number and case.
+REMOVE Det IF (0 $$Case)(0 $$Number)(0 $$Gender)(NOT 1 $$Case)(NOT 1 $$Number)(NOT 1 $$Gender) ;
+
+#Select determiner if followed by something (noun or adjective) of a matching gender number case.
+SELECT Det IF (0 $$Case)(0 $$Number)(0 $$Gender)(1 $$Case)(1 $$Number)(1 $$Gender) ;
+
+#match determiner  case
+
 
 # If there is a conjunction followed by a certain cohort of the same CASE as me, choose me.
 
