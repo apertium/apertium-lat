@@ -16,8 +16,10 @@ REMOVE Det IF (0 $$Case)(0 $$Number)(0 $$Gender)(NOT 1 $$Case)(NOT 1 $$Number)(N
 #Select determiner if followed by something (noun or adjective) of a matching gender number case.
 SELECT Det IF (0 $$Case)(0 $$Number)(0 $$Gender)(1 $$Case)(1 $$Number)(1 $$Gender) ;
 
-#match determiner  case
+#match determiner gender number case
 SELECT $$Case IF (0 Det)(1 $$Case) ;
+SELECT $$Gender IF (0 Det)(1 $$Gender) ;
+SELECT $$Number IF (0 Det)(1 $$Number) ;
 
 # If there is a conjunction followed by a certain cohort of the same CASE as me, choose me.
 
