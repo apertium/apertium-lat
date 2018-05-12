@@ -1,0 +1,1103 @@
+a"<Apameae>"
+	"Apamea" np top f sg gen
+  "Apamea" np top f sg dat
+
+
+"<Metus>"
+	"metus" n m sg nom
+	"metus" n m sg voc
+	"metus" n m sg gen
+	"metus" n m pl nom
+	"metus" n m pl voc
+	"metus" n m pl acc
+
+
+"<rogatio>"
+	"rogatio" n f sg nom
+  "rogatio" n f sg voc
+
+
+"<Syros>"
+	"syrus" n m pl acc
+
+
+"<murum>"
+	"murus" n m sg acc
+
+
+"<uobis>"
+	"uos" prn p2 pl dat
+  "uos" prn p2 pl abl
+
+
+"<fide>"
+	"fidus" adj m sg voc
+  "fide" adv
+  "fides" n f sg abl
+  "fido" vblex imp
+
+
+"<impedimenta>"
+	"impedimentum" n nt pl nom
+	"impedimentum" n nt pl voc
+	"impedimentum" n nt pl acc
+
+
+"<acceptus>"
+	"acceptus" adj m sg nom
+
+
+"<agittarii>"
+	"agittarius" adj m pl nom
+  "agittarius" adj m sg gen
+
+
+"<inissent>"
+	"inere" vblex plu act p3 pl
+
+
+"<Ziboetam>"
+	"Ziboeta" n f sg acc
+
+
+"<dextra>"
+	"dexter" adj f sg nom
+	"dexter" adj f sg abl
+	"dexter" adj nt pl nom
+	"dexter" adj nt pl acc
+
+
+"<quaeso>"
+	"quaesere" vblex pri act p1 sg
+
+
+"<obsidione>"
+	"obsidionis" n f sg abl
+
+
+"<pollicetur>"
+	"polliceri" vblex pri act p3 sg
+
+
+"<Gallograecorum>"
+	"Gallograecus" adj m pl gen
+
+
+"<desponsam>"
+	"desponsus" adj f sg acc
+
+
+"<creuere>"
+	"creuere" adv
+
+
+"<inane>"
+	"inanis" adj nt sg nom
+	"inanis" adj nt sg voc
+	"inanis" adj nt sg acc
+
+
+"<Siciliam>"
+	"Sicilia" np top f sg acc
+
+
+"<damnatum>"
+	"damnatus" m sg acc
+	"damnatus" nt sg nom
+	"damnatus" nt sg voc
+	"damnatus" nt sg acc
+
+
+"<hostem>"
+	"hostis" n m sg acc
+
+
+"<maioris>"
+	"maior" adj m sg gen
+  "maior" adj nt sg gen
+  "maior" adj f sg gen
+
+
+"<quinquiens>"
+	"quinquiens" adj m sg nom
+  "quinquiens" adj f sg nom
+
+
+"<faciliore>"
+	"faciliore" adv
+
+
+"<equereris>"
+	"equereris" n m sg nom
+
+
+"<instarent>"
+	"instare" vblex pii act p3 pl
+
+
+"<Hispaniam>"
+	"Hispania" np top f sg acc
+
+
+"<triumphans>"
+	"triumphans" adj m sg nom
+  "triumphans" adj f sg nom
+  "triumphans" adj nt sg nom
+
+
+"<urbe>"
+	"urbis" n f sg abl
+	"urbis" n f sg loc
+
+
+"<facit>"
+	"facere" vblex pri act p3 sg
+
+
+"<locuti>"
+	"locutus" adj m sg gen
+	"locutus" adj m pl nom
+	"locutus" adj m pl voc
+	"locutus" adj nt sg gen
+
+
+"<adscriptos>"
+	"adscriptus" n m pl acc
+
+
+"<pugnam>"
+	"pugna" n f sg acc
+
+
+"<foedere>"
+	"foedere" adv
+
+
+"<numero>"
+	"numero" adv
+	"numerus" n m sg dat
+	"numerus" n m sg abl
+	"numerare" vblex pri act p1 sg
+
+
+"<periculosius>"
+	"periculosius" adv
+
+
+"<imperatores>"
+	"imperatoris" n m pl nom
+	"imperatoris" n m pl voc
+	"imperatoris" n m pl acc
+
+
+"<traiecisse>"
+	"traiecisse" vblex inf
+
+
+"<olito>"
+	"olitus" adj m sg dat
+	"olitus" adj m sg abl
+	"olitus" adj nt sg dat
+	"olitus" adj nt sg abl
+
+
+"<genitis>"
+	"genitus" adj m pl dat
+	"genitus" adj m pl abl
+	"genitus" adj f pl dat
+	"genitus" adj f pl abl
+	"genitus" adj nt pl dat
+	"genitus" adj nt pl abl
+
+
+"<Samaeos>"
+	"Samaeus" np ant m pl acc
+
+
+"<adlatrare>"
+	"adlatrare" vblex inf
+
+
+"<equitatus>"
+	"equitatus" adj m sg nom
+	"equitatus" n m sg nom
+	"equitatus" n m sg voc
+	"equitatus" n m sg gen
+	"equitatus" n m pl nom
+	"equitatus" n m pl voc
+	"equitatus" n m pl acc
+
+
+"<epulas>"
+	"epulum" n f pl acc
+
+
+"<audaciae>"
+	"audacia" n f sg gen
+	"audacia" n f sg dat
+	"audacia" n f sg loc
+	"audacia" n f pl nom
+	"audacia" n f pl voc
+
+
+"<fluminis>"
+	"flumen" n f sg gen
+
+
+"<Alia>"
+	"al" n nt pl nom
+	"al" n nt pl voc
+	"al" n nt pl acc
+	"alius" adj f sg nom
+	"alius" adj f sg voc
+	"alius" adj nt pl nom
+	"alius" adj nt pl voc
+	"alius" adj nt pl acc
+
+
+"<cognitis>"
+	"cognitus" m pl dat
+	"cognitus" m pl abl
+	"cognitus" f pl dat
+	"cognitus" f pl abl
+	"cognitus" nt pl dat
+	"cognitus" nt pl abl
+
+
+"<locum>"
+	"locus" n m sg acc
+
+
+"<proponenda>"
+	"proponendus" adj f sg nom
+  "proponendus" adj f sg voc
+  "proponendus" adj nt pl nom
+  "proponendus" adj nt pl acc
+  "proponendus" adj nt pl voc
+  "proponendus" adj f sg abl
+
+
+"<intercedebant>"
+	"intercedere" vblex pii act p3 pl
+
+
+"<Scipio>"
+	"Scipio" np ant m sg nom
+
+
+"<aculeus>"
+	"aculeus" n m sg nom
+
+
+"<forte>"
+	"forte" adv
+	"fortis" adj nt sg nom
+	"fortis" adj nt sg voc
+	"fortis" adj nt sg acc
+	"fortis" n f sg voc
+	"fortis" n f sg abl
+	"fortis" n f sg loc
+
+
+"<decreuerat>"
+	"decreuerare" vblex pri act p3 sg
+
+
+"<Bellonae>"
+	"Bellonae" np ant f pl nom
+  "Bellonae" np ant f sg gen
+  "Bellonae" np ant f sg dat
+  "Bellonae" np ant f pl voc
+
+
+"<Neapolim>"
+	"Neapolis" np top f sg acc
+
+
+"<censeri>"
+	"censere" vblex inf psv
+
+
+"<auersis>"
+	"auersus" adj m pl abl
+  "auersus" adj m pl dat
+  "auersus" adj f pl abl
+  "auersus" adj f pl dat
+  "auersus" adj nt pl abl
+  "auersus" adj nt pl dat
+
+
+"<liberatam>"
+	"liberatus" adj f sg acc
+
+
+"<uo>"
+	"uere" vblex pri act p1 sg
+
+
+"<negaturus>"
+	"negaturus" adj m sg nom
+
+
+"<recipiendi>"
+	"recipiendus" adj m pl nom
+  "recipiendus" adj m sg gen
+  "recipiendus" adj nt sg gen
+
+
+
+"<morbi>"
+	"morbus" n m sg gen
+	"morbus" n m pl nom
+	"morbus" n m pl voc
+
+
+"<credebat>"
+	"credere" vblex pii act p3 sg
+
+
+"<frangi>"
+	"frangere" vblex inf psv
+
+
+"<obiectis>"
+	"obiectus" adj m pl dat
+	"obiectus" adj m pl abl
+	"obiectus" adj f pl dat
+	"obiectus" adj f pl abl
+	"obiectus" adj nt pl dat
+	"obiectus" adj nt pl abl
+
+
+"<flexisset>"
+	"flectere" vblex plu act p3 sg
+
+
+"<peruen>"
+	"peruen" adv
+
+
+"<obuius>"
+	"obuius" adj m sg nom
+
+
+"<fiducia>"
+	"fiducia" n f sg nom
+	"fiducia" n f sg voc
+	"fiducia" n f sg abl
+
+
+"<habuit>"
+	"habuisse" vblex ifi act p3 sg
+
+
+"<prohiberi>"
+	"prohibere" vblex inf psv
+
+
+"<eruitia>"
+	"eruitia" n sg f nom
+
+
+"<comprehensi>"
+	"comprehensus" adj m sg gen
+  "comprehensus" adj m pl nom
+  "comprehensus" adj nt sg gen
+
+
+"<collocutus>"
+	"collocutus" adj m sg nom
+
+
+"<uiatorem>"
+	"*uiator" n m sg acc
+
+
+"<Achaeorum>"
+	"Achaeus" adj m pl gen
+
+
+"<toto>"
+	"totus" prn tn m sg abl
+	"totus" prn tn nt sg abl
+
+
+"<incerta>"
+	"incertus" adj f sg nom
+	"incertus" adj f sg voc
+	"incertus" adj nt pl nom
+	"incertus" adj nt pl voc
+	"incertus" adj nt pl acc
+	"incertum" n nt pl nom
+	"incertum" n nt pl voc
+	"incertum" n nt pl acc
+
+
+"<prendi>"
+	"prendisse" vblex ifi act p1 sg
+
+
+"<unam>"
+	"unus" num f sg acc
+
+
+"<ubertas>"
+	"ubertas" n f sg nom
+  "ubertas" n f sg voc
+
+
+"<Antiochi>"
+	"Antiochus" adj m pl nom
+  "Antiochus" adj m sg gen
+  "Antiochus" adj nt pl nom
+
+
+"<existimare>"
+	"existimare" vblex inf
+
+
+"<nouaeque>"
+	"nouus" adj f sg dat
+  "nouus" adj f sg gen
+  "nouus" adj f pl nom
+  "nouus" adj f pl voc
+
+
+"<fortis>"
+	"fortis" adj m sg nom
+	"fortis" adj m sg voc
+	"fortis" adj m sg gen
+	"fortis" adj f sg nom
+	"fortis" adj f sg voc
+	"fortis" adj f sg gen
+	"fortis" adj nt sg gen
+	"fortis" n f sg nom
+	"fortis" n f sg gen
+
+
+"<peruentum>"
+	"peruentus" adj m sg acc
+  "peruentus" adj nt sg acc
+  "peruentus" adj nt sg nom
+  "peruentus" adj nt sg voc
+
+
+"<arduas>"
+	"arduus" adj f pl acc
+
+
+"<praeerat>"
+	"praeesse" vblex pii act p3 sg
+
+
+"<Gergithum>"
+	"Gergithum" np top nt sg nom
+
+
+"<paribus>"
+	"paris" n f pl dat
+	"paris" n f pl abl
+
+
+"<Valerium>"
+	"Valerius" np ant m pl acc
+
+
+"<excusaretur>"
+	"excusare" vblex pii psv p3 sg
+
+
+"<referente>"
+	"referens" n m sg abl
+
+
+"<planaque>"
+	"planus" adj f sg nom
+  "planus" adj f sg abl
+
+
+"<maioribus>"
+	"maior" adj m pl abl
+  "maior" adj m pl dat
+  "maior" adj f pl abl
+  "maior" adj f pl dat
+  "maior" adj nt pl abl
+  "maior" adj nt pl dat
+
+
+"<diebus>"
+	"dies" n m pl dat
+	"dies" n m pl abl
+
+
+"<concordi>"
+	"concordus" adj m sg gen
+  "concordus" adj m pl nom
+  "concordus" adj nt sg gen
+  "concordus" adj m pl voc
+
+
+"<maritumae>"
+	"maritumae" adj f sg dat
+  "maritumae" adj f sg gen
+  "maritumae" adj f pl nom
+  "maritumae" adj f pl voc
+
+
+"<orantibus>"
+	"orans" adj m pl abl
+  "orans" adj m pl dat
+  "orans" adj f pl dat
+  "orans" adj f pl abl
+  "orans" adj nt pl dat
+  "orans" adj nt pl abl
+
+
+"<brachio>"
+	"brachium" n nt sg dat
+	"brachium" n nt sg abl
+
+
+"<accommodatas>"
+	"accommodata" f pl acc
+
+
+"<legationemque>"
+	"legatio" n m sg acc
+
+
+"<ingenti>"
+	"ingens" adj m sg dat
+	"ingens" adj m sg abl
+	"ingens" adj f sg dat
+	"ingens" adj f sg abl
+	"ingens" adj nt sg dat
+	"ingens" adj nt sg abl
+
+
+"<officii>"
+	"officium" n nt sg gen
+
+
+"<Scipionum>"
+	"Scipionum" np ant m sg acc
+
+
+"<ciuitates>"
+	"ciuitas" n f pl nom
+  "ciuitas" n f pl voc
+  "ciuitas" n f pl acc
+
+
+"<animos>"
+	"animus" n m pl acc
+
+
+"<uotis>"
+	"uotus" adj m pl abl
+  "uotus" adj m pl dat
+  "uotus" adj f pl abl
+  "uotus" adj f pl dat
+  "uotus" adj nt pl abl
+  "uotus" adj nt pl dat
+  "uotum" n nt pl abl
+  "uotum" n nt pl dat
+
+"<recipit>"
+	"recipere" vblex pri act p3 sg
+
+
+"<quieta>"
+	"quietus" adj f sg nom
+	"quietus" adj f sg voc
+	"quietus" adj nt pl nom
+	"quietus" adj nt pl voc
+	"quietus" adj nt pl acc
+
+
+"<animis>"
+	"anima" n f pl dat
+	"anima" n f pl abl
+	"anima" n f pl loc
+	"animus" n m pl dat
+	"animus" n m pl abl
+	"animus" n m pl loc
+
+
+"<condemnauit>"
+	"condemnare" vblex ifi act p3 sg
+
+
+"<insolita>"
+	"insolitus" adj f sg nom
+	"insolitus" adj f sg voc
+	"insolitus" adj nt pl nom
+	"insolitus" adj nt pl voc
+	"insolitus" adj nt pl acc
+
+
+"<diei>"
+	"dies" n m sg gen
+	"dies" n m sg dat
+
+
+"<eruptionibus>"
+	"eruptio" n f pl dat
+  "eruptio" n f pl abl
+
+
+"<quatiebat>"
+	"quatiere" vblex pii act p3 sg
+
+
+"<recentibus>"
+	"recens" adj m pl dat
+	"recens" adj m pl abl
+	"recens" adj f pl dat
+	"recens" adj f pl abl
+	"recens" adj nt pl dat
+	"recens" adj nt pl abl
+
+
+"<dilapsos>"
+	"dilapsus" n m pl acc
+
+
+"<contionem>"
+	"contionis" n f sg acc
+
+
+"<huius>"
+	"hic" det dem m sg gen SELECT:21
+;	"hic" det dem f sg gen SELECT:21
+;	"hic" det dem nt sg gen SELECT:21
+
+
+"<campus>"
+	"campus" n m sg nom
+
+
+"<gelidis>"
+	"gelidus" adj m pl abl
+  "gelidus" adj m pl dat
+  "gelidus" adj f pl dat
+  "gelidus" adj f pl abl
+  "gelidus" adj nt pl dat
+  "gelidus" adj nt pl abl
+
+
+"<oneribus>"
+  "onus" n nt pl abl
+  "onus" n nt pl dat
+
+
+"<introduxit>"
+	"introduxisse" vblex ifi act p3 sg
+
+
+"<deque>"
+	"deque" adv
+
+[59] ^
+"<At>"
+	"at" cnjcoo
+
+
+"<equorum>"
+	"equus" n m pl gen
+
+
+"<dimissa>"
+	"dimissus" adj nt pl nom
+	"dimissus" adj nt pl voc
+	"dimissus" adj nt pl acc
+	"dimissus" adj f sg nom
+	"dimissus" adj f sg voc
+	"dimissus" adj f sg abl
+
+
+"<fodientium>"
+	"fodiens" adj m pl gen
+  "fodiens" adj f pl gen
+  "fodiens" adj nt pl gen
+
+
+"<praecedenti>"
+	"praecedentus" adj m sg gen
+  "praecedentus" adj nt sg gen
+	"praecedentus" adj m pl nom
+  "praecedentus" adj m pl voc
+
+
+"<Et>"
+	"et" adv
+	"et" cnjcoo
+
+
+"<Gallograecos>"
+	"Gallograecus" np ant m pl acc
+
+
+"<legum>"
+	"legis" n f pl gen
+
+
+"<bellumque>"
+	"bellum" n nt sg nom
+  "bellum" n nt sg acc
+  "bellum" n nt sg voc
+
+
+"<acceperim>"
+	"accipere" vblex pii act p1 sg
+
+
+"<Permissu>"
+	"permittere" vblex abl
+  "permittere" vblex dat
+
+
+"<duodeciens>"
+	"duodeciens" adj m sg nom
+  "duodeciens" adj f sg nom
+  "duodeciens" adj nt sg nom
+
+
+"<octingentos>"
+	"octingentus" adj m pl acc
+
+
+"<Gallograecia>"
+	"Gallograecia" np top f sg nom
+
+
+"<ubrutis>"
+	"ubrutis" adj m sg nom
+  "ubrutis" adj f sg nom
+  "ubrutis" adj m sg gen
+  "ubrutis" adj f sg gen
+
+
+[60] ^
+"<Aduersus>"
+	"aduersus" adj m sg nom
+  "aduersus" adj m sg voc
+
+
+"<colloquii>"
+	"colloquium" n nt sg gen
+
+
+"<custodibus>"
+	"custodis" n m pl dat
+	"custodis" n m pl abl
+
+
+"<excogitata>"
+	"excogitatus" adj f sg nom
+  "excogitatus" adj f sg abl
+  "excogitatus" adj nt pl nom
+  "excogitatus" adj nt pl acc
+  "excogitatus" adj f sg voc
+  "excogitatus" adj f sg abl
+
+
+"<munitae>"
+	"munitus" adj f sg gen
+	"munitus" adj f sg dat
+	"munitus" adj f pl nom
+	"munitus" adj f pl voc
+
+
+"<nequaquam>"
+	"nequaquam" adv
+
+
+"<obsidibus>"
+	"obsidis" n m pl dat
+	"obsidis" n m pl abl
+
+
+"<edentes>"
+	"edens" adj m pl nom
+  "edens" adj f pl nom
+  "edens" adj m pl acc
+  "edens" adj f pl acc
+  "edens" adj m pl voc
+  "edens" adj f pl voc
+
+"<ecunda>"
+	"ecundus" adj f sg nom
+  "ecundus" adj f sg voc
+  "ecundus" adj f sg abl
+  "ecundus" adj nt pl nom
+  "ecundus" adj nt pl voc
+  "ecundus" adj nt pl acc
+
+
+"<Xylinen>"
+	"Xylinen" np ant m sg nom
+
+
+"<cenantem>"
+	"cenans" adj m sg acc
+  "cenans" adj f sg acc
+
+
+"<deductum>"
+	"deductus" m sg acc
+	"deductus" nt sg nom
+	"deductus" nt sg voc
+	"deductus" nt sg acc
+
+
+"<aduentum>"
+	"aduentus" n m sg acc
+
+
+"<deuiis>"
+	"deuius" adj m pl abl
+  "deuius" adj m pl dat
+  "deuius" adj f pl abl
+  "deuius" adj f pl dat
+  "deuius" adj nt pl abl
+  "deuius" adj nt pl dat
+
+
+"<erant>"
+	"esse" vbser pii p3 pl
+
+
+"<citarique>"
+	"citari" vblex inf psv
+
+
+"<uccessisset>"
+	"uccere" vblex plu act p3 sg
+
+
+"<coactis>"
+	"coactus" adj m pl dat
+	"coactus" adj m pl abl
+	"coactus" adj f pl dat
+	"coactus" adj f pl abl
+	"coactus" adj nt pl dat
+	"coactus" adj nt pl abl
+	"coactus" n f pl loc
+
+
+"<Fuluius>"
+	"Fuluius" np ant m sg nom
+
+
+"<omen>"
+	"omen" n nt sg nom
+  "omen" n nt sg voc
+  "omen" n nt sg acc
+
+
+"<numerus>"
+	"numerus" n m sg nom
+
+
+"<patres>"
+	"patris" n m pl nom
+	"patris" n m pl voc
+	"patris" n m pl acc
+
+
+"<quatiendo>"
+	"quatiendus" n m sg dat
+
+
+"<triumphum>"
+	"triumphus" n m sg acc
+
+
+"<trenuus>"
+	"trenuus" n m sg nom
+
+
+"<cedere>"
+	"cedere" vblex inf
+
+
+"<fatigaui>"
+	"fatigare" vblex ifi act p1 sg
+
+
+"<Aegium>"
+	"Aegium" np top nt sg nom
+  "Aegium" np top nt sg acc
+  "Aegium" np top nt sg voc
+
+
+"<dediti>"
+	"deditus" adj m sg gen
+	"deditus" adj m pl nom
+	"deditus" adj m pl voc
+	"deditus" adj nt sg gen
+
+
+"<foris>"
+	"foris" adv
+	"foris" n f sg nom
+	"foris" n f sg gen
+	"forus" n m pl dat
+	"forus" n m pl abl
+	"forus" n m pl loc
+	"forum" n nt pl dat
+	"forum" n nt pl abl
+	"forum" n nt pl loc
+
+
+"<indignantem>"
+	"indignans" adj m sg acc
+  "indignans" adj f sg acc
+
+
+"<reliquisset>"
+	"relinquere" vblex plu act p3 sg
+
+
+"<leniendam>"
+	"leniendus" adj f sg acc
+
+
+"<regnoque>"
+	"regnum" n nt sg abl
+
+
+"<uulnerati>"
+	"uulneratus" adj m pl nom
+  "uulneratus" adj m pl voc
+  "uulneratus" adj m sg gen
+  "uulneratus" adj nt sg gen
+
+"<consulares>"
+	"consularis" adj m pl nom
+	"consularis" adj m pl voc
+	"consularis" adj m pl acc
+	"consularis" adj f pl nom
+	"consularis" adj f pl voc
+	"consularis" adj f pl acc
+
+
+"<crescere>"
+	"crescere" vblex inf
+
+
+"<finituros>"
+	"finiturus" adj m pl acc
+
+
+"<corrumpere>"
+	"corrumpere" vblex inf
+
+
+"<adduxerant>"
+	"adduxisse" vblex pmp act p3 pl
+
+
+"<ubeundi>"
+	"ubeundus" adj m sg gen
+  "ubeundus" adj nt sg gen
+  "ubeundus" adj m pl nom
+  "ubeundus" adj m pl voc
+
+
+"<id>"
+	"is" prn pers nt sg nom
+	"is" prn pers nt sg acc
+	"is" det dem nt sg nom
+	"is" det dem nt sg acc
+
+
+"<upplementum>"
+	"upplementum" n nt sg nom
+  "upplementum" n nt sg voc
+  "upplementum" n nt sg acc
+
+
+"<umus>"
+	"humus" n f sg nom
+
+
+"<profecto>"
+	"profecto" adv
+	"profectus" adj m sg dat
+	"profectus" adj m sg abl
+	"profectus" adj nt sg dat
+	"profectus" adj nt sg abl
+	"profectus" n m sg dat
+	"profectus" n m sg abl
+
+
+"<Anabura>"
+	"Anabura" np top f sg nom
+
+
+"<Profectus>"
+	"profectus" adj m sg nom
+	"profectus" n m sg nom
+	"profectus" n m sg voc
+	"profectus" n m sg gen
+	"profectus" n m pl nom
+	"profectus" n m pl voc
+	"profectus" n m pl acc
+
+
+"<calamitatem>"
+	"calamitatis" n f sg acc
+
+
+"<ordine>"
+	"ordinis" n m sg voc
+	"ordinis" n m sg abl
+	"ordinis" n m sg loc
+
+
+"<asperitatem>"
+	"asperitatis" n f sg acc
+
+
+"<ordiri>"
+	"ordiri" vblex inf
+
+
+"<aliud>"
+	"aliud" adv
+
+
+"<uera>"
+	"uerus" adj f sg nom
+  "uerus" adj nt pl nom
+  "uerus" adj nt pl voc
+  "uerus" adj nt pl acc
+  "uerus" adj f sg abl
+
+
+"<frequentia>"
+	"frequentia" n f sg nom
+	"frequentia" n f sg voc
+	"frequentia" n f sg abl
+
+
+"<quaestorem>"
+	"quaestoris" n m sg acc
+
+
+"<lectum>"
+	"lectus" adj m sg acc
+	"lectus" adj nt sg nom
+	"lectus" adj nt sg voc
+	"lectus" adj nt sg acc
+	"lectus" n m sg acc
+
+
+"<pepigi>"
+	"pepigisse" vblex ifi act p1 sg
+
+
+"<triumphumque>"
+	"triumphus" n m sg nom
