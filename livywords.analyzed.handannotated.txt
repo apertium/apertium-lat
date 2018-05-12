@@ -1,4 +1,4 @@
-a"<Apameae>"
+"<Apameae>"
 	"Apamea" np top f sg gen
   "Apamea" np top f sg dat
 
