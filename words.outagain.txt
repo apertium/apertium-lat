@@ -57,7 +57,7 @@
 	"*Jena"
 
 4219
-"<^,>"
+"<,>"
 	"," cm
 
 "<Hinder>"
@@ -187,7 +187,7 @@
 	"*Atellanam"
 
 6113 ^
-"<^,>"
+"<,>"
 	"," cm
 
 "<Alboreto>"
@@ -242,7 +242,7 @@
 	"*nationalitatibus"
 
 "^
-"<^Tigris>"
+"<Tigris>"
 	"*Tigris"
 
 "<pinnarum>"
@@ -297,7 +297,7 @@
 	"*Aghadrumsee"
 
 4187 ^
-"<^,>"
+"<,>"
 	"," cm
 
 "<Gondwanam>"
@@ -346,7 +346,7 @@
 	"*primatus"
 
 "^
-"<^Vivere>"
+"<Vivere>"
 	"*Vivere"
 
 "<belissimus>"
@@ -428,7 +428,7 @@
 	"*Puygouzon"
 
 4^
-"<^D>"
+"<D>"
 	"*D"
 
 "<Pidal>"
@@ -450,7 +450,7 @@
 	"*Vipsanium"
 
 9 ^
-"<^Novembris>"
+"<Novembris>"
 	"*Novembris"
 
 "<illamque>"
@@ -505,7 +505,7 @@
 	"*Anianensis"
 
 8635 ^
-"<^,>"
+"<,>"
 	"," cm
 
 "<Races>"
@@ -539,7 +539,7 @@
 	"*Vestalum"
 
 "^
-"<^Vigintillio>"
+"<Vigintillio>"
 	"*Vigintillio"
 
 "<Heimatkunde>"
@@ -642,11 +642,11 @@
 	"*Iospehi"
 
 4007 ^
-"<^,>"
+"<,>"
 	"," cm
 
 1235 = ^
-"<^MCCXXXV>"
+"<MCCXXXV>"
 	"*MCCXXXV"
 
 "<Collegio>"
