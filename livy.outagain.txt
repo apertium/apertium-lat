@@ -1,0 +1,635 @@
+"<Apameae>"
+	"*Apameae"
+
+"<Metus>"
+	"*Metus"
+
+"<rogatio>"
+	"*rogatio"
+
+"<Syros>"
+	"*Syros"
+
+"<murum>"
+	"murus" n m sg acc
+
+"<uobis>"
+	"*uobis"
+
+"<fide>"
+	"*fide"
+
+"<impedimenta>"
+	"impedimentum" n nt pl nom
+	"impedimentum" n nt pl voc
+	"impedimentum" n nt pl acc
+
+"<acceptus>"
+	"*acceptus"
+
+"<agittarii>"
+	"*agittarii"
+
+"<inissent>"
+	"*inissent"
+
+"<Ziboetam>"
+	"*Ziboetam"
+
+"<dextra>"
+	"*dextra"
+
+"<quaeso>"
+	"*quaeso"
+
+"<obsidione>"
+	"*obsidione"
+
+"<pollicetur>"
+	"*pollicetur"
+
+"<Gallograecorum>"
+	"*Gallograecorum"
+
+"<desponsam>"
+	"*desponsam"
+
+"<creuere>"
+	"*creuere"
+
+"<inane>"
+	"*inane"
+
+"<Siciliam>"
+	"*Siciliam"
+
+"<damnatum>"
+	"*damnatum"
+
+"<hostem>"
+	"*hostem"
+
+"<maioris>"
+	"*maioris"
+
+"<quinquiens>"
+	"*quinquiens"
+
+"<faciliore>"
+	"*faciliore"
+
+"<equereris>"
+	"*equereris"
+
+"<instarent>"
+	"*instarent"
+
+"<Hispaniam>"
+	"*Hispaniam"
+
+"<triumphans>"
+	"*triumphans"
+
+"<urbe>"
+	"*urbe"
+
+"<facit>"
+	"*facit"
+
+"<locuti>"
+	"*locuti"
+
+"<adscriptos>"
+	"*adscriptos"
+
+"<pugnam>"
+	"pugna" n f sg acc
+
+"<foedere>"
+	"*foedere"
+
+"<numero>"
+	"numerus" n m sg dat
+	"numerus" n m sg abl
+	"numerus" n m sg loc
+
+"<periculosius>"
+	"*periculosius"
+
+"<imperatores>"
+	"*imperatores"
+
+"<traiecisse>"
+	"*traiecisse"
+
+"<olito>"
+	"*olito"
+
+"<genitis>"
+	"*genitis"
+
+"<Samaeos>"
+	"*Samaeos"
+
+"<adlatrare>"
+	"*adlatrare"
+
+"<equitatus>"
+	"*equitatus"
+
+"<epulas>"
+	"*epulas"
+
+"<audaciae>"
+	"audacia" n f sg gen
+	"audacia" n f sg dat
+	"audacia" n f sg loc
+	"audacia" n f pl nom
+	"audacia" n f pl voc
+
+"<fluminis>"
+	"*fluminis"
+
+"<Alia>"
+	"*Alia"
+
+"<cognitis>"
+	"*cognitis"
+
+"<locum>"
+	"locus" n m sg acc
+
+"<proponenda>"
+	"*proponenda"
+
+"<intercedebant>"
+	"*intercedebant"
+
+"<Scipio>"
+	"*Scipio"
+
+"<aculeus>"
+	"*aculeus"
+
+"<forte>"
+	"*forte"
+
+"<decreuerat>"
+	"*decreuerat"
+
+"<Bellonae>"
+	"*Bellonae"
+
+"<Neapolim>"
+	"*Neapolim"
+
+"<censeri>"
+	"*censeri"
+
+"<auersis>"
+	"*auersis"
+
+"<liberatam>"
+	"*liberatam"
+
+"<uo>"
+	"*uo"
+
+"<negaturus>"
+	"*negaturus"
+
+"<recipiendi>"
+	"*recipiendi"
+
+"<morbi>"
+	"morbus" n m sg gen
+	"morbus" n m pl nom
+	"morbus" n m pl voc
+
+"<credebat>"
+	"*credebat"
+
+"<frangi>"
+	"*frangi"
+
+"<obiectis>"
+	"*obiectis"
+
+"<flexisset>"
+	"*flexisset"
+
+"<peruen>"
+	"*peruen"
+
+"<obuius>"
+	"*obuius"
+
+"<fiducia>"
+	"fiducia" n f sg nom
+	"fiducia" n f sg voc
+	"fiducia" n f sg abl
+
+"<habuit>"
+	"*habuit"
+
+"<prohiberi>"
+	"*prohiberi"
+
+"<eruitia>"
+	"*eruitia"
+
+"<comprehensi>"
+	"*comprehensi"
+
+"<collocutus>"
+	"*collocutus"
+
+"<uiatorem>"
+	"*uiatorem"
+
+"<Achaeorum>"
+	"*Achaeorum"
+
+"<toto>"
+	"totus" prn tn m sg abl
+	"totus" prn tn nt sg abl
+
+"<incerta>"
+	"*incerta"
+
+"<prendi>"
+	"*prendi"
+
+"<unam>"
+	"unus" num f sg acc
+
+"<ubertas>"
+	"*ubertas"
+
+"<Antiochi>"
+	"*Antiochi"
+
+"<existimare>"
+	"*existimare"
+
+"<nouaeque>"
+	"*nouaeque"
+
+"<fortis>"
+	"*fortis"
+
+"<peruentum>"
+	"*peruentum"
+
+"<arduas>"
+	"*arduas"
+
+"<praeerat>"
+	"*praeerat"
+
+"<Gergithum>"
+	"*Gergithum"
+
+"<paribus>"
+	"*paribus"
+
+"<Valerium>"
+	"*Valerium"
+
+"<excusaretur>"
+	"*excusaretur"
+
+"<referente>"
+	"*referente"
+
+"<planaque>"
+	"*planaque"
+
+"<maioribus>"
+	"*maioribus"
+
+"<diebus>"
+	"*diebus"
+
+"<concordi>"
+	"*concordi"
+
+"<maritumae>"
+	"*maritumae"
+
+"<orantibus>"
+	"*orantibus"
+
+"<brachio>"
+	"brachium" n nt sg dat
+	"brachium" n nt sg abl
+	"brachium" n nt sg loc
+
+"<accommodatas>"
+	"*accommodatas"
+
+"<legationemque>"
+	"*legationemque"
+
+"<ingenti>"
+	"*ingenti"
+
+"<officii>"
+	"officium" n nt sg gen
+
+"<Scipionum>"
+	"*Scipionum"
+
+"<ciuitates>"
+	"*ciuitates"
+
+"<animos>"
+	"animus" n m pl acc
+
+"<uotis>"
+	"*uotis"
+
+"<recipit>"
+	"*recipit"
+
+"<quieta>"
+	"*quieta"
+
+"<animis>"
+	"anima" n f pl dat
+	"anima" n f pl abl
+	"anima" n f pl loc
+	"animus" n m pl dat
+	"animus" n m pl abl
+	"animus" n m pl loc
+
+"<condemnauit>"
+	"*condemnauit"
+
+"<insolita>"
+	"*insolita"
+
+"<diei>"
+	"*diei"
+
+"<eruptionibus>"
+	"*eruptionibus"
+
+"<quatiebat>"
+	"*quatiebat"
+
+"<recentibus>"
+	"*recentibus"
+
+"<dilapsos>"
+	"*dilapsos"
+
+"<contionem>"
+	"*contionem"
+
+"<huius>"
+	"hic" det dem m sg gen
+	"hic" det dem f sg gen
+	"hic" det dem nt sg gen
+
+"<campus>"
+	"campus" n m sg nom
+
+"<gelidis>"
+	"*gelidis"
+
+"<oneribus>"
+	"*oneribus"
+
+"<introduxit>"
+	"*introduxit"
+
+"<deque>"
+	"*deque"
+
+[59] 
+"<^At>"
+	"at" cnjcoo
+
+"<equorum>"
+	"equus" n m pl gen
+
+"<dimissa>"
+	"*dimissa"
+
+"<fodientium>"
+	"*fodientium"
+
+"<praecedenti>"
+	"*praecedenti"
+
+"<Et>"
+	"et" cnjcoo
+
+"<Gallograecos>"
+	"*Gallograecos"
+
+"<legum>"
+	"*legum"
+
+"<bellumque>"
+	"*bellumque"
+
+"<acceperim>"
+	"*acceperim"
+
+"<Permissu>"
+	"*Permissu"
+
+"<duodeciens>"
+	"*duodeciens"
+
+"<octingentos>"
+	"*octingentos"
+
+"<Gallograecia>"
+	"*Gallograecia"
+
+"<ubrutis>"
+	"*ubrutis"
+
+[60] 
+"<^Aduersus>"
+	"*Aduersus"
+
+"<colloquii>"
+	"colloquium" n nt sg gen
+
+"<custodibus>"
+	"*custodibus"
+
+"<excogitata>"
+	"*excogitata"
+
+"<munitae>"
+	"*munitae"
+
+"<nequaquam>"
+	"*nequaquam"
+
+"<obsidibus>"
+	"*obsidibus"
+
+"<edentes>"
+	"*edentes"
+
+"<ecunda>"
+	"*ecunda"
+
+"<Xylinen>"
+	"*Xylinen"
+
+"<cenantem>"
+	"*cenantem"
+
+"<deductum>"
+	"*deductum"
+
+"<aduentum>"
+	"aduentus" n m sg acc
+
+"<deuiis>"
+	"*deuiis"
+
+"<erant>"
+	"esse" vbser pii p3 pl
+
+"<citarique>"
+	"*citarique"
+
+"<uccessisset>"
+	"*uccessisset"
+
+"<coactis>"
+	"*coactis"
+
+"<Fuluius>"
+	"*Fuluius"
+
+"<omen>"
+	"*omen"
+
+"<numerus>"
+	"numerus" n m sg nom
+
+"<patres>"
+	"*patres"
+
+"<quatiendo>"
+	"*quatiendo"
+
+"<triumphum>"
+	"*triumphum"
+
+"<trenuus>"
+	"*trenuus"
+
+"<cedere>"
+	"*cedere"
+
+"<fatigaui>"
+	"*fatigaui"
+
+"<Aegium>"
+	"*Aegium"
+
+"<dediti>"
+	"*dediti"
+
+"<foris>"
+	"forum" n nt pl dat
+	"forum" n nt pl abl
+	"forum" n nt pl loc
+
+"<indignantem>"
+	"*indignantem"
+
+"<reliquisset>"
+	"*reliquisset"
+
+"<leniendam>"
+	"*leniendam"
+
+"<regnoque>"
+	"*regnoque"
+
+"<uulnerati>"
+	"*uulnerati"
+
+"<consulares>"
+	"*consulares"
+
+"<crescere>"
+	"*crescere"
+
+"<finituros>"
+	"*finituros"
+
+"<corrumpere>"
+	"*corrumpere"
+
+"<adduxerant>"
+	"*adduxerant"
+
+"<ubeundi>"
+	"*ubeundi"
+
+"<id>"
+	"*id"
+
+"<upplementum>"
+	"*upplementum"
+
+"<umus>"
+	"*umus"
+
+"<profecto>"
+	"*profecto"
+
+"<Anabura>"
+	"*Anabura"
+
+"<Profectus>"
+	"*Profectus"
+
+"<calamitatem>"
+	"*calamitatem"
+
+"<ordine>"
+	"*ordine"
+
+"<asperitatem>"
+	"*asperitatem"
+
+"<ordiri>"
+	"*ordiri"
+
+"<aliud>"
+	"aliud" adv
+
+"<uera>"
+	"*uera"
+
+"<frequentia>"
+	"*frequentia"
+
+"<quaestorem>"
+	"*quaestorem"
+
+"<lectum>"
+	"*lectum"
+
+"<pepigi>"
+	"*pepigi"
+
+"<triumphumque>"
+	"*triumphumque"
+"<.>"
+	"." sent
+
+
