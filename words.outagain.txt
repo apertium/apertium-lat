@@ -1,0 +1,683 @@
+"<Balestrand>"
+	"*Balestrand"
+
+"<Kodiak>"
+	"*Kodiak"
+
+"<Juden>"
+	"*Juden"
+
+"<allisisti>"
+	"*allisisti"
+
+"<nomadicarum>"
+	"*nomadicarum"
+
+"<Ogle>"
+	"*Ogle"
+
+"<Annobón>"
+	"*Annobón"
+
+"<Sinopensis>"
+	"*Sinopensis"
+
+"<Unioidarum>"
+	"*Unioidarum"
+
+"<ubterraneis>"
+	"*ubterraneis"
+
+"<Buriatice>"
+	"*Buriatice"
+
+"<mergiturque>"
+	"*mergiturque"
+
+"<exhauriendos>"
+	"*exhauriendos"
+
+"<Hassler>"
+	"*Hassler"
+
+"<Montepulciano>"
+	"*Montepulciano"
+
+"<Goritiensium>"
+	"*Goritiensium"
+
+"<Maher>"
+	"*Maher"
+
+"<parasitoidarum>"
+	"*parasitoidarum"
+
+526 
+"<^Jena>"
+	"*Jena"
+
+4219 
+"<^,>"
+	"," cm
+
+"<Hinder>"
+	"*Hinder"
+
+"<vegetativa>"
+	"*vegetativa"
+
+"<avannam>"
+	"*avannam"
+
+"<kukuryku>"
+	"*kukuryku"
+
+"<beneficavit>"
+	"*beneficavit"
+
+"<imptetrare>"
+	"*imptetrare"
+
+"<clopetentur>"
+	"*clopetentur"
+
+"<ideribus>"
+	"*ideribus"
+
+"<ilvularum>"
+	"*ilvularum"
+
+"<Pinasca>"
+	"*Pinasca"
+
+"<Runan>"
+	"*Runan"
+
+"<Zapotes>"
+	"*Zapotes"
+
+"<Plutum>"
+	"*Plutum"
+
+"<Prosperitatem>"
+	"*Prosperitatem"
+
+"<Liberatores>"
+	"*Liberatores"
+
+"<intermissionem>"
+	"*intermissionem"
+
+"<Latridopsis>"
+	"*Latridopsis"
+
+"<Sicelides>"
+	"*Sicelides"
+
+"<metaphrasis>"
+	"*metaphrasis"
+
+"<Méjannes>"
+	"*Méjannes"
+
+"<Splendeuptychia>"
+	"*Splendeuptychia"
+
+"<Chieulles>"
+	"*Chieulles"
+
+"<upereminet>"
+	"*upereminet"
+
+"<Ennominas>"
+	"*Ennominas"
+
+"<Nevegal>"
+	"*Nevegal"
+
+"<Alciati>"
+	"*Alciati"
+
+"<apprehendens>"
+	"*apprehendens"
+
+"<Equitatio>"
+	"*Equitatio"
+
+"<Donbassem>"
+	"*Donbassem"
+
+"<procestris>"
+	"*procestris"
+
+"<Perestrello>"
+	"*Perestrello"
+
+"<Dinkelscherben>"
+	"*Dinkelscherben"
+
+"<türkl>"
+	"*türkl"
+
+"<exornatus>"
+	"*exornatus"
+
+"<Kreuzchen>"
+	"*Kreuzchen"
+
+"<Connection>"
+	"*Connection"
+
+"<Marconne>"
+	"*Marconne"
+
+"<fusi>"
+	"*fusi"
+
+"<heres>"
+	"*heres"
+
+"<ecando>"
+	"*ecando"
+
+"<Gradez>"
+	"*Gradez"
+
+"<Atellanam>"
+	"*Atellanam"
+
+6113 
+"<^,>"
+	"," cm
+
+"<Alboreto>"
+	"*Alboreto"
+
+"<Vajrayanaeque>"
+	"*Vajrayanaeque"
+
+"<Lydie>"
+	"*Lydie"
+
+"<Carpentoractum>"
+	"*Carpentoractum"
+
+"<flatilium>"
+	"*flatilium"
+
+"<cannabinoiedes>"
+	"*cannabinoiedes"
+
+"<Calvensis>"
+	"*Calvensis"
+
+"<adipiscendo>"
+	"*adipiscendo"
+
+"<unificatio>"
+	"*unificatio"
+
+"<Chamborand>"
+	"*Chamborand"
+
+"<Ingeniaria>"
+	"*Ingeniaria"
+
+"<Biconta>"
+	"*Biconta"
+
+"<mediaevale>"
+	"*mediaevale"
+
+"<unguesque>"
+	"*unguesque"
+
+"<Mazicanica>"
+	"*Mazicanica"
+
+"<Umbriaticensis>"
+	"*Umbriaticensis"
+
+"<nationalitatibus>"
+	"*nationalitatibus"
+
+"
+"<^Tigris>"
+	"*Tigris"
+
+"<pinnarum>"
+	"*pinnarum"
+
+"<Tartarica>"
+	"*Tartarica"
+
+"<alsamenta>"
+	"*alsamenta"
+
+"<mandibulares>"
+	"*mandibulares"
+
+"<Elephas>"
+	"*Elephas"
+
+"<temporalitatem>"
+	"*temporalitatem"
+
+"<ferrarias>"
+	"*ferrarias"
+
+"<neutra>"
+	"neuter" prn tn f sg nom
+	"neuter" prn tn f sg abl
+	"neuter" prn tn nt pl nom
+	"neuter" prn tn nt pl acc
+
+"<adserventur>"
+	"*adserventur"
+
+"<Malvatumauri>"
+	"*Malvatumauri"
+
+"<Berio>"
+	"*Berio"
+
+"<cubes>"
+	"*cubes"
+
+"<ubducit>"
+	"*ubducit"
+
+"<controversialis>"
+	"*controversialis"
+
+"<Foué>"
+	"*Foué"
+
+"<Aghadrumsee>"
+	"*Aghadrumsee"
+
+4187 
+"<^,>"
+	"," cm
+
+"<Gondwanam>"
+	"*Gondwanam"
+
+"<conexium>"
+	"*conexium"
+
+"<recuperandorum>"
+	"*recuperandorum"
+
+"<Hernando>"
+	"*Hernando"
+
+"<Ghent>"
+	"*Ghent"
+
+"<Monsignori>"
+	"*Monsignori"
+
+"<buxi>"
+	"*buxi"
+
+"<Kalm>"
+	"*Kalm"
+
+"<propositorumque>"
+	"*propositorumque"
+
+"<Idomeneum>"
+	"*Idomeneum"
+
+"<editiosas>"
+	"*editiosas"
+
+"<gliscentes>"
+	"*gliscentes"
+
+"<Parmenionem>"
+	"*Parmenionem"
+
+"<temerarius>"
+	"*temerarius"
+
+"<primatus>"
+	"*primatus"
+
+"
+"<^Vivere>"
+	"*Vivere"
+
+"<belissimus>"
+	"*belissimus"
+
+"<relectus>"
+	"*relectus"
+
+"<Malzat>"
+	"*Malzat"
+
+"<aequatam>"
+	"*aequatam"
+
+"<reflection>"
+	"*reflection"
+
+"<coprolites>"
+	"*coprolites"
+
+"<Randy>"
+	"*Randy"
+
+"<psychotropicorum>"
+	"*psychotropicorum"
+
+"<Lunax>"
+	"*Lunax"
+
+"<bicoloris>"
+	"*bicoloris"
+
+"<Matanuska>"
+	"*Matanuska"
+
+"<egregiorumque>"
+	"*egregiorumque"
+
+"<Dispar>"
+	"*Dispar"
+
+"<calumniantibus>"
+	"*calumniantibus"
+
+"<algorismum>"
+	"*algorismum"
+
+"<Comorensis>"
+	"*Comorensis"
+
+"<Maslow>"
+	"*Maslow"
+
+"<Creoda>"
+	"*Creoda"
+
+"<praedecessorem>"
+	"*praedecessorem"
+
+"<Rutulorumque>"
+	"*Rutulorumque"
+
+"<Sterpeto>"
+	"*Sterpeto"
+
+"<magmatis>"
+	"*magmatis"
+
+"<vadosum>"
+	"*vadosum"
+
+"<capitalistam>"
+	"*capitalistam"
+
+"<iaculator>"
+	"*iaculator"
+
+"<Puygouzon>"
+	"*Puygouzon"
+
+4
+"<^D>"
+	"*D"
+
+"<Pidal>"
+	"*Pidal"
+
+"<lusionum>"
+	"*lusionum"
+
+"<Polonum>"
+	"*Polonum"
+
+"<Fusine>"
+	"*Fusine"
+
+"<Gundolf>"
+	"*Gundolf"
+
+"<Vipsanium>"
+	"*Vipsanium"
+
+9 
+"<^Novembris>"
+	"*Novembris"
+
+"<illamque>"
+	"*illamque"
+
+"<murale>"
+	"*murale"
+
+"<Delictorumque>"
+	"*Delictorumque"
+
+"<Nick>"
+	"*Nick"
+
+"<Tacasi>"
+	"*Tacasi"
+
+"<Museoa>"
+	"*Museoa"
+
+"<extraiudicialia>"
+	"*extraiudicialia"
+
+"<upravixerit>"
+	"*upravixerit"
+
+"<terio>"
+	"*terio"
+
+"<Teresina>"
+	"*Teresina"
+
+"<Happelis>"
+	"*Happelis"
+
+"<olympicam>"
+	"*olympicam"
+
+"<muggle>"
+	"*muggle"
+
+"<Zello>"
+	"*Zello"
+
+"<pulcharum>"
+	"*pulcharum"
+
+"<Roncalleis>"
+	"*Roncalleis"
+
+"<Anianensis>"
+	"*Anianensis"
+
+8635 
+"<^,>"
+	"," cm
+
+"<Races>"
+	"*Races"
+
+"<fabricari>"
+	"*fabricari"
+
+"<Meuilley>"
+	"*Meuilley"
+
+"<meditanti>"
+	"*meditanti"
+
+"<Yukoniae>"
+	"*Yukoniae"
+
+"<medicatis>"
+	"*medicatis"
+
+"<Hetthaeticum>"
+	"*Hetthaeticum"
+
+"<luxere>"
+	"*luxere"
+
+"<Monconturium>"
+	"*Monconturium"
+
+"<Vestalum>"
+	"*Vestalum"
+
+"
+"<^Vigintillio>"
+	"*Vigintillio"
+
+"<Heimatkunde>"
+	"*Heimatkunde"
+
+"<Nuptiis>"
+	"*Nuptiis"
+
+"<illidebant>"
+	"*illidebant"
+
+"<Leovingus>"
+	"*Leovingus"
+
+"<Ilan>"
+	"*Ilan"
+
+"<Bagdato>"
+	"*Bagdato"
+
+"<Illa>"
+	"*Illa"
+
+"<Bushehri>"
+	"*Bushehri"
+
+"<Kamil>"
+	"*Kamil"
+
+"<Saramaccani>"
+	"*Saramaccani"
+
+"<pilleo>"
+	"*pilleo"
+
+"<durabiliores>"
+	"*durabiliores"
+
+"<Conghoacuc>"
+	"*Conghoacuc"
+
+"<Postumiarum>"
+	"*Postumiarum"
+
+"<provision>"
+	"*provision"
+
+"<iactitabat>"
+	"*iactitabat"
+
+"<elementarum>"
+	"*elementarum"
+
+"<Sonneville>"
+	"*Sonneville"
+
+"<pre>"
+	"*pre"
+
+"<drachmas>"
+	"*drachmas"
+
+"<tv>"
+	"*tv"
+
+"<cyclum>"
+	"*cyclum"
+
+"<ignificabant>"
+	"*ignificabant"
+
+"<Paganine>"
+	"*Paganine"
+
+"<vicarios>"
+	"*vicarios"
+
+"<Mohammedanica>"
+	"*Mohammedanica"
+
+"<Vitt>"
+	"*Vitt"
+
+"<illustravitque>"
+	"*illustravitque"
+
+"<Belgique>"
+	"*Belgique"
+
+"<Ulterius>"
+	"*Ulterius"
+
+"<vervecinis>"
+	"*vervecinis"
+
+"<Ephesios>"
+	"*Ephesios"
+
+"<Iospehi>"
+	"*Iospehi"
+
+4007 
+"<^,>"
+	"," cm
+
+1235 = 
+"<^MCCXXXV>"
+	"*MCCXXXV"
+
+"<Collegio>"
+	"collegium" n nt sg dat
+	"collegium" n nt sg abl
+	"collegium" n nt sg loc
+
+"<Vestitum>"
+	"*Vestitum"
+
+"<Cryptularum>"
+	"*Cryptularum"
+
+"<alkaloidorum>"
+	"*alkaloidorum"
+
+"<Polestico>"
+	"*Polestico"
+
+"<Gemonias>"
+	"*Gemonias"
+
+"<microsculptura>"
+	"*microsculptura"
+
+"<fabricandum>"
+	"*fabricandum"
+
+"<Thibetanico>"
+	"*Thibetanico"
+"<.>"
+	"." sent
+
+
