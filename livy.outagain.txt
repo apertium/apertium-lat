@@ -407,8 +407,8 @@
 "<deque>"
 	"*deque"
 
-[59] 
-"<^At>"
+[59]
+"<At>"
 	"at" cnjcoo
 
 "<equorum>"
@@ -453,8 +453,8 @@
 "<ubrutis>"
 	"*ubrutis"
 
-[60] 
-"<^Aduersus>"
+[60]
+"<Aduersus>"
 	"*Aduersus"
 
 "<colloquii>"
@@ -629,7 +629,3 @@
 
 "<triumphumque>"
 	"*triumphumque"
-"<.>"
-	"." sent
-
-
