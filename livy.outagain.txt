@@ -407,7 +407,7 @@
 "<deque>"
 	"*deque"
 
-[59]
+[59] ^
 "<At>"
 	"at" cnjcoo
 
@@ -453,7 +453,7 @@
 "<ubrutis>"
 	"*ubrutis"
 
-[60]
+[60] ^
 "<Aduersus>"
 	"*Aduersus"
 
