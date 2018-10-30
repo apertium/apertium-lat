@@ -1,0 +1,998 @@
+"<Balestrand>"
+	"Balestrand" np top fem sg nom
+
+
+"<Kodiak>"
+	"Kodiak" np ant m sg nom
+	"Kodiak" np ant m sg voc
+
+
+"<Juden>"
+	"Juden" np ant m sg nom
+	"Juden" np ant m sg nom
+
+
+"<allisisti>"
+	"allidere" vblex ifi act p2 sg
+
+
+"<nomadicarum>"
+	"nomadicus" adj f pl gen
+
+
+"<Ogle>"
+	"Ogle" np top fem sg nom
+
+
+"<Annobón>"
+	"Annobón" np top fem sg nom
+
+
+"<Sinopensis>"
+	"Sinops" n m sg gen
+
+
+"<Unioidarum>"
+	"Unioidus" adj f pl gen
+
+
+"<ubterraneis>"
+	"subterraneus" adj m pl dat
+	"subterraneus" adj m pl abl
+	"subterraneus" adj f pl dat
+	"subterraneus" adj f pl abl
+
+
+"<Buriatice>"
+	"Buriaticus" np ant m sg voc
+
+
+"<mergiturque>"
+	"mergere" vblex pri psv p3 sg
+
+
+"<exhauriendos>"
+	"exhauriendus" adj m pl acc
+
+
+"<Hassler>"
+	"Hassler" np ant m sg nom
+
+
+"<Montepulciano>"
+	"Montepulciano" np top m sg nom
+
+
+"<Goritiensium>"
+	"Goritiensium" np top nt sg nom
+
+
+"<Maher>"
+	"Maher" np ant m sg nom
+
+
+"<parasitoidarum>"
+	"parasitoidus" adj f pl gen
+
+526 ^
+"<Jena>"
+	"Jena" np ant fem sg nom
+
+4219 ^
+"<,>"
+	"," cm
+
+
+"<Hinder>"
+	"Hinder" np ant m sg nom
+
+
+"<vegetativa>"
+	"vegetativus" adj f sg nom
+	"vegetativus" adj f sg abl
+
+
+"<avannam>"
+	"avanna" n f sg acc
+
+
+"<kukuryku>"
+	"kukurykus" n f sg abl
+
+
+"<beneficavit>"
+	"beneficare" vblex ifi act p3 sg
+
+
+"<imptetrare>"
+	"imptetrare" vblex inf
+
+
+"<clopetentur>"
+	"clopetere" vblex pri psv p3 pl
+
+
+"<ideribus>"
+	"ider" n m pl abl
+	"ider" n m pl dat
+
+
+"<ilvularum>"
+	"ilvulus" adj f pl gen
+
+
+"<Pinasca>"
+	"Pinasca" np top fem sg nom
+
+
+"<Runan>"
+	"Runan" np top m sg nom
+
+
+"<Zapotes>"
+	"Zapote" np ant m pl nom
+
+
+"<Plutum>"
+	"Pluto" np top m sg acc
+
+
+"<Prosperitatem>"
+	"prosperitatis" n f sg acc
+
+
+"<Liberatores>"
+	"Liberator" n m pl nom
+	"Liberator" n m pl acc
+
+
+"<intermissionem>"
+	"intermissio" n f sg acc
+
+
+"<Latridopsis>"
+	"Latridops" adj f sg gen
+
+
+"<Sicelides>"
+	"Sicel" np ant f pl nom
+	"Sicel" np ant f pl acc
+
+
+"<metaphrasis>"
+	"metaphrasio" n m sg gen
+
+
+"<Méjannes>"
+	"Méjannes" np top m sg nom
+
+
+"<Splendeuptychia>"
+	"Splendeuptychia" n f sg nom
+	"Splendeuptychia" n f sg abl
+
+
+"<Chieulles>"
+	"Chieullus" np ant m pl nom
+	"Chieullus" np ant m pl acc
+
+
+"<upereminet>"
+	"upereminere" vblex pri act p3 sg
+
+
+"<Ennominas>"
+	"Ennomina" n f pl acc
+
+
+"<Nevegal>"
+	"Nevegal" np top f sg nom
+
+
+"<Alciati>"
+	"Alciatus" np ant m pl nom
+	"Alciatus" np ant m sg gen
+
+
+"<apprehendens>"
+	"apprehendens" adj m sg nom
+
+
+"<Equitatio>"
+	"Equitatio" n m sg nom
+
+
+"<Donbassem>"
+	"Donbasse" np top n sg acc
+
+
+"<procestris>"
+	"procestrus" adj m pl dat
+	"procestrus" adj m pl abl
+	"procestrus" adj f pl dat
+	"procestrus" adj f pl abl
+
+
+"<Perestrello>"
+	"Perestrello" np ant m sg nom
+
+
+"<Dinkelscherben>"
+	"Dinkelscherben" np top m sg nom
+
+
+"<türkl>"
+	"türkl" np top m sg nom
+
+
+"<exornatus>"
+	"exornatus" adj m sg nom
+
+
+"<Kreuzchen>"
+	"Kreuzchen" np top m sg nom
+
+
+"<Connection>"
+	"connectio" n m sg acc
+
+
+"<Marconne>"
+	"Marconus" np ant m sg voc
+
+
+"<fusi>"
+	"fus" m sg gen
+	"fus" m pl nom
+	"fus" m pl voc
+	"fus" nt sg gen
+	"fusus" n m sg gen
+	"fusus" n m pl nom
+	"fusus" n m pl voc
+	"fusisse" vblex ifi act p1 sg
+
+
+"<heres>"
+	"heres" n m sg nom
+	"heres" n m sg voc
+
+
+"<ecando>"
+	"ecandus" adj m sg abl
+	"ecandus" adj m sg dat
+
+
+"<Gradez>"
+	"Gradez" np ant m sg nom
+
+
+"<Atellanam>"
+	"Atellana" np top f sg acc
+
+6113 ^
+"<,>"
+	"," cm
+
+
+"<Alboreto>"
+	"Alboretus" np ant m sg abl
+
+
+"<Vajrayanaeque>"
+	"Vajrayana" np ant f pl nom
+	"Vajrayana" np ant f sg dat
+	"Vajrayana" np ant f pl voc
+
+
+"<Lydie>"
+	"Lydie" np ant f sg nom
+
+
+"<Carpentoractum>"
+	"Carpentoractus" np top m sg acc
+
+
+"<flatilium>"
+	"flatilis" n nt pl gen
+
+
+"<cannabinoiedes>"
+	"cannabinoies" n m pl nom
+	"cannabinoies" n m pl acc
+
+
+"<Calvensis>"
+	"Calven" np ant m sg gen
+
+
+"<adipiscendo>"
+	"adipiscendus" adj m sg abl
+	"adipiscendus" adj m sg dat
+
+
+"<unificatio>"
+	"unificatio" n m sg nom
+
+
+"<Chamborand>"
+	"Chamborand" np top m sg nom
+
+
+"<Ingeniaria>"
+	"Ingeniaria" np top f sg nom
+
+
+"<Biconta>"
+	"Biconta" np top f sg nom
+
+
+"<mediaevale>"
+	"mediaeval" adj m sg abl
+	"mediaeval" adj nt sg nom
+
+
+"<unguesque>"
+	"unguis" n m pl nom
+	"unguis" n m pl acc
+
+
+"<Mazicanica>"
+	"Mazicanica" np top f sg nom
+
+
+"<Umbriaticensis>"
+	"Umbriaticens" adj m sg gen
+
+
+"<nationalitatibus>"
+	"nationalitas" n f pl abl
+	"nationalitas" n f pl dat
+
+"^
+"<Tigris>"
+	"tigris" n m sg nom
+	"tigris" n m sg gen
+
+
+"<pinnarum>"
+	"pinna" n f pl gen
+
+
+"<Tartarica>"
+	"Tartarica" np top f sg nom
+
+
+"<alsamenta>"
+	"alsamenta" n f sg nom
+	"alsamenta" n f sg abl
+
+
+"<mandibulares>"
+	"mandibularis" adj m pl nom
+	"mandibularis" adj m pl acc
+	"mandibularis" adj m pl voc
+
+
+"<Elephas>"
+	"Elephas" np top m sg nom
+
+
+"<temporalitatem>"
+	"temporalitas" n f sg acc
+
+
+"<ferrarias>"
+	"ferrarius" adj f pl acc
+
+
+"<neutra>"
+	"neuter" adj f sg nom
+	"neuter" adj f sg abl
+	"neuter" adj nt pl nom
+	"neuter" adj nt pl acc
+	"neuter" prn tn f sg nom
+	"neuter" prn tn f sg abl
+	"neuter" prn tn nt pl nom
+	"neuter" prn tn nt pl acc
+
+
+"<adserventur>"
+	"adservere" vblex pri psv p3 pl
+
+
+"<Malvatumauri>"
+	"Malvatumaurus" np top m pl nom
+	"Malvatumaurus" np top m sg gen
+
+
+"<Berio>"
+	"Beri" np top m sg abl
+	"Beri" np top m sg dat
+
+
+"<cubes>"
+	"cube" n m pl nom
+	"cube" n m pl acc
+
+
+"<ubducit>"
+	"ubducere" vblex pri act p3 sg
+
+
+"<controversialis>"
+	"controversia" n f sg gen
+
+
+"<Foué>"
+	"Foué" np top f sg nom
+
+
+"<Aghadrumsee>"
+	"Aghadrumsee" np top m sg nom
+
+4187 ^
+"<,>"
+	"," cm
+
+
+"<Gondwanam>"
+	"Gondwana" np top f sg acc
+
+
+"<conexium>"
+	"conexio" n nt pl gen
+
+
+"<recuperandorum>"
+	"recuperandus" adj m pl gen
+
+
+"<Hernando>"
+	"Hernando" np ant m sg nom
+
+
+"<Ghent>"
+	"Ghent" np top m sg nom
+
+
+"<Monsignori>"
+	"Monsignori" np top m sg nom
+
+
+"<buxi>"
+	"buxus" n m sg gen
+	"buxus" n m pl nom
+	"buxus" n m pl voc
+	"buxum" n nt sg gen
+
+
+"<Kalm>"
+	"Kalm" np top nt sg nom
+
+
+"<propositorumque>"
+	"propositus" adj m pl gen
+
+
+"<Idomeneum>"
+	"Idomeneus" np top m sg acc
+
+
+"<editiosas>"
+	"editiosa" n f pl acc
+
+
+"<gliscentes>"
+	"gliscens" adj m pl nom
+	"gliscens" adj m pl acc
+	"gliscens" adj f pl nom
+	"gliscens" adj f pl acc
+	"gliscens" adj m pl voc
+	"gliscens" adj f pl voc
+
+
+"<Parmenionem>"
+	"Parmenio" np top m sg acc
+
+
+"<temerarius>"
+	"temerarius" adj m sg nom
+
+
+"<primatus>"
+	"primatus" adj m sg nom
+
+"^
+"<Vivere>"
+	"vivere" vblex inf
+
+
+"<belissimus>"
+	"belissimus" adj m sg nom
+
+
+"<relectus>"
+	"relectus" adj m sg nom
+
+
+"<Malzat>"
+	"Malzat" np top m sg nom
+
+
+"<aequatam>"
+	"aequat" f sg acc
+
+
+"<reflection>"
+	"reflectio" n m sg acc
+
+
+"<coprolites>"
+	"coprolite" n m pl acc
+	"coprolite" n m pl nom
+
+
+"<Randy>"
+	"Randy" np ant m sg nom
+
+
+"<psychotropicorum>"
+	"psychotropicus" adj m pl gen
+
+
+"<Lunax>"
+	"Lunax" np top m sg nom
+
+
+"<bicoloris>"
+	"bicolor" adj m sg gen
+
+
+"<Matanuska>"
+	"Matanuska" np top f sg nom
+
+
+"<egregiorumque>"
+	"egregius" adj m pl gen
+
+
+"<Dispar>"
+	"dispar" adj m sg nom
+
+
+"<calumniantibus>"
+	"calumnians" adj m pl abl
+	"calumnians" adj m pl dat
+	"calumnians" adj f pl abl
+	"calumnians" adj f pl dat
+	"calumnians" adj nt pl abl
+	"calumnians" adj nt pl dat
+
+
+"<algorismum>"
+	"algorismus" adj m sg acc
+
+
+"<Comorensis>"
+	"Comorens" np top m sg gen
+
+
+"<Maslow>"
+	"Maslow" np top m sg nom
+
+
+"<Creoda>"
+	"Creoda" np top f sg nom
+
+
+"<praedecessorem>"
+	"praedecessor" n m sg acc
+
+
+"<Rutulorumque>"
+	"Rutulorus" adj m pl gen
+
+
+"<Sterpeto>"
+	"Sterpetus" np top m sg abl
+	"Sterpetus" np top m sg dat
+
+
+"<magmatis>"
+	"magmas" n f sg gen
+
+
+"<vadosum>"
+	"vadosus" adj m sg acc
+	"vadosus" adj nt sg nom
+	"vadosus" adj nt sg voc
+	"vadosus" adj nt sg acc
+
+
+"<capitalistam>"
+	"capitalistus" adj f sg acc
+
+
+"<iaculator>"
+	"iaculator" n m sg nom
+
+
+"<Puygouzon>"
+	"Puygouzon" np top m sg nom
+
+4^
+"<D>"
+	"D" num m sg nom
+
+
+"<Pidal>"
+	"Pidal" np top m sg nom
+
+
+"<lusionum>"
+	"lusio" n f pl gen
+
+
+"<Polonum>"
+	"Polonus" np top m sg acc
+
+
+"<Fusine>"
+	"Fusinus" np ant m sg voc
+
+
+"<Gundolf>"
+	"Gundolf" np ant m sg nom
+
+
+"<Vipsanium>"
+	"Vipsanius" np ant m sg acc
+
+9 ^
+"<Novembris>"
+	"November" adj f sg nom
+	"November" adj f sg voc
+	"November" adj f sg gen
+	"November" adj m sg gen
+	"November" adj nt sg gen
+
+
+"<illamque>"
+	"ille" prn f sg acc
+
+
+"<murale>"
+	"muralis" adj nt sg nom
+	"muralis" adj nt sg voc
+	"muralis" adj nt sg acc
+
+
+"<Delictorumque>"
+	"Delictor" n m pl gen
+
+
+"<Nick>"
+	"Nick" np ant m sg nom
+
+
+"<Tacasi>"
+	"Tacasus" np top m pl nom
+	"Tacasus" np top m pl gen
+
+
+"<Museoa>"
+	"Museoa" np top fem sg nom
+
+
+"<extraiudicialia>"
+	"extraiudicialis" adj nt pl nom
+	"extraiudicialis" adj nt pl acc
+
+
+"<upravixerit>"
+	"uprare" vblex fti act p3 sg
+
+
+"<terio>"
+	"terire" vblex pri act p1 sg
+
+
+"<Teresina>"
+	"Teresina" np top f sg nom
+
+
+"<Happelis>"
+	"Happelis" np top f sg nom
+
+
+"<olympicam>"
+	"olympicus" adj f sg acc
+
+
+"<muggle>"
+	"muggle" adv
+
+
+"<Zello>"
+	"Zellus" np ant m sg abl
+	"Zellus" np ant m sg dat
+
+
+"<pulcharum>"
+	"pulcher" adj f pl gen
+
+
+"<Roncalleis>"
+	"Roncalleus" np ant m pl dat
+	"Roncalleus" np ant m pl abl
+	"Roncalleus" np ant f pl dat
+	"Roncalleus" np ant f pl abl
+	"Roncalleus" np ant nt pl dat
+	"Roncalleus" np ant nt pl abl
+
+"<Anianensis>"
+	"Anianensis" np ant m sg gen
+	"Anianensis" np ant m sg nom
+
+
+8635 ^
+"<,>"
+	"," cm
+
+
+"<Races>"
+	"Races" np ant m sg gen
+
+
+
+"<fabricari>"
+	"fabricarus" inf psv
+
+
+"<Meuilley>"
+	"Meuilley" np ant m sg nom
+
+
+"<meditanti>"
+	"meditantus" adj m pl nom
+	"meditantus" adj m sg gen
+
+
+"<Yukoniae>"
+	"Yukoniae" np top f sg nom
+
+
+"<medicatis>"
+	"medicat" m pl dat
+	"medicat" m pl abl
+	"medicat" f pl dat
+	"medicat" f pl abl
+	"medicat" nt pl dat
+	"medicat" nt pl abl
+	"medicare" vblex pri act p2 pl
+
+
+"<Hetthaeticum>"
+	"Hetthaeticum" np top f sg nom
+
+
+"<luxere>"
+	"lugere" vblex ifi psv p3 pl
+	"lucere" vblex ifi psv p3 pl
+
+
+"<Monconturium>"
+	"Monconturium" np top f sg nom
+
+
+"<Vestalum>"
+	"Vestal" n f pl gen
+
+"^
+"<Vigintillio>"
+	"Vigintillio" np ant m sg nom
+
+
+"<Heimatkunde>"
+	"Heimatkunde" np top m sg nom
+
+
+"<Nuptiis>"
+	"nuptia" n f pl abl
+	"nuptia" n f pl dat
+
+
+"<illidebant>"
+	"illidere" vblex pri act p3 pl
+
+
+"<Leovingus>"
+	"Leovingus" np ant m sg nom
+
+
+"<Ilan>"
+	"Ilan" np ant m sg nom
+
+
+"<Bagdato>"
+	"Bagdato" np top m sg abl
+	"Bagdato" np top m sg dat
+
+
+"<Illa>"
+	"Illa" pr f sg nom
+	"Illa" pr f sg abl
+
+
+"<Bushehri>"
+	"Bushehrus" np ant m pl nom
+	"Bushehrus" np ant m sg gen
+
+
+"<Kamil>"
+	"Kamil" np top m sg nom
+
+
+"<Saramaccani>"
+	"Saramaccanus" np top m pl nom
+	"Saramaccanus" np top m sg gen
+
+
+"<pilleo>"
+	"pilleus" n m sg dat
+	"pilleus" n m sg abl
+	"pilleus" n m sg loc
+
+
+"<durabiliores>"
+	"durabilior" adj m pl nom
+	"durabilior" adj m pl acc
+	"durabilior" adj m pl voc
+	"durabilior" adj f pl nom
+	"durabilior" adj f pl acc
+	"durabilior" adj f pl voc
+
+
+"<Conghoacuc>"
+	"Conghoacuc" np top m sg nom
+
+
+"<Postumiarum>"
+	"postumius" adj f pl gen
+
+
+"<provision>"
+	"provisio" n m sg acc
+
+
+"<iactitabat>"
+	"iactitare" vblex pii act p3 sg
+
+
+"<elementarum>"
+	"elementa" n f pl gen
+
+
+"<Sonneville>"
+	"Sonneville" np top m sg nom
+
+
+"<pre>"
+	"pre" pr
+
+
+"<drachmas>"
+	"drachma" n f pl acc
+
+
+"<tv>"
+	"tv" num m sg nom
+
+
+"<cyclum>"
+	"cyclus" n m sg acc
+
+
+"<ignificabant>"
+	"ignificare" vblex pii act p3 pl
+
+
+"<Paganine>"
+	"Paganinus" np ant m sg voc
+
+
+"<vicarios>"
+	"vicarius" adj m pl acc
+	"vicarius" adj f pl acc
+
+
+"<Mohammedanica>"
+	"Mohammedanica" np ant f sg nom
+
+
+"<Vitt>"
+	"Vittus" np ant m sg voc
+
+
+"<illustravitque>"
+	"illustrare" vblex ifi act p3 sg
+
+
+"<Belgique>"
+	"Belgi" np top m sg loc
+
+
+"<Ulterius>"
+	"ulterius" adv
+
+
+"<vervecinis>"
+	"vervecinus" adj f pl dat
+	"vervecinus" adj f pl abl
+	"vervecinus" adj m pl dat
+	"vervecinus" adj m pl abl
+	"vervecinus" adj nt pl dat
+	"vervecinus" adj nt pl abl
+
+
+"<Ephesios>"
+	"ephesius" adj m pl acc
+
+
+"<Iospehi>"
+	"Iospeh" np ant m pl nom
+	"Iospeh" np ant m sg gen
+
+4007 ^
+"<,>"
+	"," cm
+
+1235 = ^
+"<MCCXXXV>"
+	"MCCXXXV" num m sg nom
+
+
+"<Collegio>"
+	"collegium" n nt sg dat
+	"collegium" n nt sg abl
+	"collegium" n nt sg loc
+
+
+"<Vestitum>"
+	"vestit" m sg acc
+	"vestit" nt sg nom
+	"vestit" nt sg voc
+	"vestit" nt sg acc
+	"vestitus" n f sg acc
+
+
+"<Cryptularum>"
+	"cryptula" n f pl gen
+
+
+"<alkaloidorum>"
+	"alkaloidus" adj m pl gen
+
+
+"<Polestico>"
+	"Polesticus" np top m sg abl
+	"Polesticus" np top m sg dat
+
+
+"<Gemonias>"
+	"gemonia" n f pl acc
+
+
+"<microsculptura>"
+	"microsculptura" n f sg nom
+
+
+"<fabricandum>"
+	"fabricandus" adj m sg acc
+	"fabricandus" adj nt sg acc
+	"fabricandus" adj nt sg nom
+
+
+"<Thibetanico>"
+	"Thibetanicus" np top m sg abl
+	"Thibetanicus" np top m sg dat

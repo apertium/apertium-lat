@@ -1,0 +1,5037 @@
+"<Balestrand>"
+	"*Balestrand"
+
+
+"<Kodiak>"
+	"*Kodiak"
+
+
+"<Juden>"
+	"*Juden"
+
+
+"<allisisti>"
+	"*allisisti"
+
+
+"<nomadicarum>"
+	"*nomadicarum"
+
+
+"<Ogle>"
+	"*Ogle"
+
+
+"<Annobón>"
+	"*Annobón"
+
+
+"<Sinopensis>"
+	"*Sinopensis"
+
+
+"<Unioidarum>"
+	"*Unioidarum"
+
+
+"<ubterraneis>"
+	"*ubterraneis"
+
+
+"<Buriatice>"
+	"*Buriatice"
+
+
+"<mergiturque>"
+	"*mergiturque"
+
+
+"<exhauriendos>"
+	"*exhauriendos"
+
+
+"<Hassler>"
+	"*Hassler"
+
+
+"<Montepulciano>"
+	"*Montepulciano"
+
+
+"<Goritiensium>"
+	"*Goritiensium"
+
+
+"<Maher>"
+	"*Maher"
+
+
+"<parasitoidarum>"
+	"*parasitoidarum"
+
+526 ^
+"<Jena>"
+	"*Jena"
+
+4219 ^
+"<,>"
+	"," cm
+
+
+"<Hinder>"
+	"*Hinder"
+
+
+"<vegetativa>"
+	"*vegetativa"
+
+
+"<avannam>"
+	"*avannam"
+
+
+"<kukuryku>"
+	"*kukuryku"
+
+
+"<beneficavit>"
+	"*beneficavit"
+
+
+"<imptetrare>"
+	"*imptetrare"
+
+
+"<clopetentur>"
+	"*clopetentur"
+
+
+"<ideribus>"
+	"*ideribus"
+
+
+"<ilvularum>"
+	"*ilvularum"
+
+
+"<Pinasca>"
+	"*Pinasca"
+
+
+"<Runan>"
+	"*Runan"
+
+
+"<Zapotes>"
+	"*Zapotes"
+
+
+"<Plutum>"
+	"*Plutum"
+
+
+"<Prosperitatem>"
+	"prosperitatis" n f sg acc
+
+
+"<Liberatores>"
+	"*Liberatores"
+
+
+"<intermissionem>"
+	"*intermissionem"
+
+
+"<Latridopsis>"
+	"*Latridopsis"
+
+
+"<Sicelides>"
+	"*Sicelides"
+
+
+"<metaphrasis>"
+	"*metaphrasis"
+
+
+"<Méjannes>"
+	"*Méjannes"
+
+
+"<Splendeuptychia>"
+	"*Splendeuptychia"
+
+
+"<Chieulles>"
+	"*Chieulles"
+
+
+"<upereminet>"
+	"*upereminet"
+
+
+"<Ennominas>"
+	"*Ennominas"
+
+
+"<Nevegal>"
+	"*Nevegal"
+
+
+"<Alciati>"
+	"*Alciati"
+
+
+"<apprehendens>"
+	"*apprehendens"
+
+
+"<Equitatio>"
+	"*Equitatio"
+
+
+"<Donbassem>"
+	"*Donbassem"
+
+
+"<procestris>"
+	"*procestris"
+
+
+"<Perestrello>"
+	"*Perestrello"
+
+
+"<Dinkelscherben>"
+	"*Dinkelscherben"
+
+
+"<türkl>"
+	"*türkl"
+
+
+"<exornatus>"
+	"*exornatus"
+
+
+"<Kreuzchen>"
+	"*Kreuzchen"
+
+
+"<Connection>"
+	"*Connection"
+
+
+"<Marconne>"
+	"*Marconne"
+
+
+"<fusi>"
+	"fus" m sg gen
+	"fus" m pl nom
+	"fus" m pl voc
+	"fus" nt sg gen
+	"fusus" n m sg gen
+	"fusus" n m pl nom
+	"fusus" n m pl voc
+	"fusisse" vblex ifi act p1 sg
+
+
+"<heres>"
+	"*heres"
+
+
+"<ecando>"
+	"*ecando"
+
+
+"<Gradez>"
+	"*Gradez"
+
+
+"<Atellanam>"
+	"*Atellanam"
+
+6113 ^
+"<,>"
+	"," cm
+
+
+"<Alboreto>"
+	"*Alboreto"
+
+
+"<Vajrayanaeque>"
+	"*Vajrayanaeque"
+
+
+"<Lydie>"
+	"*Lydie"
+
+
+"<Carpentoractum>"
+	"*Carpentoractum"
+
+
+"<flatilium>"
+	"*flatilium"
+
+
+"<cannabinoiedes>"
+	"*cannabinoiedes"
+
+
+"<Calvensis>"
+	"*Calvensis"
+
+
+"<adipiscendo>"
+	"*adipiscendo"
+
+
+"<unificatio>"
+	"*unificatio"
+
+
+"<Chamborand>"
+	"*Chamborand"
+
+
+"<Ingeniaria>"
+	"*Ingeniaria"
+
+
+"<Biconta>"
+	"*Biconta"
+
+
+"<mediaevale>"
+	"*mediaevale"
+
+
+"<unguesque>"
+	"*unguesque"
+
+
+"<Mazicanica>"
+	"*Mazicanica"
+
+
+"<Umbriaticensis>"
+	"*Umbriaticensis"
+
+
+"<nationalitatibus>"
+	"*nationalitatibus"
+
+"^
+"<Tigris>"
+	"tigris" n m sg nom
+	"tigris" n m sg gen
+
+
+"<pinnarum>"
+	"pinna" n f pl gen
+
+
+"<Tartarica>"
+	"*Tartarica"
+
+
+"<alsamenta>"
+	"*alsamenta"
+
+
+"<mandibulares>"
+	"*mandibulares"
+
+
+"<Elephas>"
+	"*Elephas"
+
+
+"<temporalitatem>"
+	"*temporalitatem"
+
+
+"<ferrarias>"
+	"*ferrarias"
+
+
+"<neutra>"
+	"neuter" adj f sg nom
+	"neuter" adj f sg abl
+	"neuter" adj nt pl nom
+	"neuter" adj nt pl acc
+	"neuter" prn tn f sg nom
+	"neuter" prn tn f sg abl
+	"neuter" prn tn nt pl nom
+	"neuter" prn tn nt pl acc
+
+
+"<adserventur>"
+	"*adserventur"
+
+
+"<Malvatumauri>"
+	"*Malvatumauri"
+
+
+"<Berio>"
+	"*Berio"
+
+
+"<cubes>"
+	"*cubes"
+
+
+"<ubducit>"
+	"*ubducit"
+
+
+"<controversialis>"
+	"*controversialis"
+
+
+"<Foué>"
+	"*Foué"
+
+
+"<Aghadrumsee>"
+	"*Aghadrumsee"
+
+4187 ^
+"<,>"
+	"," cm
+
+
+"<Gondwanam>"
+	"*Gondwanam"
+
+
+"<conexium>"
+	"*conexium"
+
+
+"<recuperandorum>"
+	"*recuperandorum"
+
+
+"<Hernando>"
+	"*Hernando"
+
+
+"<Ghent>"
+	"*Ghent"
+
+
+"<Monsignori>"
+	"*Monsignori"
+
+
+"<buxi>"
+	"buxus" n m sg gen
+	"buxus" n m pl nom
+	"buxus" n m pl voc
+	"buxum" n nt sg gen
+
+
+"<Kalm>"
+	"*Kalm"
+
+
+"<propositorumque>"
+	"*propositorumque"
+
+
+"<Idomeneum>"
+	"*Idomeneum"
+
+
+"<editiosas>"
+	"*editiosas"
+
+
+"<gliscentes>"
+	"*gliscentes"
+
+
+"<Parmenionem>"
+	"*Parmenionem"
+
+
+"<temerarius>"
+	"temerarius" adj m sg nom
+
+
+"<primatus>"
+	"*primatus"
+
+"^
+"<Vivere>"
+	"vivere" vblex inf
+
+
+"<belissimus>"
+	"*belissimus"
+
+
+"<relectus>"
+	"*relectus"
+
+
+"<Malzat>"
+	"*Malzat"
+
+
+"<aequatam>"
+	"aequat" f sg acc
+
+
+"<reflection>"
+	"*reflection"
+
+
+"<coprolites>"
+	"*coprolites"
+
+
+"<Randy>"
+	"*Randy"
+
+
+"<psychotropicorum>"
+	"*psychotropicorum"
+
+
+"<Lunax>"
+	"*Lunax"
+
+
+"<bicoloris>"
+	"*bicoloris"
+
+
+"<Matanuska>"
+	"*Matanuska"
+
+
+"<egregiorumque>"
+	"*egregiorumque"
+
+
+"<Dispar>"
+	"*Dispar"
+
+
+"<calumniantibus>"
+	"*calumniantibus"
+
+
+"<algorismum>"
+	"*algorismum"
+
+
+"<Comorensis>"
+	"*Comorensis"
+
+
+"<Maslow>"
+	"*Maslow"
+
+
+"<Creoda>"
+	"*Creoda"
+
+
+"<praedecessorem>"
+	"*praedecessorem"
+
+
+"<Rutulorumque>"
+	"*Rutulorumque"
+
+
+"<Sterpeto>"
+	"*Sterpeto"
+
+
+"<magmatis>"
+	"*magmatis"
+
+
+"<vadosum>"
+	"vadosus" adj m sg acc
+	"vadosus" adj nt sg nom
+	"vadosus" adj nt sg voc
+	"vadosus" adj nt sg acc
+
+
+"<capitalistam>"
+	"*capitalistam"
+
+
+"<iaculator>"
+	"*iaculator"
+
+
+"<Puygouzon>"
+	"*Puygouzon"
+
+4^
+"<D>"
+	"*D"
+
+
+"<Pidal>"
+	"*Pidal"
+
+
+"<lusionum>"
+	"*lusionum"
+
+
+"<Polonum>"
+	"*Polonum"
+
+
+"<Fusine>"
+	"*Fusine"
+
+
+"<Gundolf>"
+	"*Gundolf"
+
+
+"<Vipsanium>"
+	"*Vipsanium"
+
+9 ^
+"<Novembris>"
+	"*Novembris"
+
+
+"<illamque>"
+	"*illamque"
+
+
+"<murale>"
+	"muralis" adj nt sg nom
+	"muralis" adj nt sg voc
+	"muralis" adj nt sg acc
+
+
+"<Delictorumque>"
+	"*Delictorumque"
+
+
+"<Nick>"
+	"*Nick"
+
+
+"<Tacasi>"
+	"*Tacasi"
+
+
+"<Museoa>"
+	"*Museoa"
+
+
+"<extraiudicialia>"
+	"*extraiudicialia"
+
+
+"<upravixerit>"
+	"*upravixerit"
+
+
+"<terio>"
+	"*terio"
+
+
+"<Teresina>"
+	"*Teresina"
+
+
+"<Happelis>"
+	"*Happelis"
+
+
+"<olympicam>"
+	"*olympicam"
+
+
+"<muggle>"
+	"*muggle"
+
+
+"<Zello>"
+	"*Zello"
+
+
+"<pulcharum>"
+	"*pulcharum"
+
+
+"<Roncalleis>"
+	"*Roncalleis"
+
+
+"<Anianensis>"
+	"*Anianensis"
+
+8635 ^
+"<,>"
+	"," cm
+
+
+"<Races>"
+	"*Races"
+
+
+"<fabricari>"
+	"*fabricari"
+
+
+"<Meuilley>"
+	"*Meuilley"
+
+
+"<meditanti>"
+	"*meditanti"
+
+
+"<Yukoniae>"
+	"*Yukoniae"
+
+
+"<medicatis>"
+	"medicat" m pl dat
+	"medicat" m pl abl
+	"medicat" f pl dat
+	"medicat" f pl abl
+	"medicat" nt pl dat
+	"medicat" nt pl abl
+	"medicare" vblex pri act p2 pl
+
+
+"<Hetthaeticum>"
+	"*Hetthaeticum"
+
+
+"<luxere>"
+	"*luxere"
+
+
+"<Monconturium>"
+	"*Monconturium"
+
+
+"<Vestalum>"
+	"*Vestalum"
+
+"^
+"<Vigintillio>"
+	"*Vigintillio"
+
+
+"<Heimatkunde>"
+	"*Heimatkunde"
+
+
+"<Nuptiis>"
+	"*Nuptiis"
+
+
+"<illidebant>"
+	"*illidebant"
+
+
+"<Leovingus>"
+	"*Leovingus"
+
+
+"<Ilan>"
+	"*Ilan"
+
+
+"<Bagdato>"
+	"*Bagdato"
+
+
+"<Illa>"
+	"*Illa"
+
+
+
+"<Bushehri>"
+	"*Bushehri"
+"<Kamil>"
+	"*Kamil"
+
+
+"<Saramaccani>"
+	"*Saramaccani"
+
+
+"<pilleo>"
+	"pilleus" n m sg dat
+	"pilleus" n m sg abl
+	"pilleus" n m sg loc
+
+
+"<durabiliores>"
+	"*durabiliores"
+
+
+"<Conghoacuc>"
+	"*Conghoacuc"
+
+
+"<Postumiarum>"
+	"*Postumiarum"
+
+
+"<provision>"
+	"*provision"
+
+
+"<iactitabat>"
+	"*iactitabat"
+
+
+"<elementarum>"
+	"*elementarum"
+
+
+"<Sonneville>"
+	"*Sonneville"
+
+
+"<pre>"
+	"*pre"
+
+
+"<drachmas>"
+	"*drachmas"
+
+
+"<tv>"
+	"*tv"
+
+
+"<cyclum>"
+	"*cyclum"
+
+
+"<ignificabant>"
+	"*ignificabant"
+
+
+"<Paganine>"
+	"*Paganine"
+
+
+"<vicarios>"
+	"*vicarios"
+
+
+"<Mohammedanica>"
+	"*Mohammedanica"
+
+
+"<Vitt>"
+	"*Vitt"
+
+
+"<illustravitque>"
+	"*illustravitque"
+
+
+"<Belgique>"
+	"*Belgique"
+
+
+"<Ulterius>"
+	"*Ulterius"
+
+
+"<vervecinis>"
+	"*vervecinis"
+
+
+"<Ephesios>"
+	"*Ephesios"
+
+
+"<Iospehi>"
+	"*Iospehi"
+
+4007 ^
+"<,>"
+	"," cm
+
+1235 = ^
+"<MCCXXXV>"
+	"*MCCXXXV"
+
+
+"<Collegio>"
+	"collegium" n nt sg dat
+	"collegium" n nt sg abl
+	"collegium" n nt sg loc
+
+
+"<Vestitum>"
+	"vestit" m sg acc
+	"vestit" nt sg nom
+	"vestit" nt sg voc
+	"vestit" nt sg acc
+	"vestitus" n f sg acc
+
+
+"<Cryptularum>"
+	"*Cryptularum"
+
+
+"<alkaloidorum>"
+	"*alkaloidorum"
+
+
+"<Polestico>"
+	"*Polestico"
+
+
+"<Gemonias>"
+	"*Gemonias"
+
+
+"<microsculptura>"
+	"*microsculptura"
+
+
+"<fabricandum>"
+	"*fabricandum"
+
+
+"<Thibetanico>"
+	"*Thibetanico"
+
+
+"<eptendecimi>"
+	"*eptendecimi"
+
+
+"<Avivo>"
+	"*Avivo"
+
+
+"<Trizay>"
+	"*Trizay"
+
+
+"<volva>"
+	"*volva"
+
+
+"<Zacharia>"
+	"*Zacharia"
+
+
+"<Mediterraneum>"
+	"mediterraneus" adj m sg acc
+	"mediterraneus" adj nt sg nom
+	"mediterraneus" adj nt sg voc
+	"mediterraneus" adj nt sg acc
+
+
+"<Barieae>"
+	"*Barieae"
+
+
+"<Anglards>"
+	"*Anglards"
+
+
+"<Escuintla>"
+	"*Escuintla"
+
+
+"<Pacistaniensi>"
+	"*Pacistaniensi"
+
+
+"<Meaucé>"
+	"*Meaucé"
+
+
+"<Moriez>"
+	"*Moriez"
+
+
+"<Opiferae>"
+	"*Opiferae"
+
+
+"<Leza>"
+	"*Leza"
+
+
+"<Mudhili>"
+	"*Mudhili"
+
+520^
+"<:>"
+	":" sent
+
+
+"<Visome>"
+	"*Visome"
+
+
+"<Macuira>"
+	"*Macuira"
+
+
+"<Beneventanam>"
+	"*Beneventanam"
+
+
+"<Pévange>"
+	"*Pévange"
+
+
+"<appareri>"
+	"*appareri"
+
+
+"<philosophica>"
+	"philosophicus" adj f sg nom
+	"philosophicus" adj f sg voc
+	"philosophicus" adj nt pl nom
+	"philosophicus" adj nt pl voc
+	"philosophicus" adj nt pl acc
+
+
+"<mollissime>"
+	"*mollissime"
+
+
+"<parcuit>"
+	"*parcuit"
+
+
+"<clathrata>"
+	"*clathrata"
+
+
+"<Lagerbäck>"
+	"*Lagerbäck"
+
+
+"<Soltsy>"
+	"*Soltsy"
+
+
+"<Gessoriaco>"
+	"*Gessoriaco"
+
+
+"<Mammetis>"
+	"*Mammetis"
+
+
+"<tyrannum>"
+	"tyrannus" n m sg acc
+
+
+"<professionals>"
+	"*professionals"
+
+
+"<Cordi>"
+	"*Cordi"
+
+
+"<loricas>"
+	"lorica" n f sg gen
+	"lorica" n f pl acc
+
+
+"<inspecteur>"
+	"*inspecteur"
+
+
+"<Jixia>"
+	"*Jixia"
+
+
+"<Birendram>"
+	"*Birendram"
+
+
+"<rudem>"
+	"rudis" adj m sg acc
+	"rudis" adj f sg acc
+
+
+"<coquus>"
+	"*coquus"
+
+
+"<tepefaciendi>"
+	"*tepefaciendi"
+
+
+"<peralta>"
+	"*peralta"
+
+
+"<praebitris>"
+	"*praebitris"
+
+
+"<Intellegentibus>"
+	"intellegens" adj m pl dat
+	"intellegens" adj m pl abl
+	"intellegens" adj f pl dat
+	"intellegens" adj f pl abl
+	"intellegens" adj nt pl dat
+	"intellegens" adj nt pl abl
+
+
+"<Uranum>"
+	"*Uranum"
+
+
+"<curialium>"
+	"curialis" adj m pl gen
+	"curialis" adj f pl gen
+	"curialis" adj nt pl gen
+
+
+"<Kyaw>"
+	"*Kyaw"
+
+
+"<Pompiey>"
+	"*Pompiey"
+
+
+"<Iunoniam>"
+	"*Iunoniam"
+
+
+"<punishment>"
+	"*punishment"
+
+
+"<quadri>"
+	"quadrum" n nt sg gen
+
+
+"<Degré>"
+	"*Degré"
+
+
+"<Baleyso>"
+	"*Baleyso"
+
+
+"<cattosque>"
+	"*cattosque"
+
+
+"<orchards>"
+	"*orchards"
+
+
+"<quillaia>"
+	"*quillaia"
+
+
+"<Malalas>"
+	"*Malalas"
+
+
+"<Wüster>"
+	"*Wüster"
+
+
+"<dilapsum>"
+	"*dilapsum"
+
+
+"<Longobardiae>"
+	"*Longobardiae"
+
+7572 ^
+"<Znokai>"
+	"*Znokai"
+
+
+"<Stilotherium>"
+	"*Stilotherium"
+
+
+"<monochromaticarum>"
+	"*monochromaticarum"
+
+
+"<Chamesol>"
+	"*Chamesol"
+
+
+"<Sadanobu>"
+	"*Sadanobu"
+
+
+"<Ictor>"
+	"*Ictor"
+
+
+"<omnipotentis>"
+	"omnipotens" adj m sg voc
+	"omnipotens" adj m sg gen
+	"omnipotens" adj f sg voc
+	"omnipotens" adj f sg gen
+	"omnipotens" adj nt sg gen
+
+
+"<analibus>"
+	"*analibus"
+
+
+"<celeti>"
+	"*celeti"
+
+
+"<Lonnie>"
+	"*Lonnie"
+
+
+"<BepiColombo>"
+	"*BepiColombo"
+
+
+"<Layrisse>"
+	"*Layrisse"
+
+
+"<Jancigny>"
+	"*Jancigny"
+
+
+"<Marxistici>"
+	"*Marxistici"
+
+
+"<repens>"
+	"repens" adj m sg nom
+	"repens" adj f sg nom
+	"repens" adj nt sg nom
+
+
+"<propositum>"
+	"proposit" m sg acc
+	"proposit" nt sg nom
+	"proposit" nt sg voc
+	"proposit" nt sg acc
+	"propositum" n nt sg nom
+	"propositum" n nt sg voc
+	"propositum" n nt sg acc
+
+
+"<Apostolorum>"
+	"apostolus" n m pl gen
+
+
+"<punctatis>"
+	"*punctatis"
+
+
+"<Pompelo>"
+	"*Pompelo"
+
+
+"<conexiva>"
+	"*conexiva"
+
+
+"<Wagen>"
+	"*Wagen"
+
+
+"<ferriviarios>"
+	"*ferriviarios"
+
+
+"<Filoni>"
+	"*Filoni"
+
+
+"<Chantyenses>"
+	"*Chantyenses"
+
+9413 ^
+"<,>"
+	"," cm
+
+
+"<telluricam>"
+	"*telluricam"
+
+
+"<monolitha>"
+	"*monolitha"
+
+
+"<Sange>"
+	"*Sange"
+
+
+"<praxibus>"
+	"*praxibus"
+
+
+"<Geniliacum>"
+	"*Geniliacum"
+
+
+"<Hut>"
+	"*Hut"
+
+
+"<Voreqe>"
+	"*Voreqe"
+
+
+"<pone>"
+	"pone" adv
+	"pone" pr
+
+
+"<artefix>"
+	"*artefix"
+
+
+"<Crashaw>"
+	"*Crashaw"
+
+
+"<iuna>"
+	"*iuna"
+
+
+"<Castellbell>"
+	"*Castellbell"
+
+
+"<praebitos>"
+	"praebit" m pl acc
+
+
+"<velatur>"
+	"velare" vblex pri psv p3 sg
+
+"^
+"<Ricuzenius>"
+	"*Ricuzenius"
+
+
+"<Walâ>"
+	"*Walâ"
+
+
+"<Martres>"
+	"*Martres"
+
+
+"<Camburciacum>"
+	"*Camburciacum"
+
+
+"<munitus>"
+	"munit" m sg nom
+	"munitus" adj m sg nom
+
+
+"<Lézigné>"
+	"*Lézigné"
+
+
+"<Avati>"
+	"*Avati"
+
+
+"<longitudinibus>"
+	"longitudinis" n f pl dat
+	"longitudinis" n f pl abl
+	"longitudinis" n f pl loc
+
+
+"<Trautvetter>"
+	"*Trautvetter"
+
+
+"<colloquialiter>"
+	"*colloquialiter"
+
+
+"<Haffner>"
+	"*Haffner"
+
+
+"<occupaturum>"
+	"*occupaturum"
+
+
+"<Marigoti>"
+	"*Marigoti"
+
+
+"<Uloa>"
+	"*Uloa"
+
+
+"<Josse>"
+	"*Josse"
+
+
+"<Guitry>"
+	"*Guitry"
+
+
+"<Barmatà>"
+	"*Barmatà"
+
+
+"<Macrotis>"
+	"*Macrotis"
+
+
+"<existit>"
+	"*existit"
+
+
+"<Ithilia>"
+	"*Ithilia"
+
+
+"<Terrenus>"
+	"terrenus" adj m sg nom
+
+
+"<micationis>"
+	"*micationis"
+
+
+"<flagitaret>"
+	"*flagitaret"
+
+
+"<tatuebant>"
+	"*tatuebant"
+
+
+"<escentis>"
+	"*escentis"
+
+
+"<XXvirorum>"
+	"*XXvirorum"
+
+5696 ^
+"<,>"
+	"," cm
+
+
+"<Atheniensium>"
+	"*Atheniensium"
+
+
+"<quadratis>"
+	"quadratum" n nt pl dat
+	"quadratum" n nt pl abl
+	"quadratum" n nt pl loc
+	"quadrare" vblex pri act p2 pl
+
+
+"<rigorem>"
+	"*rigorem"
+
+
+"<Cappuccini>"
+	"*Cappuccini"
+
+
+"<reformàsti>"
+	"*reformàsti"
+
+7665 ^
+"<,>"
+	"," cm
+
+
+"<Imperio>"
+	"imperium" n nt sg dat
+	"imperium" n nt sg abl
+	"imperium" n nt sg loc
+
+
+"<pertinientes>"
+	"*pertinientes"
+
+
+"<undularum>"
+	"*undularum"
+
+
+"<Postdicta>"
+	"*Postdicta"
+
+
+"<patheticumque>"
+	"*patheticumque"
+
+
+"<Gitmiacinense>"
+	"*Gitmiacinense"
+
+
+"<lyricae>"
+	"lyricus" adj f sg gen
+	"lyricus" adj f sg dat
+	"lyricus" adj f pl nom
+	"lyricus" adj f pl voc
+
+
+"<Swim>"
+	"*Swim"
+
+
+"<pòstea>"
+	"*pòstea"
+
+
+"<Gubernativum>"
+	"*Gubernativum"
+
+
+"<archivis>"
+	"*archivis"
+
+
+"<hordeatam>"
+	"*hordeatam"
+
+
+"<Zambiensi>"
+	"*Zambiensi"
+
+1008^
+"<:>"
+	":" sent
+
+
+"<tipulant>"
+	"*tipulant"
+
+
+"<bitheismus>"
+	"*bitheismus"
+
+
+"<Cozumel>"
+	"*Cozumel"
+
+
+"<ulterioria>"
+	"*ulterioria"
+
+
+"<Rustenhart>"
+	"*Rustenhart"
+
+
+"<Mötzingen>"
+	"*Mötzingen"
+
+
+"<SMASS>"
+	"*SMASS"
+
+
+"<vocabularii>"
+	"*vocabularii"
+
+
+"<plaga>"
+	"plaga" n f sg nom
+	"plaga" n f sg voc
+	"plaga" n f sg abl
+
+
+"<Portola>"
+	"*Portola"
+
+
+"<lucidiore>"
+	"*lucidiore"
+
+6886 ^
+"<,>"
+	"," cm
+
+
+"<Hausen>"
+	"*Hausen"
+
+
+"<Saia>"
+	"*Saia"
+
+
+"<Muxatus>"
+	"*Muxatus"
+
+
+"<citatissimus>"
+	"*citatissimus"
+
+
+"<Satyrina>"
+	"*Satyrina"
+
+
+"<coruscum>"
+	"coruscus" adj m sg acc
+	"coruscus" adj nt sg nom
+	"coruscus" adj nt sg voc
+	"coruscus" adj nt sg acc
+
+
+"<maxillipedes>"
+	"*maxillipedes"
+
+
+"<Waterzooi>"
+	"*Waterzooi"
+
+
+"<versibusque>"
+	"*versibusque"
+
+
+"<Pule>"
+	"*Pule"
+
+
+"<Pfalzweyer>"
+	"*Pfalzweyer"
+
+
+"<Tolima>"
+	"*Tolima"
+
+
+"<calles>"
+	"callere" vblex pri act p2 sg
+
+
+"<umentesque>"
+	"*umentesque"
+
+
+"<tellaemachinale>"
+	"*tellaemachinale"
+
+
+"<ignificabantur>"
+	"*ignificabantur"
+
+
+"<Arcos>"
+	"arcus" n m pl acc
+	"arcus" n f pl acc
+
+
+"<Ibidemque>"
+	"*Ibidemque"
+
+
+"<CEDEAO>"
+	"*CEDEAO"
+
+4539 ^
+"<,>"
+	"," cm
+
+
+"<Elvodius>"
+	"*Elvodius"
+
+
+"<identificans>"
+	"*identificans"
+
+
+"<differens>"
+	"*differens"
+
+
+"<Fachausdrücke>"
+	"*Fachausdrücke"
+
+
+"<Celtiberiae>"
+	"*Celtiberiae"
+
+
+"<Nerontis>"
+	"*Nerontis"
+
+
+"<Phila>"
+	"*Phila"
+
+
+"<retractatum>"
+	"retractat" m sg acc
+	"retractat" nt sg nom
+	"retractat" nt sg voc
+	"retractat" nt sg acc
+
+
+"<Goliardorum>"
+	"*Goliardorum"
+
+
+"<Muneribus>"
+	"*Muneribus"
+
+
+"<expugnavisstet>"
+	"*expugnavisstet"
+
+
+"<Driefel>"
+	"*Driefel"
+
+
+"<Byvico>"
+	"*Byvico"
+
+
+"<Saiguède>"
+	"*Saiguède"
+
+
+"<Loncon>"
+	"*Loncon"
+
+
+"<Uscelensis>"
+	"*Uscelensis"
+
+
+"<MeridionalisTunisiaZambiaZimbabua>"
+	"*MeridionalisTunisiaZambiaZimbabua"
+
+
+"<Cutes>"
+	"cutere" vblex fti act p2 sg
+
+
+"<Apiculturae>"
+	"*Apiculturae"
+
+
+"<manare>"
+	"manare" vblex inf
+
+
+"<data>"
+	"dat" nt pl nom
+	"dat" nt pl voc
+	"dat" nt pl acc
+	"dat" f sg nom
+	"dat" f sg voc
+	"dat" f sg abl
+	"datum" n nt pl nom
+	"datum" n nt pl voc
+	"datum" n nt pl acc
+
+
+"<Ulis>"
+	"ulis" n m sg nom
+	"ulis" n m sg gen
+
+
+"<YHVH>"
+	"*YHVH"
+
+"^
+"<Cocos>"
+	"*Cocos"
+
+
+"<iactantes>"
+	"iactans" adj m pl nom
+	"iactans" adj m pl voc
+	"iactans" adj m pl acc
+	"iactans" adj f pl nom
+	"iactans" adj f pl voc
+	"iactans" adj f pl acc
+
+
+"<polyhistor>"
+	"*polyhistor"
+
+
+"<lassaverunt>"
+	"lassavisse" vblex ifi act p3 pl
+
+2003 - ^
+"<Il>"
+	"*Il"
+
+
+"<Louze>"
+	"*Louze"
+
+
+"<Chalandry>"
+	"*Chalandry"
+
+8963 ^
+"<Collurio>"
+	"*Collurio"
+
+2337 ^
+"<Boubín>"
+	"*Boubín"
+
+
+"<defrigendi>"
+	"*defrigendi"
+
+
+"<voluptates>"
+	"voluptatis" n f pl nom
+	"voluptatis" n f pl voc
+	"voluptatis" n f pl acc
+
+
+"<Vocance>"
+	"*Vocance"
+
+
+"<komissarov>"
+	"*komissarov"
+
+
+"<Armenios>"
+	"*Armenios"
+
+
+"<acciet>"
+	"*acciet"
+
+
+"<Massabiella>"
+	"*Massabiella"
+
+
+"<ubaquaticis>"
+	"*ubaquaticis"
+
+
+"<incultius>"
+	"*incultius"
+
+
+"<Compar>"
+	"*Compar"
+
+
+"<irrealia>"
+	"*irrealia"
+
+
+"<Dreadful>"
+	"*Dreadful"
+
+
+"<Sapandowski>"
+	"*Sapandowski"
+
+
+"<Capitulorum>"
+	"capitulus" n m pl gen
+
+6711 ^
+"<,>"
+	"," cm
+
+
+"<cultigenarum>"
+	"*cultigenarum"
+
+
+"<Chabeuil>"
+	"*Chabeuil"
+
+
+"<resolvunt>"
+	"*resolvunt"
+
+
+"<Paulicianismus>"
+	"*Paulicianismus"
+
+
+"<relaxari>"
+	"*relaxari"
+
+
+"<Landgraf>"
+	"*Landgraf"
+
+
+"<Sofferenza>"
+	"*Sofferenza"
+
+
+"<vericulis>"
+	"*vericulis"
+
+
+"<Tarvisani>"
+	"*Tarvisani"
+
+
+"<Calon>"
+	"*Calon"
+
+
+"<Quadrae>"
+	"quadra" n f sg gen
+	"quadra" n f sg dat
+	"quadra" n f sg loc
+	"quadra" n f pl nom
+	"quadra" n f pl voc
+
+
+"<Polhemi>"
+	"*Polhemi"
+
+
+"<Engolismensis>"
+	"*Engolismensis"
+
+
+"<Canterac>"
+	"*Canterac"
+
+
+"<Lidoricio>"
+	"*Lidoricio"
+
+
+"<Rubicundus>"
+	"rubicundus" adj m sg nom
+
+
+"<Warnécourt>"
+	"*Warnécourt"
+
+
+"<Kingiseppiano>"
+	"*Kingiseppiano"
+
+
+"<podager>"
+	"*podager"
+
+
+"<imminuenda>"
+	"*imminuenda"
+
+
+"<maupeigné>"
+	"*maupeigné"
+
+
+"<judicio>"
+	"*judicio"
+
+
+"<Fungit>"
+	"*Fungit"
+
+
+"<anticonsumptiva>"
+	"*anticonsumptiva"
+
+
+"<rusticior>"
+	"*rusticior"
+
+
+"<incorporavit>"
+	"*incorporavit"
+
+
+"<ebrietati>"
+	"ebrietatis" n f sg dat
+
+
+"<monstrabunt>"
+	"monstrare" vblex fti act p3 pl
+
+
+"<mercatorias>"
+	"*mercatorias"
+
+
+"<Cinquefrondi>"
+	"*Cinquefrondi"
+
+
+"<Participandae>"
+	"*Participandae"
+
+
+"<exitis>"
+	"exit" m pl dat
+	"exit" m pl abl
+	"exit" f pl dat
+	"exit" f pl abl
+	"exit" nt pl dat
+	"exit" nt pl abl
+	"exitus" n f pl loc
+	"exire" vblex pri act p2 pl
+
+
+"<adsectatores>"
+	"*adsectatores"
+
+
+"<piscatumque>"
+	"*piscatumque"
+
+2347 ^
+"<Vinata>"
+	"*Vinata"
+
+
+"<Constitutionis>"
+	"*Constitutionis"
+
+
+"<Mauvaisin>"
+	"*Mauvaisin"
+
+
+"<naones>"
+	"*naones"
+
+
+"<petrelaeocēlidas>"
+	"*petrelaeocēlidas"
+
+
+"<cholaque>"
+	"*cholaque"
+
+
+"<Casassa>"
+	"*Casassa"
+
+
+"<Collicuthiae>"
+	"*Collicuthiae"
+
+
+"<detruncatorium>"
+	"*detruncatorium"
+
+
+"<legend>"
+	"*legend"
+
+
+"<ecessam>"
+	"*ecessam"
+
+
+"<Porletiae>"
+	"*Porletiae"
+
+
+"<durationum>"
+	"*durationum"
+
+
+"<Rairies>"
+	"*Rairies"
+
+
+"<Carolingiani>"
+	"*Carolingiani"
+
+
+"<Alphabet>"
+	"*Alphabet"
+
+
+"<Hermiae>"
+	"*Hermiae"
+
+
+"<permiserit>"
+	"permisisse" vblex ftp act p3 sg
+
+
+"<Moistici>"
+	"*Moistici"
+
+
+"<classificatarum>"
+	"*classificatarum"
+
+
+"<iudoka>"
+	"*iudoka"
+
+
+"<pulcherrimaque>"
+	"*pulcherrimaque"
+
+
+
+"<joculariter>"
+	"*joculariter"
+
+
+"<Hamaxobios>"
+	"*Hamaxobios"
+
+
+"<Clusius>"
+	"*Clusius"
+
+
+"<Mulam>"
+	"mula" n f sg acc
+
+
+"<continuavere>"
+	"*continuavere"
+
+
+"<iniuncta>"
+	"*iniuncta"
+
+
+"<nativos>"
+	"*nativos"
+
+
+"<pariet>"
+	"*pariet"
+
+
+"<Diomedeis>"
+	"*Diomedeis"
+
+
+"<Curvi>"
+	"*Curvi"
+
+
+"<Thaenae>"
+	"*Thaenae"
+
+
+"<Yeshivae>"
+	"*Yeshivae"
+
+
+"<barbouri>"
+	"*barbouri"
+
+
+"<orchidis>"
+	"*orchidis"
+
+
+"<Vignatico>"
+	"*Vignatico"
+
+
+"<familiarius>"
+	"*familiarius"
+
+
+"<Herré>"
+	"*Herré"
+
+
+"<Mosquensis>"
+	"*Mosquensis"
+
+
+"<decretu>"
+	"*decretu"
+
+
+"<meditando>"
+	"*meditando"
+
+
+"<humiliabatur>"
+	"humiliare" vblex pii psv p3 sg
+
+
+"<funebrium>"
+	"funebris" adj m pl gen
+	"funebris" adj f pl gen
+	"funebris" adj nt pl gen
+
+
+"<Urracae>"
+	"*Urracae"
+
+
+"<Mithridates>"
+	"*Mithridates"
+
+
+"<producerunt>"
+	"*producerunt"
+
+
+"<Stojanov>"
+	"*Stojanov"
+
+
+"<alutatione>"
+	"*alutatione"
+
+
+"<Helenium>"
+	"*Helenium"
+
+
+"<Keldy>"
+	"*Keldy"
+
+
+"<promotionalibus>"
+	"*promotionalibus"
+
+
+"<Militianam>"
+	"*Militianam"
+
+
+"<Paterculo>"
+	"*Paterculo"
+
+
+"<illuministae>"
+	"*illuministae"
+
+
+"<ympatheticos>"
+	"*ympatheticos"
+
+
+"<Carinam>"
+	"carina" n f sg acc
+
+
+"<Polyneices>"
+	"*Polyneices"
+
+
+"<admmirables>"
+	"*admmirables"
+
+
+"<interrogativo>"
+	"*interrogativo"
+
+
+"<Cabalienses>"
+	"*Cabalienses"
+
+
+"<Narvaëzius>"
+	"*Narvaëzius"
+
+
+"<portatile>"
+	"*portatile"
+
+
+"<novogeniti>"
+	"*novogeniti"
+
+
+"<Cyperacearum>"
+	"*Cyperacearum"
+
+
+"<Yhombi>"
+	"*Yhombi"
+
+
+"<Meiktila>"
+	"*Meiktila"
+
+1571 ^
+"<Cesco>"
+	"*Cesco"
+
+
+"<macrocanonica>"
+	"*macrocanonica"
+
+
+"<Couffoulens>"
+	"*Couffoulens"
+
+
+"<Sosianus>"
+	"*Sosianus"
+
+
+"<Axonamque>"
+	"*Axonamque"
+
+
+"<Bhagalpur>"
+	"*Bhagalpur"
+
+
+"<Arecaceis>"
+	"*Arecaceis"
+
+
+"<Almere>"
+	"*Almere"
+
+
+"<Mantianum>"
+	"*Mantianum"
+
+
+"<unaquaeque>"
+	"*unaquaeque"
+
+
+"<reeligi>"
+	"*reeligi"
+
+
+"<pilosam>"
+	"pilosus" adj f sg acc
+
+
+"<Renac>"
+	"*Renac"
+
+
+"<Frais>"
+	"*Frais"
+
+
+"<Épines>"
+	"*Épines"
+
+
+"<HESAM>"
+	"*HESAM"
+
+
+"<esperantidas>"
+	"*esperantidas"
+
+
+"<Cenomanos>"
+	"*Cenomanos"
+
+
+"<phylloidum>"
+	"*phylloidum"
+
+
+"<abnepos>"
+	"*abnepos"
+
+
+"<piscatores>"
+	"*piscatores"
+
+
+"<tantisper>"
+	"*tantisper"
+
+
+"<Alcorconum>"
+	"*Alcorconum"
+
+
+"<Viggiona>"
+	"*Viggiona"
+
+
+"<umebatur>"
+	"*umebatur"
+
+
+"<tagnantes>"
+	"*tagnantes"
+
+
+"<Lauriana>"
+	"*Lauriana"
+
+
+"<clivicola>"
+	"*clivicola"
+
+
+"<Sonntagsblatt>"
+	"*Sonntagsblatt"
+
+
+"<Thoricum>"
+	"*Thoricum"
+
+
+"<Zaporohianus>"
+	"*Zaporohianus"
+
+
+"<posthumae>"
+	"*posthumae"
+
+
+"<Samtoy>"
+	"*Samtoy"
+
+
+"<implicantem>"
+	"*implicantem"
+
+
+"<Tapias>"
+	"*Tapias"
+
+
+"<aeuo>"
+	"*aeuo"
+
+
+"<Ogygium>"
+	"*Ogygium"
+
+
+"<conservandum>"
+	"*conservandum"
+
+
+"<Bosselshausen>"
+	"*Bosselshausen"
+
+
+"<goodfellowi>"
+	"*goodfellowi"
+
+
+"<Flexanville>"
+	"*Flexanville"
+
+
+"<horizontalis>"
+	"*horizontalis"
+
+
+"<reincarnari>"
+	"*reincarnari"
+
+"^
+"<Arcade>"
+	"*Arcade"
+
+
+"<collapsi>"
+	"*collapsi"
+
+
+"<Canilli>"
+	"*Canilli"
+
+
+"<Dantis>"
+	"*Dantis"
+
+
+"<perstetit>"
+	"*perstetit"
+
+
+"<Miliarii>"
+	"miliarium" n nt sg gen
+
+
+"<aedifcta>"
+	"*aedifcta"
+
+
+"<insolenter>"
+	"insolenter" adv
+
+
+"<Tosto>"
+	"tost" m sg dat
+	"tost" m sg abl
+	"tost" nt sg dat
+	"tost" nt sg abl
+
+
+"<peculiaritatesque>"
+	"*peculiaritatesque"
+
+
+"<transvexissent>"
+	"*transvexissent"
+
+
+"<punkicus>"
+	"*punkicus"
+
+
+"<coniungentis>"
+	"*coniungentis"
+
+
+"<Officialis>"
+	"*Officialis"
+
+
+"<Meschers>"
+	"*Meschers"
+
+
+"<Gorgades>"
+	"*Gorgades"
+
+
+"<Pagsanjan>"
+	"*Pagsanjan"
+
+
+"<vulgat>"
+	"vulgare" vblex pri act p3 sg
+
+
+"<Ariadná>"
+	"*Ariadná"
+
+
+"<Amazonensis>"
+	"*Amazonensis"
+
+
+"<papaque>"
+	"*papaque"
+
+
+"<Bytów>"
+	"*Bytów"
+
+
+"<usurpentur>"
+	"*usurpentur"
+
+
+"<postulaverant>"
+	"postulavisse" vblex pmp act p3 pl
+
+18 762 ^
+"<incolas>"
+	"incola" n m sg gen
+	"incola" n m pl acc
+	"incola" n f sg gen
+	"incola" n f pl acc
+
+
+"<Triangulare>"
+	"*Triangulare"
+
+
+"<Necnon>"
+	"necnon" cnjcoo
+
+
+"<conservaverint>"
+	"conservavisse" vblex ftp act p3 pl
+
+
+"<Circaeum>"
+	"*Circaeum"
+
+
+"<Houston>"
+	"*Houston"
+
+
+"<Tendo>"
+	"tendere" vblex pri act p1 sg
+
+
+"<Maráming>"
+	"*Maráming"
+
+
+"<Cabidos>"
+	"*Cabidos"
+
+
+"<prosaice>"
+	"*prosaice"
+
+
+"<Shalimarensibus>"
+	"*Shalimarensibus"
+
+
+"<Adiunctio>"
+	"*Adiunctio"
+
+5334 ^
+"<,>"
+	"," cm
+
+
+"<Indograecus>"
+	"*Indograecus"
+
+
+"<Marjatta>"
+	"*Marjatta"
+
+
+"<tinguendis>"
+	"*tinguendis"
+
+
+"<Jumella>"
+	"*Jumella"
+
+
+"<Chremetem>"
+	"*Chremetem"
+
+
+"<Robyn>"
+	"*Robyn"
+
+
+"<Ibuse>"
+	"*Ibuse"
+
+
+"<phaeosoma>"
+	"*phaeosoma"
+
+7957 ^
+"<,>"
+	"," cm
+
+"^
+"<Betanga>"
+	"*Betanga"
+
+
+"<Trémery>"
+	"*Trémery"
+
+
+"<ruralemque>"
+	"*ruralemque"
+
+
+"<indevotione>"
+	"*indevotione"
+
+
+"<cristianos>"
+	"*cristianos"
+
+"^
+"<Pollutio>"
+	"*Pollutio"
+
+
+"<Sordidatus>"
+	"sordidatus" adj m sg nom
+
+
+"<Gallana>"
+	"*Gallana"
+
+
+"<diserti>"
+	"*diserti"
+
+
+"<Mortes>"
+	"mortis" n f pl nom
+	"mortis" n f pl voc
+	"mortis" n f pl acc
+
+
+"<Biure>"
+	"*Biure"
+
+
+"<monda>"
+	"*monda"
+
+
+"<Freibrief>"
+	"*Freibrief"
+
+
+"<aedifatus>"
+	"*aedifatus"
+
+
+"<Lakota>"
+	"*Lakota"
+
+
+"<deae>"
+	"dea" n f sg gen
+	"dea" n f sg dat
+	"dea" n f sg loc
+	"dea" n f pl nom
+	"dea" n f pl voc
+
+
+"<volcanicasque>"
+	"*volcanicasque"
+
+
+"<repetitis>"
+	"repetit" m pl dat
+	"repetit" m pl abl
+	"repetit" f pl dat
+	"repetit" f pl abl
+	"repetit" nt pl dat
+	"repetit" nt pl abl
+	"repetere" vblex pri act p2 pl
+
+
+"<medialium>"
+	"*medialium"
+
+
+"<duplicum>"
+	"*duplicum"
+
+
+"<annunciator>"
+	"*annunciator"
+
+
+"<Guo>"
+	"*Guo"
+
+
+"<Homeriana>"
+	"*Homeriana"
+
+
+"<Coscogno>"
+	"*Coscogno"
+
+686 ^
+"<Gersuind>"
+	"*Gersuind"
+
+
+"<Saluatoris>"
+	"*Saluatoris"
+
+
+"<dirham>"
+	"*dirham"
+
+
+"<dolio>"
+	"dolium" n nt sg dat
+	"dolium" n nt sg abl
+	"dolium" n nt sg loc
+
+
+"<damnari>"
+	"*damnari"
+
+
+"<Carthusianum>"
+	"*Carthusianum"
+
+
+"<Cipo>"
+	"cipere" vblex pri act p1 sg
+	"cipare" vblex pri act p1 sg
+
+
+"<quinquagintatribus>"
+	"*quinquagintatribus"
+
+
+"<Agathadamas>"
+	"*Agathadamas"
+
+
+"<rexve>"
+	"*rexve"
+
+
+"<individual>"
+	"*individual"
+
+
+"<Valdemarus>"
+	"*Valdemarus"
+
+
+"<praetoria>"
+	"praetorius" adj f sg nom
+	"praetorius" adj f sg voc
+	"praetorius" adj nt pl nom
+	"praetorius" adj nt pl voc
+	"praetorius" adj nt pl acc
+	"praetorium" n nt pl nom
+	"praetorium" n nt pl voc
+	"praetorium" n nt pl acc
+
+
+"<cosmopolitanismo>"
+	"*cosmopolitanismo"
+
+
+"<Artés>"
+	"*Artés"
+
+
+"<alloquatur>"
+	"*alloquatur"
+
+
+"<Andegavis>"
+	"*Andegavis"
+
+
+"<pragmatismus>"
+	"*pragmatismus"
+
+
+"<Mercato>"
+	"mercatus" n f sg dat
+	"mercatus" n f sg abl
+
+
+"<maculosos>"
+	"*maculosos"
+
+
+"<Portolanus>"
+	"*Portolanus"
+
+
+"<Iritio>"
+	"*Iritio"
+
+
+"<purget>"
+	"*purget"
+
+
+"<Voinémont>"
+	"*Voinémont"
+
+
+"<Sosicratem>"
+	"*Sosicratem"
+
+
+"<Álftanes>"
+	"*Álftanes"
+
+
+"<nephropidae>"
+	"*nephropidae"
+
+
+"<ligatas>"
+	"ligat" f pl acc
+
+
+"<CaSO>"
+	"cas" m sg dat
+	"cas" m sg abl
+	"cas" nt sg dat
+	"cas" nt sg abl
+	"casus" n f sg dat
+	"casus" n f sg abl
+
+
+"<orarum>"
+	"ora" n f pl gen
+
+
+"<Girodii>"
+	"*Girodii"
+
+
+"<Tradonicus>"
+	"*Tradonicus"
+
+
+"<Cinnamo>"
+	"cinnamum" n nt sg dat
+	"cinnamum" n nt sg abl
+	"cinnamum" n nt sg loc
+
+
+"<Thermoplastica>"
+	"*Thermoplastica"
+
+
+"<consequentialismo>"
+	"*consequentialismo"
+
+
+"<duodevicensima>"
+	"*duodevicensima"
+
+
+"<Quirigna>"
+	"*Quirigna"
+
+
+"<instituita>"
+	"*instituita"
+
+
+"<McBride>"
+	"*McBride"
+
+
+"<harrisii>"
+	"*harrisii"
+
+
+"<Negat>"
+	"negare" vblex pri act p3 sg
+
+
+"<Molense>"
+	"*Molense"
+
+
+"<Altagène>"
+	"*Altagène"
+
+
+"<Longueil>"
+	"*Longueil"
+
+
+"<diurnii>"
+	"*diurnii"
+
+
+"<Vaitupu>"
+	"*Vaitupu"
+
+
+"<Jeane>"
+	"*Jeane"
+
+
+"<Maulbrunnense>"
+	"*Maulbrunnense"
+
+
+"<diffindens>"
+	"*diffindens"
+
+
+"<vestalibus>"
+	"*vestalibus"
+
+
+"<provincias>"
+	"provincia" n f sg gen
+	"provincia" n f pl acc
+
+515 ^
+"<,>"
+	"," cm
+
+
+"<rediit>"
+	"rediisse" vblex ifi act p3 sg
+
+
+"<dermate>"
+	"*dermate"
+
+
+"<denigratissimae>"
+	"*denigratissimae"
+
+
+"<Antietamensis>"
+	"*Antietamensis"
+
+
+"<composituram>"
+	"*composituram"
+
+
+"<acceptatum>"
+	"*acceptatum"
+
+
+"<Aranbizkarra>"
+	"*Aranbizkarra"
+
+
+"<Milano>"
+	"*Milano"
+
+
+"<coridon>"
+	"*coridon"
+
+
+"<Gasis>"
+	"*Gasis"
+
+
+"<Tecti>"
+	"tect" m sg gen
+	"tect" m pl nom
+	"tect" m pl voc
+	"tect" nt sg gen
+	"tectum" n nt sg gen
+
+
+"<Benotius>"
+	"*Benotius"
+
+
+"<Noina>"
+	"*Noina"
+
+
+"<Bratu>"
+	"*Bratu"
+
+
+"<unificata>"
+	"*unificata"
+
+
+"<imiliaque>"
+	"*imiliaque"
+
+
+"<Rusadir>"
+	"*Rusadir"
+
+8887 ^
+"<,>"
+	"," cm
+
+
+"<Kayanzae>"
+	"*Kayanzae"
+
+
+"<Allamanaz>"
+	"*Allamanaz"
+
+
+"<Avarice>"
+	"*Avarice"
+
+
+"<Limeliters>"
+	"*Limeliters"
+
+"^
+"<Iustitia>"
+	"iustitia" n f sg nom
+	"iustitia" n f sg voc
+	"iustitia" n f sg abl
+	"iustitium" n nt pl nom
+	"iustitium" n nt pl voc
+	"iustitium" n nt pl acc
+
+
+"<Angoliani>"
+	"*Angoliani"
+
+
+"<Chiliarcus>"
+	"*Chiliarcus"
+
+
+"<praesidit>"
+	"*praesidit"
+
+
+"<Raphana>"
+	"*Raphana"
+
+
+"<Umah>"
+	"*Umah"
+
+"^
+"<Agliastreto>"
+	"*Agliastreto"
+
+
+"<famulum>"
+	"famulus" n m sg acc
+
+
+"<Emmanuelssegen>"
+	"*Emmanuelssegen"
+
+
+"<coronariae>"
+	"coronarius" adj f sg gen
+	"coronarius" adj f sg dat
+	"coronarius" adj f pl nom
+	"coronarius" adj f pl voc
+
+3685 ^
+"<,>"
+	"," cm
+
+
+"<eschatologiarum>"
+	"*eschatologiarum"
+
+
+"<Hair>"
+	"*Hair"
+
+
+"<Salondenken>"
+	"*Salondenken"
+
+
+"<natantem>"
+	"*natantem"
+
+
+"<Lelantinum>"
+	"*Lelantinum"
+
+
+"<excipiendorum>"
+	"*excipiendorum"
+
+
+"<inicientes>"
+	"*inicientes"
+
+
+"<Mediceo>"
+	"*Mediceo"
+
+
+"<Merculianum>"
+	"*Merculianum"
+
+
+"<pronior>"
+	"*pronior"
+
+
+"<adiuvere>"
+	"*adiuvere"
+
+
+"<bibliothecariam>"
+	"*bibliothecariam"
+
+
+"<Fracastorius>"
+	"*Fracastorius"
+
+
+"<Ipwegermoor>"
+	"*Ipwegermoor"
+
+
+"<discrepantissimi>"
+	"*discrepantissimi"
+
+
+"<praevalebat>"
+	"*praevalebat"
+
+
+"<estoire>"
+	"*estoire"
+
+
+"<Institutique>"
+	"*Institutique"
+
+
+"<Pollard>"
+	"*Pollard"
+
+
+"<fulgidas>"
+	"*fulgidas"
+
+
+"<infectiosos>"
+	"*infectiosos"
+
+
+"<Gerbing>"
+	"*Gerbing"
+
+
+"<decorem>"
+	"*decorem"
+
+
+"<ignoratus>"
+	"ignorat" m sg nom
+
+
+"<Aureolus>"
+	"aureolus" adj m sg nom
+
+
+"<Phanum>"
+	"*Phanum"
+
+
+"<contaminabant>"
+	"contaminare" vblex pii act p3 pl
+
+
+"<generalisata>"
+	"*generalisata"
+
+
+"<conditoribus>"
+	"*conditoribus"
+
+
+"<epigrammatibus>"
+	"*epigrammatibus"
+
+
+"<Saverrio>"
+	"*Saverrio"
+
+
+"<Iappae>"
+	"*Iappae"
+
+
+"<tipendiatus>"
+	"*tipendiatus"
+
+
+"<conloqui>"
+	"*conloqui"
+
+
+"<Selinumtius>"
+	"*Selinumtius"
+
+
+"<Castelao>"
+	"*Castelao"
+
+
+"<Vishnus>"
+	"*Vishnus"
+
+
+"<Sambesem>"
+	"*Sambesem"
+
+
+"<demonstrandos>"
+	"*demonstrandos"
+
+
+"<Fantajī>"
+	"*Fantajī"
+
+
+"<egenorumque>"
+	"*egenorumque"
+
+
+"<Sj>"
+	"*Sj"
+
+
+"<Delbet>"
+	"*Delbet"
+
+
+"<contractiones>"
+	"*contractiones"
+
+
+"<Dramaticae>"
+	"*Dramaticae"
+
+
+"<dodecade>"
+	"*dodecade"
+
+
+"<Photogramma>"
+	"*Photogramma"
+
+
+"<Bucitensis>"
+	"*Bucitensis"
+
+495 ^
+"<Eulalia>"
+	"*Eulalia"
+
+
+"<transhumanismum>"
+	"*transhumanismum"
+
+
+"<contractam>"
+	"contract" f sg acc
+	"contractus" adj f sg acc
+
+
+"<vexabantur>"
+	"vexare" vblex pii psv p3 pl
+
+
+"<molebatur>"
+	"molere" vblex pii psv p3 sg
+
+
+"<latumiis>"
+	"*latumiis"
+
+
+"<Antliae>"
+	"*Antliae"
+
+
+"<Cesani>"
+	"*Cesani"
+
+
+"<assumunt>"
+	"*assumunt"
+
+
+"<Cyzicenus>"
+	"*Cyzicenus"
+
+
+"<caligam>"
+	"caliga" n f sg acc
+
+209 ^
+"<Dido>"
+	"*Dido"
+
+
+"<Iuventia>"
+	"*Iuventia"
+
+
+"<Forché>"
+	"*Forché"
+
+
+"<affixa>"
+	"*affixa"
+
+
+"<Cellettes>"
+	"*Cellettes"
+
+
+"<Silo>"
+	"*Silo"
+
+
+"<Pectoris>"
+	"pectus" n nt sg gen
+
+
+"<Birtalan>"
+	"*Birtalan"
+
+
+"<Iconienses>"
+	"*Iconienses"
+
+
+"<praeficitur>"
+	"praeficere" vblex pri psv p3 sg
+
+
+"<peragenti>"
+	"*peragenti"
+
+
+"<Poëmata>"
+	"*Poëmata"
+
+
+"<participandorum>"
+	"*participandorum"
+
+
+"<frappées>"
+	"*frappées"
+
+
+"<contemptoribus>"
+	"*contemptoribus"
+
+5415 ^
+"<,>"
+	"," cm
+
+
+"<defenduerunt>"
+	"*defenduerunt"
+
+
+"<Interclusum>"
+	"*Interclusum"
+
+
+"<Gergis>"
+	"*Gergis"
+
+
+"<panduriis>"
+	"*panduriis"
+
+
+"<aperturis>"
+	"*aperturis"
+
+
+"<Sefeldenses>"
+	"*Sefeldenses"
+
+
+"<definitioni>"
+	"*definitioni"
+
+
+"<Calmucciae>"
+	"*Calmucciae"
+
+
+"<fabricationibus>"
+	"*fabricationibus"
+
+
+"<Baducco>"
+	"*Baducco"
+
+
+"<adstabant>"
+	"*adstabant"
+
+
+"<Gnoscae>"
+	"*Gnoscae"
+
+
+"<furiously>"
+	"*furiously"
+
+
+"<Queralbs>"
+	"*Queralbs"
+
+
+"<Pusy>"
+	"*Pusy"
+
+
+"<Fragnete>"
+	"*Fragnete"
+
+
+"<mulieresque>"
+	"*mulieresque"
+
+3689 ^
+"<,>"
+	"," cm
+
+
+"<Goettingensis>"
+	"*Goettingensis"
+
+
+"<Kerrigan>"
+	"*Kerrigan"
+
+
+"<Macuirensis>"
+	"*Macuirensis"
+
+
+"<ustinui>"
+	"*ustinui"
+
+
+"<obterebant>"
+	"*obterebant"
+
+
+"<excelsioras>"
+	"*excelsioras"
+
+
+"<nauticis>"
+	"*nauticis"
+
+
+"<praebendi>"
+	"*praebendi"
+
+
+"<aliquem>"
+	"*aliquem"
+
+
+"<Godall>"
+	"*Godall"
+
+
+"<Ebur>"
+	"*Ebur"
+
+
+"<meteoroidis>"
+	"*meteoroidis"
+
+
+"<bellua>"
+	"*bellua"
+
+
+"<Antipapam>"
+	"*Antipapam"
+
+
+"<Theodiscorum>"
+	"*Theodiscorum"
+
+
+"<locuplete>"
+	"*locuplete"
+
+
+"<Quercupole>"
+	"*Quercupole"
+
+
+"<Zionismus>"
+	"*Zionismus"
+
+
+"<Cairanne>"
+	"*Cairanne"
+
+
+"<proficiscantur>"
+	"*proficiscantur"
+
+
+"<parlamentaricus>"
+	"*parlamentaricus"
+
+
+"<Auscultabulum>"
+	"*Auscultabulum"
+
+
+"<ribosomate>"
+	"*ribosomate"
+
+
+"<Vladislao>"
+	"*Vladislao"
+
+
+"<industrializatione>"
+	"*industrializatione"
+
+
+"<Hé>"
+	"*Hé"
+
+
+"<Natron>"
+	"*Natron"
+
+
+"<Civicae>"
+	"civicus" adj f sg gen
+	"civicus" adj f sg dat
+	"civicus" adj f pl nom
+	"civicus" adj f pl voc
+
+1650 ^
+"<,>"
+	"," cm
+
+
+"<theoreticōrum>"
+	"*theoreticōrum"
+
+
+"<Prono>"
+	"*Prono"
+
+
+"<Frustrato>"
+	"*Frustrato"
+
+2352 ^
+"<,>"
+	"," cm
+
+
+"<Savines>"
+	"*Savines"
+
+
+"<rumpentes>"
+	"*rumpentes"
+
+
+"<Chambonas>"
+	"*Chambonas"
+
+
+"<Kennicott>"
+	"*Kennicott"
+
+"^
+"<Ptolemaius>"
+	"*Ptolemaius"
+
+
+"<progeniei>"
+	"*progeniei"
+
+
+"<eorso>"
+	"*eorso"
+
+
+"<hippie>"
+	"*hippie"
+
+
+"<leucas>"
+	"*leucas"
+
+
+"<ceramicam>"
+	"*ceramicam"
+
+
+"<Sofignano>"
+	"*Sofignano"
+
+
+"<Haromszékensis>"
+	"*Haromszékensis"
+
+
+"<muliere>"
+	"mulieris" n f sg voc
+	"mulieris" n f sg abl
+	"mulieris" n f sg loc
+
+
+"<lixit>"
+	"*lixit"
+
+
+"<Boegner>"
+	"*Boegner"
+
+1561 ^
+"<Fricke>"
+	"*Fricke"
+
+
+"<vialium>"
+	"*vialium"
+
+
+"<EMM>"
+	"*EMM"
+
+
+"<negotiabant>"
+	"*negotiabant"
+
+
+"<Mashaal>"
+	"*Mashaal"
+
+
+"<onax>"
+	"*onax"
+
+
+"<intercessissent>"
+	"*intercessissent"
+
+
+"<anctifices>"
+	"*anctifices"
+
+
+"<Minehead>"
+	"*Minehead"
+
+825 ^
+"<Tanina>"
+	"*Tanina"
+
+
+"<defuerit>"
+	"defuisse" vblex ftp act p3 sg
+
+
+"<Occiduis>"
+	"*Occiduis"
+
+
+"<conspiravisse>"
+	"*conspiravisse"
+
+
+"<plendorisque>"
+	"*plendorisque"
+
+
+"<inferente>"
+	"*inferente"
+
+
+"<eiaculationes>"
+	"*eiaculationes"
+
+
+"<Primatum>"
+	"*Primatum"
+
+
+"<Cyrenes>"
+	"*Cyrenes"
+
+
+"<actorium>"
+	"*actorium"
+
+
+"<Strymon>"
+	"*Strymon"
+
+
+"<Amalrico>"
+	"*Amalrico"
+
+
+"<taediosam>"
+	"*taediosam"
+
+
+"<Assyrii>"
+	"*Assyrii"
+
+
+"<Zirkusprinzessin>"
+	"*Zirkusprinzessin"
+
+
+"<aliformia>"
+	"*aliformia"
+
+
+"<arua>"
+	"*arua"
+
+1622 ^
+"<,>"
+	"," cm
+
+
+"<Toceium>"
+	"*Toceium"
+
+
+"<Groce>"
+	"*Groce"
+
+
+"<incriptionibus>"
+	"*incriptionibus"
+
+
+"<Tiernstainensis>"
+	"*Tiernstainensis"
+
+
+"<Cantabrigiam>"
+	"*Cantabrigiam"
+
+
+"<Caudry>"
+	"*Caudry"
+
+7212 ^
+"<,>"
+	"," cm
+
+
+"<Pyuvicum>"
+	"*Pyuvicum"
+
+
+"<methodologiarum>"
+	"*methodologiarum"
+
+
+"<Montauville>"
+	"*Montauville"
+
+
+"<Andrian>"
+	"*Andrian"
+
+
+"<adiuncturam>"
+	"*adiuncturam"
+
+1713 ^
+"<Bancilhon>"
+	"*Bancilhon"
+
+
+"<Particularum>"
+	"particula" n f pl gen
+
+
+"<palaeograeco>"
+	"*palaeograeco"
+
+
+"<Hamelensem>"
+	"*Hamelensem"
+
+
+"<Yuggothis>"
+	"*Yuggothis"
+
+
+"<Indigenae>"
+	"indigena" n f sg gen
+	"indigena" n f sg dat
+	"indigena" n f sg loc
+	"indigena" n f pl nom
+	"indigena" n f pl voc
+	"indigenus" adj f sg gen
+	"indigenus" adj f sg dat
+	"indigenus" adj f pl nom
+	"indigenus" adj f pl voc
+
+
+"<Alalaei>"
+	"*Alalaei"
+
+
+"<asteroideorum>"
+	"*asteroideorum"
+
+
+"<Popayán>"
+	"*Popayán"
+
+
+"<Lepidosauria>"
+	"*Lepidosauria"
+
+
+"<Helias>"
+	"*Helias"
+
+
+"<Sosibio>"
+	"*Sosibio"
+
+
+"<mutabilium>"
+	"mutabilis" adj m pl gen
+	"mutabilis" adj f pl gen
+	"mutabilis" adj nt pl gen
+
+
+"<Cates>"
+	"*Cates"
+
+
+"<Sepala>"
+	"*Sepala"
+
+
+"<obscuritatisque>"
+	"*obscuritatisque"
+
+
+"<Tonganorum>"
+	"*Tonganorum"
+
+1280 ^
+"<Baillauda>"
+	"*Baillauda"
+
+
+"<uverenitate>"
+	"*uverenitate"
+
+
+"<Mischiu>"
+	"*Mischiu"
+
+2890 ^
+"<Vilyujsk>"
+	"*Vilyujsk"
+
+
+"<Clérey>"
+	"*Clérey"
+
+
+"<Niali>"
+	"*Niali"
+
+1608 ^
+"<,>"
+	"," cm
+
+
+"<Avot>"
+	"*Avot"
+
+
+"<Deutscher>"
+	"*Deutscher"
+
+
+"<agninam>"
+	"*agninam"
+
+
+"<necton>"
+	"*necton"
+
+
+"<regantur>"
+	"*regantur"
+
+
+"<Necyclopaedia>"
+	"*Necyclopaedia"
+
+
+"<ubsuperficiei>"
+	"*ubsuperficiei"
+
+
+"<Planitiae>"
+	"*Planitiae"
+
+
+"<negativam>"
+	"*negativam"
+
+3270 ^
+"<Dudley>"
+	"*Dudley"
+
+
+"<atiat>"
+	"*atiat"
+
+
+"<dereyto>"
+	"*dereyto"
+
+
+"<Polpraserth>"
+	"*Polpraserth"
+
+
+"<diripiere>"
+	"*diripiere"
+
+
+"<Fiducia>"
+	"fiducia" n f sg nom
+	"fiducia" n f sg voc
+	"fiducia" n f sg abl
+
+
+"<Robinho>"
+	"*Robinho"
+
+
+"<Scy>"
+	"*Scy"
+
+
+"<Scita>"
+	"scit" nt pl nom
+	"scit" nt pl voc
+	"scit" nt pl acc
+	"scit" f sg nom
+	"scit" f sg voc
+	"scit" f sg abl
+	"scitus" adj f sg nom
+	"scitus" adj f sg voc
+	"scitus" adj nt pl nom
+	"scitus" adj nt pl voc
+	"scitus" adj nt pl acc
+	"scitum" n nt pl nom
+	"scitum" n nt pl voc
+	"scitum" n nt pl acc
+
+
+"<Optionum>"
+	"*Optionum"
+
+
+"<Victoriosa>"
+	"*Victoriosa"
+
+
+"<Frumenti>"
+	"frumentum" n nt sg gen
+
+
+"<Gheynst>"
+	"*Gheynst"
+
+
+"<Oscoumbricis>"
+	"*Oscoumbricis"
+
+
+"<Nados>"
+	"*Nados"
+
+
+"<inferficit>"
+	"*inferficit"
+
+
+"<Wesprim>"
+	"*Wesprim"
+
+
+"<ulphamidica>"
+	"*ulphamidica"
+
+
+"<Béligneux>"
+	"*Béligneux"
+
+
+"<Cantigas>"
+	"*Cantigas"
+
+
+"<caerimoniali>"
+	"*caerimoniali"
+
+
+"<Kemerovensem>"
+	"*Kemerovensem"
+
+
+"<Roboto>"
+	"*Roboto"
+
+
+"<reparabatur>"
+	"reparare" vblex pii psv p3 sg
+
+
+"<Pizzicarizia>"
+	"*Pizzicarizia"
+
+
+"<ruinosae>"
+	"*ruinosae"
+
+
+"<nomos>"
+	"*nomos"
+
+
+"<Fianarantsoa>"
+	"*Fianarantsoa"
+
+
+"<inductivus>"
+	"*inductivus"
+
+
+"<abutens>"
+	"*abutens"
+
+
+"<Amosis>"
+	"*Amosis"
+
+
+"<communicativam>"
+	"*communicativam"
+
+
+"<displosivas>"
+	"*displosivas"
+
+
+"<Requisitum>"
+	"requisit" m sg acc
+	"requisit" nt sg nom
+	"requisit" nt sg voc
+	"requisit" nt sg acc
+
+
+"<Dualismus>"
+	"*Dualismus"
+
+
+"<Darī>"
+	"*Darī"
+
+
+"<feriret>"
+	"*feriret"
+
+
+"<Fannium>"
+	"*Fannium"
+
+
+"<Pace>"
+	"pacis" n f sg voc
+	"pacis" n f sg abl
+	"pacis" n f sg loc
+
+
+"<xl>"
+	"*xl"
+
+
+"<Thonesia>"
+	"*Thonesia"
+
+
+"<Adriaticae>"
+	"*Adriaticae"
+
+
+"<aequandas>"
+	"*aequandas"
+
+
+"<Marcionitas>"
+	"*Marcionitas"
+
+
+
+"<excogitatis>"
+	"*excogitatis"
+
+
+"<Briaticum>"
+	"*Briaticum"
+
+
+"<Coprocessorium>"
+	"*Coprocessorium"
+
+
+"<pecificarum>"
+	"*pecificarum"
+
+
+"<tupefactivum>"
+	"*tupefactivum"
+
+Των ασωμάτων Σεραφείμ^
+"<,>"
+	"," cm
+
+
+"<Westenda>"
+	"*Westenda"
+
+
+"<potorii>"
+	"*potorii"
+
+
+"<Jill>"
+	"*Jill"
+
+610^
+"<:>"
+	":" sent
+
+
+"<consultata>"
+	"*consultata"
+
+
+"<morganaticis>"
+	"*morganaticis"
+
+
+"<Jümme>"
+	"*Jümme"
+
+
+"<Velitrae>"
+	"*Velitrae"
+
+12 ^
+"<est>"
+	"esse" vbser pri p3 sg
+
+
+"<Tiberia>"
+	"*Tiberia"
+
+
+"<cavent>"
+	"cavere" vblex pri act p3 pl
+
+
+"<obtentae>"
+	"obtent" f sg gen
+	"obtent" f sg dat
+	"obtent" f pl nom
+	"obtent" f pl voc
+
+
+"<goeldiana>"
+	"*goeldiana"
+
+
+"<Fredericopolis>"
+	"*Fredericopolis"
+
+
+"<Ullricus>"
+	"*Ullricus"
+
+
+"<Tongguan>"
+	"*Tongguan"
+
+
+"<Bali>"
+	"*Bali"
+
+
+"<comprehensarum>"
+	"*comprehensarum"
+
+
+"<Assaracus>"
+	"*Assaracus"
+
+
+"<Nodi>"
+	"nodus" n m sg gen
+	"nodus" n m pl nom
+	"nodus" n m pl voc
+	"nodum" n nt sg gen
+
+1892 ^
+"<Lucienne>"
+	"*Lucienne"
+
+
+"<Mongalis>"
+	"*Mongalis"
+
+
+"<Frambouhans>"
+	"*Frambouhans"
+
+
+"<Sandvicenses>"
+	"*Sandvicenses"
+
+
+"<Sestriere>"
+	"*Sestriere"
+
+
+"<Mickiewicza>"
+	"*Mickiewicza"
+
+
+"<nihilque>"
+	"*nihilque"
+
+
+"<passionemque>"
+	"*passionemque"
+
+
+"<Lanrodec>"
+	"*Lanrodec"
+
+
+"<Norbu>"
+	"*Norbu"
+
+1703 ^
+"<,>"
+	"," cm
+
+
+"<problematum>"
+	"*problematum"
+
+
+"<inquietum>"
+	"inquietus" adj m sg acc
+	"inquietus" adj nt sg nom
+	"inquietus" adj nt sg voc
+	"inquietus" adj nt sg acc
+
+
+"<ferentur>"
+	"*ferentur"
+
+
+"<dita>"
+	"dit" nt pl nom
+	"dit" nt pl voc
+	"dit" nt pl acc
+	"dit" f sg nom
+	"dit" f sg voc
+	"dit" f sg abl
+
+
+"<Geffrard>"
+	"*Geffrard"
+
+
+"<Carvaniae>"
+	"*Carvaniae"
+
+
+"<Succession>"
+	"*Succession"
+
+
+"<BBKL>"
+	"*BBKL"
+
+
+"<Lovaniense>"
+	"*Lovaniense"
+
+
+"<illicitorum>"
+	"*illicitorum"
+
+
+"<montre>"
+	"*montre"
+
+
+"<Pietrapiana>"
+	"*Pietrapiana"
+
+
+"<Ilissum>"
+	"*Ilissum"
+
+
+"<Albicastrensi>"
+	"*Albicastrensi"
+
+
+"<Fassino>"
+	"*Fassino"
+
+
+"<phelloplasticae>"
+	"*phelloplasticae"
+
+
+"<òrdine>"
+	"*òrdine"
+
+
+"<emiliberam>"
+	"*emiliberam"
+
+
+"<Suzatis>"
+	"*Suzatis"
+
+
+"<McFarland>"
+	"*McFarland"
+
+
+"<Eustachium>"
+	"*Eustachium"
+
+
+"<Geologice>"
+	"*Geologice"
+
+
+"<advenisse>"
+	"*advenisse"
+
+
+"<Fijian>"
+	"*Fijian"
+
+8593 ^
+"<Angustirostris>"
+	"*Angustirostris"
+
+
+"<Pileggi>"
+	"*Pileggi"
+
+
+"<cicatricem>"
+	"*cicatricem"
+
+
+"<gaisha>"
+	"*gaisha"
+
+
+"<audere>"
+	"*audere"
+
+
+"<ducendes>"
+	"*ducendes"
+
+
+"<nodularis>"
+	"*nodularis"
+
+"^
+"<Aggius>"
+	"*Aggius"
+
+
+"<inductae>"
+	"induct" f sg gen
+	"induct" f sg dat
+	"induct" f pl nom
+	"induct" f pl voc
+
+
+"<Princess>"
+	"*Princess"
+
+
+"<oppressisset>"
+	"*oppressisset"
+
+
+"<Formativo>"
+	"*Formativo"
+
+
+"<Kaniovia>"
+	"*Kaniovia"
+
+
+"<Talium>"
+	"*Talium"
+
+
+"<Gom>"
+	"*Gom"
+
+
+"<Valparolo>"
+	"*Valparolo"
+
+
+"<Rotinus>"
+	"*Rotinus"
+
+
+"<irrigata>"
+	"*irrigata"
+
+
+"<exsequantur>"
+	"*exsequantur"
+
+
+"<damnaverat>"
+	"damnavisse" vblex pmp act p3 sg
+
+1706^
+"<:>"
+	":" sent
+
+
+"<ecatae>"
+	"*ecatae"
+
+
+"<geruntur>"
+	"geri" vblex pri act p3 pl
+	"gerere" vblex pri psv p3 pl
+
+
+"<Bactrianos>"
+	"*Bactrianos"
+
+4274 ^
+"<Karamanov>"
+	"*Karamanov"
+
+
+"<tercorum>"
+	"*tercorum"
+
+
+"<huracanum>"
+	"*huracanum"
+
+
+"<Bindahara>"
+	"*Bindahara"
+
+
+"<athematicae>"
+	"*athematicae"
+
+
+"<tunicam>"
+	"tunica" n f sg acc
+
+
+"<iurisdoctus>"
+	"*iurisdoctus"
+
+
+"<Tyernstein>"
+	"*Tyernstein"
+
+
+"<Gilberto>"
+	"*Gilberto"
+
+
+"<aliaribus>"
+	"*aliaribus"
+
+
+"<Foederataruum>"
+	"*Foederataruum"
+
+
+"<adiutans>"
+	"*adiutans"
+
+
+"<marginatur>"
+	"*marginatur"
+
+
+"<Glaucodon>"
+	"*Glaucodon"
+
+
+"<Ribosomas>"
+	"*Ribosomas"
+
+
+"<Fulbertus>"
+	"*Fulbertus"
+
+
+"<ignivomi>"
+	"*ignivomi"
+
+
+"<Tariqah>"
+	"*Tariqah"
+
+
+"<Mo>"
+	"*Mo"
+
+4841 ^
+"<,>"
+	"," cm
+
+
+"<ymbiosis>"
+	"*ymbiosis"
+
+
+"<Valentiniani>"
+	"*Valentiniani"
+
+7304 ^
+"<,>"
+	"," cm
+
+
+"<Inferni>"
+	"*Inferni"
+
+
+"<Bonstetten>"
+	"*Bonstetten"
+
+
+"<Flamsteedus>"
+	"*Flamsteedus"
+
+
+"<pondylosis>"
+	"*pondylosis"
+
+3042 ^
+"<,>"
+	"," cm
+
+
+"<Bucarestense>"
+	"*Bucarestense"
+
+
+"<Cogurionenses>"
+	"*Cogurionenses"
+
+
+"<Stauropolitanum>"
+	"*Stauropolitanum"
+
+
+"<Aequatriae>"
+	"*Aequatriae"
+
+
+"<menstruo>"
+	"*menstruo"
+
+
+"<componens>"
+	"*componens"
+
+
+"<Maenadum>"
+	"*Maenadum"
+
+1549 ^
+"<,>"
+	"," cm
+
+
+"<turbantibus>"
+	"*turbantibus"
+
+
+"<vassus>"
+	"*vassus"
+
+
+"<duodevigintique>"
+	"*duodevigintique"
+
+
+"<proiecierunt>"
+	"*proiecierunt"
+
+
+"<Haemimonto>"
+	"*Haemimonto"
+
+
+"<exspectaverint>"
+	"exspectavisse" vblex ftp act p3 pl
+
+
+"<regicidia>"
+	"*regicidia"
+
+
+"<praesertin>"
+	"*praesertin"
+
+
+"<Iñíguez>"
+	"*Iñíguez"
+
+
+"<Ludovico>"
+	"*Ludovico"
+
+
+"<distortionibus>"
+	"*distortionibus"
+
+
+"<ornithischium>"
+	"*ornithischium"
+
+
+"<habebantur>"
+	"habere" vblex pii psv p3 pl
+
+
+"<autogubernatio>"
+	"*autogubernatio"
+
+
+"<Camam>"
+	"*Camam"
+
+
+"<nemoribus>"
+	"nemus" n nt pl dat
+	"nemus" n nt pl abl
+	"nemus" n nt pl loc
+
+
+"<torreficiebantur>"
+	"*torreficiebantur"
+
+
+"<anctionem>"
+	"*anctionem"
+
+
+"<drîe>"
+	"*drîe"
+
+
+"<ubiquaque>"
+	"*ubiquaque"
+
+
+"<transiluit>"
+	"*transiluit"
+
+
+"<zedoaria>"
+	"*zedoaria"
+
+
+"<ecet>"
+	"*ecet"
+
+
+"<exitiosa>"
+	"exitiosus" adj f sg nom
+	"exitiosus" adj f sg voc
+	"exitiosus" adj nt pl nom
+	"exitiosus" adj nt pl voc
+	"exitiosus" adj nt pl acc
+
+
+"<imprimatos>"
+	"*imprimatos"
+
+
+"<cupiamus>"
+	"*cupiamus"
+
+
+"<perousii>"
+	"*perousii"
+
+
+"<Landscape>"
+	"*Landscape"
+
+
+"<Carpiniello>"
+	"*Carpiniello"
+
+
+"<reportari>"
+	"*reportari"
+
+
+"<Culhuacan>"
+	"*Culhuacan"
+
+
+"<Duplex>"
+	"*Duplex"
+
+
+"<uggestions>"
+	"*uggestions"
+
+
+"<Institut>"
+	"*Institut"
+
+
+"<Campaoré>"
+	"*Campaoré"
+
+
+"<destitit>"
+	"destitisse" vblex ifi act p3 sg
+
+
+"<Gottingensi>"
+	"*Gottingensi"
+
+
+"<PETILIAE>"
+	"*PETILIAE"
+
+
+"<Howden>"
+	"*Howden"
+
+
+"<Vetrana>"
+	"*Vetrana"
+
+
+"<transversalem>"
+	"*transversalem"
+
+
+"<Serro>"
+	"*Serro"
+
+
+"<protectionem>"
+	"*protectionem"
+
+
+"<nuntiet>"
+	"*nuntiet"
+
+
+"<Bishausen>"
+	"*Bishausen"
+
+
+"<Rasulo>"
+	"*Rasulo"
+
+
+"<Moawad>"
+	"*Moawad"
+
+
+"<animadversionibus>"
+	"*animadversionibus"
+
+
+"<nidos>"
+	"nidus" n m pl acc
+
+
+"<Messinae>"
+	"*Messinae"
+
+
+"<Schönherr>"
+	"*Schönherr"
+
+
+"<repugnandis>"
+	"*repugnandis"
+
+
+"<Caudiès>"
+	"*Caudiès"
+
+
+"<discoverer>"
+	"*discoverer"
+
+
+"<Verisimile>"
+	"verisimilis" adj nt sg nom
+	"verisimilis" adj nt sg voc
+	"verisimilis" adj nt sg acc
+
+
+"<Internationellt>"
+	"*Internationellt"
+
+
+"<Carolovicia>"
+	"*Carolovicia"
+
+
+"<mereant>"
+	"*mereant"
+
+
+"<Roberti>"
+	"*Roberti"
+
+"^
+"<Antis>"
+	"antis" n m sg nom
+	"antis" n m sg gen
+	"antis" n f sg nom
+	"antis" n f sg gen
+
+
+"<digni>"
+	"*digni"
+
+
+"<Elsheimer>"
+	"*Elsheimer"
+
+
+"<MCLCIV>"
+	"*MCLCIV"
+
+
+"<Isenbüttel>"
+	"*Isenbüttel"
+
+
+"<Alimentatio>"
+	"*Alimentatio"
+
+"^
+"<Canneto>"
+	"*Canneto"
+
+
+"<halles>"
+	"*halles"
+
+
+"<trophio>"
+	"*trophio"
+
+
+"<Uranianae>"
+	"*Uranianae"
+
+
+"<monstrum>"
+	"monstrum" n nt sg nom
+	"monstrum" n nt sg voc
+	"monstrum" n nt sg acc
+
+
+"<Varzy>"
+	"*Varzy"
+
+
+"<luditores>"
+	"*luditores"
+
+
+"<pecores>"
+	"pecoris" n f pl nom
+	"pecoris" n f pl voc
+	"pecoris" n f pl acc
+
+
+"<Salati>"
+	"*Salati"
+
+
+"<Demagogus>"
+	"*Demagogus"
+
+
+"<Panarabicarum>"
+	"*Panarabicarum"
+
+
+"<Pruzzum>"
+	"*Pruzzum"
+
+
+"<Bamilecium>"
+	"*Bamilecium"
+
+
+"<coercendo>"
+	"*coercendo"
+"<.>"
+	"." sent
+
+
+

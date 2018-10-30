@@ -2,14 +2,26 @@
 DELIMITERS = "<.>" ;
 
 # We can define sets for common tag clusters
-LIST Case = (n s) (n p) ; # A set that matches either a Noun Singular or a Noun Plural
+LIST Case = (nom) (gen) (dat) (abl) (voc) (acc) ;
+LIST Number = (pl) (sg) ;
+LIST Gender = (m) (f) (mf) ;
+LIST Det = (det dem) ;
+LIST Pron = prn ;
+LIST Verb = vblex ;
 
 SECTION
-# If there is a singular noun to the right, I cannot be a verb or noun.
-REMOVE (n) OR (v) IF (1 (n s)) ;
+# Remove determiner if followed by something (noun or adjective) of a different gender number and case.
+REMOVE Det IF (0 $$Case)(0 $$Number)(0 $$Gender)(NOT 1 $$Case)(NOT 1 $$Number)(NOT 1 $$Gender) ;
+
+#Select determiner if followed by something (noun or adjective) of a matching gender number case.
+SELECT Det IF (0 $$Case)(0 $$Number)(0 $$Gender)(1 $$Case)(1 $$Number)(1 $$Gender) ;
+
+#match determiner gender number case
+SELECT $$Case IF (0 Det)(1 $$Case) ;
+SELECT $$Gender IF (0 Det)(1 $$Gender) ;
+SELECT $$Number IF (0 Det)(1 $$Number) ;
 
 # If there is a conjunction followed by a certain cohort of the same CASE as me, choose me.
-SELECT $$Case IF (1 (cnjcoo) LINK 1C $$Case) ;
 
 # Resources:
 # http://visl.sdu.dk/cg3.html
@@ -17,4 +29,3 @@ SELECT $$Case IF (1 (cnjcoo) LINK 1C $$Case) ;
 # http://kevindonnelly.org.uk/2010/05/constraint-grammar-tutorial/
 # http://wiki.apertium.org/wiki/Constraint_Grammar
 # http://wiki.apertium.org/wiki/Apertium_and_Constraint_Grammar
-
